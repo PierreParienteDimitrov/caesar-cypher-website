@@ -1,3 +1,4 @@
+import Image from 'next/image';
 // import styles from '../styles/Home.module.css';
 import { useState, useEffect } from 'react';
 import { ceasarCypher } from './scripts/ceaserCypher';
@@ -14,7 +15,14 @@ export default function Home() {
 
 	return (
 		<div>
-			<h1>Caesar Cypher</h1>
+			<div className='h-96 w-full flex items-center justify-center relative'>
+				<h1 className='text-center text-black z-10'>Caesar's Cypher</h1>
+				<img
+					src='/bgIMG.png'
+					alt=''
+					className='absolute top-0 left-0 h-full w-full z-0'
+				/>
+			</div>
 
 			<form>
 				<input
@@ -24,6 +32,7 @@ export default function Home() {
 					type='text'
 					name='userinput'
 					required
+					className='w-full h-12 bg-gray-50'
 				/>
 			</form>
 
