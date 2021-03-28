@@ -16,15 +16,15 @@ export default function Home() {
 	}, [userInput]);
 
 	return (
-		<div>
-			<div className='h-96 w-full p-4 flex items-center md:w-10/12'>
+		<div className='p-4 md:w-10/12 md:m-auto'>
+			<div className='h-96 w-full flex items-center'>
 				<div>
 					<h1 className='text-black z-10 mb-8'>Caesar's Cypher</h1>
 					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, eos.</p>
 				</div>
 			</div>
 
-			<div className='w-full mb-10ç flex flex-col'>
+			<div className='w-full mb-10 flex flex-col'>
 				<form>
 					<label htmlFor='userinput'>Type your word</label>
 					<input

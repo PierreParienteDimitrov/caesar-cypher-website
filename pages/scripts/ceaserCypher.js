@@ -40,26 +40,6 @@ export const ceasarCypher = (userInput) => {
 						}
 					});
 
-					// allArrays.map((el, index) => {
-					// 	// if (alphabetArray.indexOf(wordEl + index) < alphabetArray.length) {
-					// 	// 	const newArr = el.key.push(alphabetArray[alphaIndex + index]);
-					// 	// } else if (
-					// 	// 	alphabetArray.indexOf(wordEl + index) >= alphabetArray.length
-					// 	// ) {
-					// 	// 	const newArr = el.key.push(alphabetArray[alphaIndex - index]);
-					// 	// }
-					// });
-
-					// if (alphabetArray.indexOf(wordEl + index) < alphabetArray.length) {
-					// 	allArrays.map((el, index) => {
-					// 		// console.log(el.key);
-					// 		const newArr = el.key.push(alphabetArray[alphaIndex + index]);
-					// 		// console.log(newArr);
-					// 	});
-					// } else if (wordEl === 'z') {
-					// 	cesarWordArr.push(alphabetArray[0]);
-					// }
-
 					console.log(allArrays);
 				}
 			});
