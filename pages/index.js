@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { ceasarCypher } from './scripts/ceaserCypher';
+import ceasarCypher from '../scripts/ceaserCypher';
 import styles from '../styles/Home.module.scss';
 
 export default function Home() {

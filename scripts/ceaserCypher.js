@@ -1,4 +1,4 @@
-export const ceasarCypher = (userInput) => {
+const ceasarCypher = (userInput) => {
 	// Initializing word
 	const word = userInput.split(' ').join('').toLowerCase();
 	// console.log(word);
@@ -50,3 +50,5 @@ export const ceasarCypher = (userInput) => {
 
 	return allArrays;
 };
+
+export default ceasarCypher;
