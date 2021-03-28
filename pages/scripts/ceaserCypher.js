@@ -24,18 +24,41 @@ export const ceasarCypher = (userInput) => {
 		createKeys();
 		// console.log(allArrays);
 
-		wordArr.map((wordEl, index) => {
+		wordArr.map((wordEl, wordIndex) => {
 			alphabetArray.map((alphEl, alphaIndex) => {
 				if (wordEl === alphEl) {
-					if (wordEl !== 'z') {
-						allArrays.map((el, index) => {
-							// console.log(el.key);
+					const newIndex = alphabetArray.indexOf(wordEl) + 1;
+					// console.log(newIndex);
+
+					allArrays.map((el, index) => {
+						const counter = newIndex + index;
+						if (counter < 27) {
 							const newArr = el.key.push(alphabetArray[alphaIndex + index]);
-							// console.log(newArr);
-						});
-					} else if (wordEl === 'z') {
-						cesarWordArr.push(alphabetArray[0]);
-					}
+						} else if (counter > 26) {
+							let calc = counter - 27;
+							const newArr = el.key.push(alphabetArray[calc]);
+						}
+					});
+
+					// allArrays.map((el, index) => {
+					// 	// if (alphabetArray.indexOf(wordEl + index) < alphabetArray.length) {
+					// 	// 	const newArr = el.key.push(alphabetArray[alphaIndex + index]);
+					// 	// } else if (
+					// 	// 	alphabetArray.indexOf(wordEl + index) >= alphabetArray.length
+					// 	// ) {
+					// 	// 	const newArr = el.key.push(alphabetArray[alphaIndex - index]);
+					// 	// }
+					// });
+
+					// if (alphabetArray.indexOf(wordEl + index) < alphabetArray.length) {
+					// 	allArrays.map((el, index) => {
+					// 		// console.log(el.key);
+					// 		const newArr = el.key.push(alphabetArray[alphaIndex + index]);
+					// 		// console.log(newArr);
+					// 	});
+					// } else if (wordEl === 'z') {
+					// 	cesarWordArr.push(alphabetArray[0]);
+					// }
 
 					console.log(allArrays);
 				}
