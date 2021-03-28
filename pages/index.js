@@ -41,7 +41,7 @@ export default function Home() {
 
 			<div>
 				{Object.keys(output).map((key, index) => {
-					console.log(output[key].key);
+					// console.log(output[key].key);
 					// const data = output[key];
 					const word = output[key].key.join('');
 					// console.log(word);
