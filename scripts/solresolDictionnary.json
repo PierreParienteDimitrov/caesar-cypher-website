@@ -1,0 +1,12374 @@
+[
+  {
+    "key": "d",
+    "value": "non, pas, ne, ni"
+  },
+  {
+    "key": "dd",
+    "value": "imparfait"
+  },
+  {
+    "key": "ddr",
+    "value": "terre"
+  },
+  {
+    "key": "ddrd",
+    "value": "clergé"
+  },
+  {
+    "key": "ddrm",
+    "value": "vicariat"
+  },
+  {
+    "key": "ddrf",
+    "value": "curé"
+  },
+  {
+    "key": "ddrso",
+    "value": "épiscopat"
+  },
+  {
+    "key": "ddrl",
+    "value": "archiépiscopat"
+  },
+  {
+    "key": "ddrs",
+    "value": "cardinalat"
+  },
+  {
+    "key": "ddm",
+    "value": "saisons"
+  },
+  {
+    "key": "ddmd",
+    "value": "crucifix"
+  },
+  {
+    "key": "ddmr",
+    "value": "racheter"
+  },
+  {
+    "key": "ddmf",
+    "value": "ressusciter"
+  },
+  {
+    "key": "ddmso",
+    "value": "paradis"
+  },
+  {
+    "key": "ddml",
+    "value": "ange"
+  },
+  {
+    "key": "ddms",
+    "value": "perfection"
+  },
+  {
+    "key": "ddf",
+    "value": "hiverner"
+  },
+  {
+    "key": "ddfd",
+    "value": "papauté"
+  },
+  {
+    "key": "ddfr",
+    "value": "sacrer"
+  },
+  {
+    "key": "ddfm",
+    "value": "bénir"
+  },
+  {
+    "key": "ddfso",
+    "value": "régénérer"
+  },
+  {
+    "key": "ddfl",
+    "value": "apostolat"
+  },
+  {
+    "key": "ddfs",
+    "value": "mission"
+  },
+  {
+    "key": "ddso",
+    "value": "printemps"
+  },
+  {
+    "key": "ddsod",
+    "value": "chercher à convertir"
+  },
+  {
+    "key": "ddsor",
+    "value": "desserrer"
+  },
+  {
+    "key": "ddsom",
+    "value": "évangéliser"
+  },
+  {
+    "key": "ddsof",
+    "value": "catéchiser"
+  },
+  {
+    "key": "ddsol",
+    "value": "christianisme"
+  },
+  {
+    "key": "ddsos",
+    "value": "dogme"
+  },
+  {
+    "key": "ddl",
+    "value": "été"
+  },
+  {
+    "key": "ddld",
+    "value": "théologie"
+  },
+  {
+    "key": "ddlr",
+    "value": "catholicisme"
+  },
+  {
+    "key": "ddlm",
+    "value": "protestantisme"
+  },
+  {
+    "key": "ddlf",
+    "value": "mahométisme"
+  },
+  {
+    "key": "ddlso",
+    "value": "judaïser"
+  },
+  {
+    "key": "ddls",
+    "value": "paganisme"
+  },
+  {
+    "key": "dds",
+    "value": "automne"
+  },
+  {
+    "key": "ddsd",
+    "value": "église"
+  },
+  {
+    "key": "ddsr",
+    "value": "clocher"
+  },
+  {
+    "key": "ddsm",
+    "value": "chapelle"
+  },
+  {
+    "key": "ddsf",
+    "value": "autel"
+  },
+  {
+    "key": "ddsso",
+    "value": "chaire"
+  },
+  {
+    "key": "ddsl",
+    "value": "prêcher"
+  },
+  {
+    "key": "dr",
+    "value": "je, me, moi, moi-même, nous, nous-même"
+  },
+  {
+    "key": "drd",
+    "value": "temps, durée"
+  },
+  {
+    "key": "drdd",
+    "value": "jésuitisme"
+  },
+  {
+    "key": "drdr",
+    "value": "naître"
+  },
+  {
+    "key": "drdrd",
+    "value": "gazelle"
+  },
+  {
+    "key": "drdrm",
+    "value": "chevreuil"
+  },
+  {
+    "key": "drdrf",
+    "value": "daim"
+  },
+  {
+    "key": "drdrso",
+    "value": "cerf"
+  },
+  {
+    "key": "drdrl",
+    "value": "lièvre"
+  },
+  {
+    "key": "drdrs",
+    "value": "lapin"
+  },
+  {
+    "key": "drdm",
+    "value": "corps humain, physique"
+  },
+  {
+    "key": "drdmd",
+    "value": "écureuil"
+  },
+  {
+    "key": "drdmr",
+    "value": "cochon d'Inde"
+  },
+  {
+    "key": "drdmf",
+    "value": "marmotte"
+  },
+  {
+    "key": "drdmso",
+    "value": "taupe"
+  },
+  {
+    "key": "drdml",
+    "value": "fouine"
+  },
+  {
+    "key": "drdms",
+    "value": "blaireau"
+  },
+  {
+    "key": "drdf",
+    "value": "tête, cerveau, crâne"
+  },
+  {
+    "key": "drdfd",
+    "value": "renard"
+  },
+  {
+    "key": "drdfr",
+    "value": "loup"
+  },
+  {
+    "key": "drdfm",
+    "value": "zibeline"
+  },
+  {
+    "key": "drdfso",
+    "value": "marte"
+  },
+  {
+    "key": "drdfl",
+    "value": "putois"
+  },
+  {
+    "key": "drdfs",
+    "value": "hermine"
+  },
+  {
+    "key": "drdso",
+    "value": "chevelure, cheveux, sourcils, cils, moustache, barbe"
+  },
+  {
+    "key": "drdsod",
+    "value": "belette"
+  },
+  {
+    "key": "drdsor",
+    "value": "rat"
+  },
+  {
+    "key": "drdsom",
+    "value": "souris"
+  },
+  {
+    "key": "drdsof",
+    "value": "mulot"
+  },
+  {
+    "key": "drdsol",
+    "value": "chauve-souris"
+  },
+  {
+    "key": "drdsos",
+    "value": "taguan"
+  },
+  {
+    "key": "drdl",
+    "value": "visage, figure, physionomie, mine"
+  },
+  {
+    "key": "drdld",
+    "value": "hérisson"
+  },
+  {
+    "key": "drdlr",
+    "value": "porc-épic"
+  },
+  {
+    "key": "drdlm",
+    "value": "caracal"
+  },
+  {
+    "key": "drdlf",
+    "value": "lynx"
+  },
+  {
+    "key": "drdlso",
+    "value": "chacal"
+  },
+  {
+    "key": "drdls",
+    "value": "hyène"
+  },
+  {
+    "key": "drds",
+    "value": "joues"
+  },
+  {
+    "key": "drdsd",
+    "value": "zèbre"
+  },
+  {
+    "key": "drdsr",
+    "value": "chamois"
+  },
+  {
+    "key": "drdsm",
+    "value": "ours"
+  },
+  {
+    "key": "drdsf",
+    "value": "rhinocéros"
+  },
+  {
+    "key": "drdsso",
+    "value": "girafe"
+  },
+  {
+    "key": "drdsl",
+    "value": "éléphant"
+  },
+  {
+    "key": "drr",
+    "value": "janvier"
+  },
+  {
+    "key": "drrd",
+    "value": "diocèse"
+  },
+  {
+    "key": "drrm",
+    "value": "paroisse"
+  },
+  {
+    "key": "drrf",
+    "value": "marguiller"
+  },
+  {
+    "key": "drrso",
+    "value": "sacristie"
+  },
+  {
+    "key": "drrl",
+    "value": "quêter"
+  },
+  {
+    "key": "drrs",
+    "value": "se cotiser"
+  },
+  {
+    "key": "drm",
+    "value": "journellement"
+  },
+  {
+    "key": "drmd",
+    "value": "front, tempe"
+  },
+  {
+    "key": "drmdr",
+    "value": "lion"
+  },
+  {
+    "key": "drmdm",
+    "value": "crinière"
+  },
+  {
+    "key": "drmdf",
+    "value": "queue"
+  },
+  {
+    "key": "drmdso",
+    "value": "tigre"
+  },
+  {
+    "key": "drmdl",
+    "value": "panthère"
+  },
+  {
+    "key": "drmds",
+    "value": "léopard"
+  },
+  {
+    "key": "drmr",
+    "value": "yeux, prunelle, paupière, oculaire"
+  },
+  {
+    "key": "drmrd",
+    "value": "amphybies [animaux]"
+  },
+  {
+    "key": "drmrm",
+    "value": "hippopotame"
+  },
+  {
+    "key": "drmrf",
+    "value": "castor"
+  },
+  {
+    "key": "drmrso",
+    "value": "crocodile"
+  },
+  {
+    "key": "drmrl",
+    "value": "tortue"
+  },
+  {
+    "key": "drmrs",
+    "value": "phoque"
+  },
+  {
+    "key": "drmm",
+    "value": "congrégation"
+  },
+  {
+    "key": "drmf",
+    "value": "renifler"
+  },
+  {
+    "key": "drmfd",
+    "value": ""
+  },
+  {
+    "key": "drmfr",
+    "value": ""
+  },
+  {
+    "key": "drmfm",
+    "value": ""
+  },
+  {
+    "key": "drmfso",
+    "value": ""
+  },
+  {
+    "key": "drmfs",
+    "value": ""
+  },
+  {
+    "key": "drmso",
+    "value": ""
+  },
+  {
+    "key": "drmsod",
+    "value": ""
+  },
+  {
+    "key": "drmsor",
+    "value": ""
+  },
+  {
+    "key": "drmsom",
+    "value": ""
+  },
+  {
+    "key": "drmsof",
+    "value": ""
+  },
+  {
+    "key": "drmsol",
+    "value": ""
+  },
+  {
+    "key": "drmsos",
+    "value": ""
+  },
+  {
+    "key": "drml",
+    "value": ""
+  },
+  {
+    "key": "drmld",
+    "value": ""
+  },
+  {
+    "key": "drmlm",
+    "value": ""
+  },
+  {
+    "key": "abcfd",
+    "value": ""
+  },
+  {
+    "key": "drmlso",
+    "value": ""
+  },
+  {
+    "key": "drmls",
+    "value": ""
+  },
+  {
+    "key": "drms",
+    "value": "menton"
+  },
+  {
+    "key": "drmsd",
+    "value": ""
+  },
+  {
+    "key": "drmsr",
+    "value": ""
+  },
+  {
+    "key": "drmsm",
+    "value": ""
+  },
+  {
+    "key": "drmsf",
+    "value": ""
+  },
+  {
+    "key": "drmsso",
+    "value": ""
+  },
+  {
+    "key": "drmsl",
+    "value": ""
+  },
+  {
+    "key": "drf",
+    "value": ""
+  },
+  {
+    "key": "drfd",
+    "value": "prodiguer, gaspiller, dissiper"
+  },
+  {
+    "key": "drfdr",
+    "value": "grillon"
+  },
+  {
+    "key": "drfdm",
+    "value": "perce-oreille"
+  },
+  {
+    "key": "drfdf",
+    "value": "fourmillière"
+  },
+  {
+    "key": "drfdso",
+    "value": "mouche"
+  },
+  {
+    "key": "drfdl",
+    "value": "guêpe"
+  },
+  {
+    "key": "drfds",
+    "value": "abeille"
+  },
+  {
+    "key": "drfr",
+    "value": ""
+  },
+  {
+    "key": "drfrd",
+    "value": "papillon"
+  },
+  {
+    "key": "drfrm",
+    "value": "hanneton"
+  },
+  {
+    "key": "drfrf",
+    "value": "cigale"
+  },
+  {
+    "key": "drfrso",
+    "value": "sauterelle"
+  },
+  {
+    "key": "drfrl",
+    "value": "cochenille"
+  },
+  {
+    "key": "drfrs",
+    "value": "araignée"
+  },
+  {
+    "key": "drfm",
+    "value": ""
+  },
+  {
+    "key": "drfmd",
+    "value": "ver à soie"
+  },
+  {
+    "key": "drfmr",
+    "value": "chenille"
+  },
+  {
+    "key": "drfmf",
+    "value": "lézarder"
+  },
+  {
+    "key": "drfmso",
+    "value": "serpenter"
+  },
+  {
+    "key": "drfml",
+    "value": "ramper"
+  },
+  {
+    "key": "drfms",
+    "value": "tortiller"
+  },
+  {
+    "key": "drff",
+    "value": "chanoine"
+  },
+  {
+    "key": "drfso",
+    "value": ""
+  },
+  {
+    "key": "drfsod",
+    "value": "mordre"
+  },
+  {
+    "key": "drfsor",
+    "value": ""
+  },
+  {
+    "key": "drfsom",
+    "value": ""
+  },
+  {
+    "key": "drfsof",
+    "value": ""
+  },
+  {
+    "key": "drfsol",
+    "value": ""
+  },
+  {
+    "key": "drfsos",
+    "value": ""
+  },
+  {
+    "key": "drfl",
+    "value": ""
+  },
+  {
+    "key": "drfld",
+    "value": ""
+  },
+  {
+    "key": "drflr",
+    "value": ""
+  },
+  {
+    "key": "drflm",
+    "value": ""
+  },
+  {
+    "key": "drflf",
+    "value": ""
+  },
+  {
+    "key": "drfls",
+    "value": ""
+  },
+  {
+    "key": "drfs",
+    "value": ""
+  },
+  {
+    "key": "drfsd",
+    "value": ""
+  },
+  {
+    "key": "drfsso",
+    "value": ""
+  },
+  {
+    "key": "drfsl",
+    "value": ""
+  },
+  {
+    "key": "drso",
+    "value": ""
+  },
+  {
+    "key": "drsod",
+    "value": "déranger, intervertir, bouleverser"
+  },
+  {
+    "key": "drsodr",
+    "value": "alouette"
+  },
+  {
+    "key": "drsodm",
+    "value": "fauvette"
+  },
+  {
+    "key": "drsodf",
+    "value": "tarin"
+  },
+  {
+    "key": "drsodso",
+    "value": "chardonneret"
+  },
+  {
+    "key": "drsodl",
+    "value": "serin"
+  },
+  {
+    "key": "drsods",
+    "value": "rossignol"
+  },
+  {
+    "key": "drsor",
+    "value": ""
+  },
+  {
+    "key": "drsord",
+    "value": "pinson"
+  },
+  {
+    "key": "drsorm",
+    "value": "linotte"
+  },
+  {
+    "key": "drsorf",
+    "value": "bouvreuil"
+  },
+  {
+    "key": "drsorso",
+    "value": "ortolan"
+  },
+  {
+    "key": "drsorl",
+    "value": "grive"
+  },
+  {
+    "key": "drsors",
+    "value": "merle"
+  },
+  {
+    "key": "drsom",
+    "value": ""
+  },
+  {
+    "key": "drsomd",
+    "value": "étourneau"
+  },
+  {
+    "key": "drsomr",
+    "value": "moineau"
+  },
+  {
+    "key": "drsomf",
+    "value": "roitelet"
+  },
+  {
+    "key": "drsomso",
+    "value": "mésange"
+  },
+  {
+    "key": "drsoml",
+    "value": "bergeonette"
+  },
+  {
+    "key": "drsoms",
+    "value": "oiseau-mouche"
+  },
+  {
+    "key": "drsof",
+    "value": ""
+  },
+  {
+    "key": "drsofd",
+    "value": "colibri"
+  },
+  {
+    "key": "drsofr",
+    "value": "oiseau de paradis"
+  },
+  {
+    "key": "drsofm",
+    "value": "hirondelle"
+  },
+  {
+    "key": "drsofso",
+    "value": "martinet"
+  },
+  {
+    "key": "drsofl",
+    "value": "gazouiller"
+  },
+  {
+    "key": "drsofs",
+    "value": "perroquet"
+  },
+  {
+    "key": "drsoso",
+    "value": "chartreuse"
+  },
+  {
+    "key": "drsol",
+    "value": ""
+  },
+  {
+    "key": "drsold",
+    "value": "coq"
+  },
+  {
+    "key": "drsolr",
+    "value": "dindon"
+  },
+  {
+    "key": "drsolm",
+    "value": "faisan"
+  },
+  {
+    "key": "drsolf",
+    "value": "pintade"
+  },
+  {
+    "key": "drsolso",
+    "value": "pigeon"
+  },
+  {
+    "key": "drsols",
+    "value": "paon"
+  },
+  {
+    "key": "drsos",
+    "value": ""
+  },
+  {
+    "key": "drsosd",
+    "value": "tourterelle"
+  },
+  {
+    "key": "drsosr",
+    "value": "perdrix"
+  },
+  {
+    "key": "drsosm",
+    "value": "caille"
+  },
+  {
+    "key": "drsosf",
+    "value": "pie"
+  },
+  {
+    "key": "drsosso",
+    "value": "geai"
+  },
+  {
+    "key": "drsosl",
+    "value": "coucou"
+  },
+  {
+    "key": "drl",
+    "value": ""
+  },
+  {
+    "key": "drld",
+    "value": ""
+  },
+  {
+    "key": "drldr",
+    "value": "oie"
+  },
+  {
+    "key": "drldm",
+    "value": "cygne"
+  },
+  {
+    "key": "drldf",
+    "value": "canard"
+  },
+  {
+    "key": "drldso",
+    "value": "cigogne"
+  },
+  {
+    "key": "drldl",
+    "value": "héron"
+  },
+  {
+    "key": "drlds",
+    "value": "grue"
+  },
+  {
+    "key": "drlr",
+    "value": "reins"
+  },
+  {
+    "key": "drlrd",
+    "value": "sarcelle"
+  },
+  {
+    "key": "drlrm",
+    "value": "bécasse"
+  },
+  {
+    "key": "drlrf",
+    "value": "pélican"
+  },
+  {
+    "key": "drlrso",
+    "value": "goéland"
+  },
+  {
+    "key": "drlrl",
+    "value": "mouette"
+  },
+  {
+    "key": "drlrs",
+    "value": "pingouin"
+  },
+  {
+    "key": "drlm",
+    "value": ""
+  },
+  {
+    "key": "drlmd",
+    "value": "corbeau"
+  },
+  {
+    "key": "drlmr",
+    "value": "faucon"
+  },
+  {
+    "key": "drlmf",
+    "value": "chouette"
+  },
+  {
+    "key": "drlmso",
+    "value": "vautour"
+  },
+  {
+    "key": "drlml",
+    "value": "milan"
+  },
+  {
+    "key": "drlms",
+    "value": "aigle"
+  },
+  {
+    "key": "drlf",
+    "value": ""
+  },
+  {
+    "key": "drlfd",
+    "value": "percher"
+  },
+  {
+    "key": "drlfr",
+    "value": "nichée"
+  },
+  {
+    "key": "drlfm",
+    "value": "duvet"
+  },
+  {
+    "key": "drlfso",
+    "value": "plume"
+  },
+  {
+    "key": "drlfl",
+    "value": "huppe"
+  },
+  {
+    "key": "drlfs",
+    "value": "patte"
+  },
+  {
+    "key": "drlso",
+    "value": ""
+  },
+  {
+    "key": "drlsod",
+    "value": "mâle"
+  },
+  {
+    "key": "drlsom",
+    "value": ""
+  },
+  {
+    "key": "drlsof",
+    "value": ""
+  },
+  {
+    "key": "drlsol",
+    "value": ""
+  },
+  {
+    "key": "drlsos",
+    "value": ""
+  },
+  {
+    "key": "drll",
+    "value": "religieux"
+  },
+  {
+    "key": "drls",
+    "value": ""
+  },
+  {
+    "key": "drlsd",
+    "value": ""
+  },
+  {
+    "key": "drlsr",
+    "value": ""
+  },
+  {
+    "key": "drlsm",
+    "value": ""
+  },
+  {
+    "key": "drlsf",
+    "value": ""
+  },
+  {
+    "key": "drlsso",
+    "value": ""
+  },
+  {
+    "key": "drlsl",
+    "value": ""
+  },
+  {
+    "key": "drs",
+    "value": ""
+  },
+  {
+    "key": "drsd",
+    "value": ""
+  },
+  {
+    "key": "drsdr",
+    "value": "anchois"
+  },
+  {
+    "key": "drsdm",
+    "value": "éperlan"
+  },
+  {
+    "key": "drsdf",
+    "value": "sardine"
+  },
+  {
+    "key": "drsdso",
+    "value": "hareng"
+  },
+  {
+    "key": "drsdl",
+    "value": "merlan"
+  },
+  {
+    "key": "drsds",
+    "value": "maquereau"
+  },
+  {
+    "key": "drsr",
+    "value": ""
+  },
+  {
+    "key": "drsrd",
+    "value": "crevette"
+  },
+  {
+    "key": "drsrm",
+    "value": "crabe"
+  },
+  {
+    "key": "drsrf",
+    "value": "homard"
+  },
+  {
+    "key": "drsrso",
+    "value": "moule"
+  },
+  {
+    "key": "drsrl",
+    "value": "huître"
+  },
+  {
+    "key": "drsrs",
+    "value": "barbue"
+  },
+  {
+    "key": "drsm",
+    "value": ""
+  },
+  {
+    "key": "drsmd",
+    "value": "sole"
+  },
+  {
+    "key": "drsmr",
+    "value": "raie"
+  },
+  {
+    "key": "drsmf",
+    "value": "mulet"
+  },
+  {
+    "key": "drsmso",
+    "value": "saumon"
+  },
+  {
+    "key": "drsml",
+    "value": "turbot"
+  },
+  {
+    "key": "drsms",
+    "value": "thon"
+  },
+  {
+    "key": "drsf",
+    "value": "chyle"
+  },
+  {
+    "key": "drsfd",
+    "value": "dauphin, monstre marin"
+  },
+  {
+    "key": "drsfr",
+    "value": "cheval marin"
+  },
+  {
+    "key": "drsfm",
+    "value": "marsouin"
+  },
+  {
+    "key": "drsfso",
+    "value": "requin"
+  },
+  {
+    "key": "drsfl",
+    "value": "ourque"
+  },
+  {
+    "key": "drsfs",
+    "value": "baleine"
+  },
+  {
+    "key": "drsso",
+    "value": ""
+  },
+  {
+    "key": "drssod",
+    "value": "goujon"
+  },
+  {
+    "key": "drssor",
+    "value": "tanche"
+  },
+  {
+    "key": "drssom",
+    "value": "brochet"
+  },
+  {
+    "key": "drssof",
+    "value": "carpe"
+  },
+  {
+    "key": "drssol",
+    "value": "alose"
+  },
+  {
+    "key": "drssos",
+    "value": "anguille"
+  },
+  {
+    "key": "drsl",
+    "value": "circuler"
+  },
+  {
+    "key": "drsld",
+    "value": "sangsue"
+  },
+  {
+    "key": "drslr",
+    "value": "écrevisse"
+  },
+  {
+    "key": "drslm",
+    "value": "limaçon"
+  },
+  {
+    "key": "drslf",
+    "value": "grenouille"
+  },
+  {
+    "key": "drslso",
+    "value": "crapaud"
+  },
+  {
+    "key": "drsls",
+    "value": ""
+  },
+  {
+    "key": "drss",
+    "value": "mendier"
+  },
+  {
+    "key": "dm",
+    "value": "tu, te, toi, toi-même, vous, vous-même"
+  },
+  {
+    "key": "dmd",
+    "value": ""
+  },
+  {
+    "key": "dmdd",
+    "value": "mortifier [-se]"
+  },
+  {
+    "key": "dmdr",
+    "value": ""
+  },
+  {
+    "key": "dmdrd",
+    "value": "champignon"
+  },
+  {
+    "key": "dmdrr",
+    "value": "truffe"
+  },
+  {
+    "key": "dmdrf",
+    "value": "pommes de terre"
+  },
+  {
+    "key": "dmdrso",
+    "value": "citrouille"
+  },
+  {
+    "key": "dmdrl",
+    "value": "melon"
+  },
+  {
+    "key": "dmdrs",
+    "value": "concombre"
+  },
+  {
+    "key": "dmdm",
+    "value": ""
+  },
+  {
+    "key": "dmdmd",
+    "value": "cornichon"
+  },
+  {
+    "key": "dmdmr",
+    "value": "radis"
+  },
+  {
+    "key": "dmdmf",
+    "value": "navet"
+  },
+  {
+    "key": "dmdmso",
+    "value": "carotte*"
+  },
+  {
+    "key": "dmdml",
+    "value": "betterave"
+  },
+  {
+    "key": "dmdms",
+    "value": "panais*"
+  },
+  {
+    "key": "dmdf",
+    "value": ""
+  },
+  {
+    "key": "dmdfd",
+    "value": "artichaut"
+  },
+  {
+    "key": "dmdfr",
+    "value": "haricot"
+  },
+  {
+    "key": "dmdfm",
+    "value": "lentille"
+  },
+  {
+    "key": "dmdfso",
+    "value": "petits pois"
+  },
+  {
+    "key": "dmdfl",
+    "value": "fève"
+  },
+  {
+    "key": "dmdfs",
+    "value": "asperge"
+  },
+  {
+    "key": "dmdso",
+    "value": ""
+  },
+  {
+    "key": "dmdsod",
+    "value": "céleri"
+  },
+  {
+    "key": "dmdsor",
+    "value": "épinard"
+  },
+  {
+    "key": "dmdsom",
+    "value": "oseille"
+  },
+  {
+    "key": "dmdsof",
+    "value": "chicorée"
+  },
+  {
+    "key": "dmdsol",
+    "value": "laitue"
+  },
+  {
+    "key": "dmdsos",
+    "value": "barbe de capucin"
+  },
+  {
+    "key": "dmdl",
+    "value": ""
+  },
+  {
+    "key": "dmdld",
+    "value": "escarolle"
+  },
+  {
+    "key": "dmdlr",
+    "value": "cerfeuil"
+  },
+  {
+    "key": "dmdlm",
+    "value": "persil"
+  },
+  {
+    "key": "dmdlf",
+    "value": "mâche"
+  },
+  {
+    "key": "dmdlso",
+    "value": "estragon"
+  },
+  {
+    "key": "dmdls",
+    "value": "pimprenelle"
+  },
+  {
+    "key": "dmds",
+    "value": "ongles"
+  },
+  {
+    "key": "dmdsd",
+    "value": "chou"
+  },
+  {
+    "key": "dmdsr",
+    "value": "chou-fleur"
+  },
+  {
+    "key": "dmdsm",
+    "value": "salsifis"
+  },
+  {
+    "key": "dmdsf",
+    "value": "laurier-sauge"
+  },
+  {
+    "key": "dmdsso",
+    "value": "ognon, oignon"
+  },
+  {
+    "key": "dmdsl",
+    "value": "ail"
+  },
+  {
+    "key": "dmr",
+    "value": ""
+  },
+  {
+    "key": "dmrd",
+    "value": "sens (les cinq sens)"
+  },
+  {
+    "key": "dmrdr",
+    "value": "sainfoin"
+  },
+  {
+    "key": "dmrdm",
+    "value": "luzerne"
+  },
+  {
+    "key": "dmrdf",
+    "value": "sénevé"
+  },
+  {
+    "key": "dmrdso",
+    "value": "mouron, stellaire"
+  },
+  {
+    "key": "dmrdl",
+    "value": "trèfle"
+  },
+  {
+    "key": "dmrds",
+    "value": "serpolet"
+  },
+  {
+    "key": "dmrr",
+    "value": "cilice"
+  },
+  {
+    "key": "dmrm",
+    "value": "voir"
+  },
+  {
+    "key": "dmrmd",
+    "value": "baume"
+  },
+  {
+    "key": "dmrmr",
+    "value": "lavande"
+  },
+  {
+    "key": "dmrmf",
+    "value": "thym"
+  },
+  {
+    "key": "dmrmso",
+    "value": "menthe"
+  },
+  {
+    "key": "dmrml",
+    "value": "mélisse"
+  },
+  {
+    "key": "dmrms",
+    "value": "angélique"
+  },
+  {
+    "key": "dmrf",
+    "value": "toucher, palper, tâter, manier"
+  },
+  {
+    "key": "dmrfd",
+    "value": "vanille"
+  },
+  {
+    "key": "dmrfr",
+    "value": "absinthe"
+  },
+  {
+    "key": "dmrfm",
+    "value": "sauge"
+  },
+  {
+    "key": "dmrfso",
+    "value": "anis"
+  },
+  {
+    "key": "dmrfl",
+    "value": "valériane"
+  },
+  {
+    "key": "dmrfs",
+    "value": "marjolaine"
+  },
+  {
+    "key": "dmrso",
+    "value": "goûter, savourer, déguster"
+  },
+  {
+    "key": "dmrsod",
+    "value": "plante médicinal"
+  },
+  {
+    "key": "dmrsor",
+    "value": "réglisse"
+  },
+  {
+    "key": "dmrsom",
+    "value": "chiendent"
+  },
+  {
+    "key": "dmrsof",
+    "value": "ipéca, ipécacuanha"
+  },
+  {
+    "key": "dmrsol",
+    "value": "rhubarbe"
+  },
+  {
+    "key": "dmrsos",
+    "value": "bourrache"
+  },
+  {
+    "key": "dmrl",
+    "value": "sentir"
+  },
+  {
+    "key": "dmrld",
+    "value": "salsepareille"
+  },
+  {
+    "key": "dmrlr",
+    "value": "chicorée sauvage"
+  },
+  {
+    "key": "dmrlm",
+    "value": "houblon"
+  },
+  {
+    "key": "dmrlf",
+    "value": "centaurée"
+  },
+  {
+    "key": "dmrlso",
+    "value": "camomille"
+  },
+  {
+    "key": "dmrls",
+    "value": "lichen"
+  },
+  {
+    "key": "dmrs",
+    "value": "entendre, ouïr"
+  },
+  {
+    "key": "dmrsd",
+    "value": "aloès"
+  },
+  {
+    "key": "dmrsr",
+    "value": "amertume"
+  },
+  {
+    "key": "dmrsm",
+    "value": "capillaire"
+  },
+  {
+    "key": "dmrsf",
+    "value": "morelle"
+  },
+  {
+    "key": "dmrsso",
+    "value": "armoise"
+  },
+  {
+    "key": "dmrsl",
+    "value": "quinquina"
+  },
+  {
+    "key": "dmm",
+    "value": "février"
+  },
+  {
+    "key": "dmmd",
+    "value": "office divin"
+  },
+  {
+    "key": "dmmr",
+    "value": "procession"
+  },
+  {
+    "key": "dmmf",
+    "value": "messe"
+  },
+  {
+    "key": "dmmso",
+    "value": "vêpres"
+  },
+  {
+    "key": "dmml",
+    "value": "la salut"
+  },
+  {
+    "key": "dmms",
+    "value": "l'angélus"
+  },
+  {
+    "key": "dmf",
+    "value": ""
+  },
+  {
+    "key": "dmfd",
+    "value": ""
+  },
+  {
+    "key": "dmfdr",
+    "value": "cochléaria"
+  },
+  {
+    "key": "dmfdm",
+    "value": "lierre terrestre"
+  },
+  {
+    "key": "dmfdf",
+    "value": "gentiane"
+  },
+  {
+    "key": "dmfdso",
+    "value": "séné"
+  },
+  {
+    "key": "dmfdl",
+    "value": "fougère"
+  },
+  {
+    "key": "dmfds",
+    "value": "véronique"
+  },
+  {
+    "key": "dmfr",
+    "value": "vivre, être, exister"
+  },
+  {
+    "key": "dmfrm",
+    "value": ""
+  },
+  {
+    "key": "dmfrf",
+    "value": ""
+  },
+  {
+    "key": "dmfrso",
+    "value": ""
+  },
+  {
+    "key": "dmfrl",
+    "value": ""
+  },
+  {
+    "key": "dmfrs",
+    "value": ""
+  },
+  {
+    "key": "dmfm",
+    "value": "respirer"
+  },
+  {
+    "key": "dmfmd",
+    "value": ""
+  },
+  {
+    "key": "dmfmr",
+    "value": ""
+  },
+  {
+    "key": "dmfmf",
+    "value": ""
+  },
+  {
+    "key": "dmfmso",
+    "value": ""
+  },
+  {
+    "key": "dmfml",
+    "value": ""
+  },
+  {
+    "key": "dmfms",
+    "value": ""
+  },
+  {
+    "key": "dmff",
+    "value": "jeûner"
+  },
+  {
+    "key": "dmfso",
+    "value": ""
+  },
+  {
+    "key": "dmfl",
+    "value": "croître, s'accroître, grandir"
+  },
+  {
+    "key": "dmfs",
+    "value": ""
+  },
+  {
+    "key": "dmso",
+    "value": ""
+  },
+  {
+    "key": "dmsod",
+    "value": ""
+  },
+  {
+    "key": "dmsodr",
+    "value": "sureau"
+  },
+  {
+    "key": "dmsodm",
+    "value": "aulne"
+  },
+  {
+    "key": "dmsodf",
+    "value": "osier"
+  },
+  {
+    "key": "dmsodso",
+    "value": "coudrier"
+  },
+  {
+    "key": "dmsodl",
+    "value": "bouleau (plante)"
+  },
+  {
+    "key": "dmsods",
+    "value": "hêtre"
+  },
+  {
+    "key": "dmsor",
+    "value": ""
+  },
+  {
+    "key": "dmsord",
+    "value": "frêne (plante)"
+  },
+  {
+    "key": "dmsorm",
+    "value": "orme"
+  },
+  {
+    "key": "dmsorf",
+    "value": "saule"
+  },
+  {
+    "key": "dmsorso",
+    "value": "tremble"
+  },
+  {
+    "key": "dmsorl",
+    "value": "peuplier"
+  },
+  {
+    "key": "dmsors",
+    "value": "sycomore"
+  },
+  {
+    "key": "dmsom",
+    "value": ""
+  },
+  {
+    "key": "dmsomd",
+    "value": "platane"
+  },
+  {
+    "key": "dmsomr",
+    "value": "sapin"
+  },
+  {
+    "key": "dmsomf",
+    "value": "résine"
+  },
+  {
+    "key": "dmsomso",
+    "value": "pin"
+  },
+  {
+    "key": "dmsoml",
+    "value": "santale"
+  },
+  {
+    "key": "dmsoms",
+    "value": "acajou"
+  },
+  {
+    "key": "dmsof",
+    "value": "intelligence"
+  },
+  {
+    "key": "dmsofd",
+    "value": "ébénier"
+  },
+  {
+    "key": "dmsofr",
+    "value": "cerisier"
+  },
+  {
+    "key": "dmsofm",
+    "value": "merisier"
+  },
+  {
+    "key": "dmsofso",
+    "value": "mûrier"
+  },
+  {
+    "key": "dmsofl",
+    "value": "pommier"
+  },
+  {
+    "key": "dmsofs",
+    "value": "poirier"
+  },
+  {
+    "key": "dmsoso",
+    "value": "jubilé"
+  },
+  {
+    "key": "dmsol",
+    "value": "avoir de l'esprit"
+  },
+  {
+    "key": "dmsold",
+    "value": "marronnier"
+  },
+  {
+    "key": "dmsolr",
+    "value": "marronnier d'Inde"
+  },
+  {
+    "key": "dmsolm",
+    "value": "prunier"
+  },
+  {
+    "key": "dmsolf",
+    "value": "pêcher (arbre)"
+  },
+  {
+    "key": "dmsolso",
+    "value": "abricotier"
+  },
+  {
+    "key": "dmsols",
+    "value": "amandier"
+  },
+  {
+    "key": "dmsos",
+    "value": "âme"
+  },
+  {
+    "key": "dmsosd",
+    "value": "noyer"
+  },
+  {
+    "key": "dmsosr",
+    "value": "noisetier"
+  },
+  {
+    "key": "dmsosm",
+    "value": "cormier"
+  },
+  {
+    "key": "dmsosf",
+    "value": "cognassier"
+  },
+  {
+    "key": "dmsosso",
+    "value": "oranger"
+  },
+  {
+    "key": "dmsosl",
+    "value": "citronnier"
+  },
+  {
+    "key": "dml",
+    "value": "éterniser"
+  },
+  {
+    "key": "dmld",
+    "value": "parler"
+  },
+  {
+    "key": "dmldr",
+    "value": "grenadier"
+  },
+  {
+    "key": "dmldm",
+    "value": "dattier"
+  },
+  {
+    "key": "dmldf",
+    "value": "ananas"
+  },
+  {
+    "key": "dmldso",
+    "value": "cocotier"
+  },
+  {
+    "key": "dmldl",
+    "value": "bananier"
+  },
+  {
+    "key": "dmlds",
+    "value": "jujubier"
+  },
+  {
+    "key": "dmlr",
+    "value": "prononcer"
+  },
+  {
+    "key": "dmlrd",
+    "value": "olivier"
+  },
+  {
+    "key": "dmlrm",
+    "value": "noyau"
+  },
+  {
+    "key": "dmlrf",
+    "value": "pistachier"
+  },
+  {
+    "key": "dmlrso",
+    "value": "térébinthe"
+  },
+  {
+    "key": "dmlrl",
+    "value": "mucilage"
+  },
+  {
+    "key": "dmlrs",
+    "value": "glu"
+  },
+  {
+    "key": "dmlm",
+    "value": "raisonner"
+  },
+  {
+    "key": "dmlmd",
+    "value": "groseiller"
+  },
+  {
+    "key": "dmlmr",
+    "value": "framboisier"
+  },
+  {
+    "key": "dmlmf",
+    "value": "fraisier"
+  },
+  {
+    "key": "dmlf",
+    "value": "raison"
+  },
+  {
+    "key": "dmlsod",
+    "value": "discerner"
+  },
+  {
+    "key": "dmll",
+    "value": "carême"
+  },
+  {
+    "key": "dmls",
+    "value": "perspicacité"
+  },
+  {
+    "key": "dms",
+    "value": "immortaliser"
+  },
+  {
+    "key": "dmsd",
+    "value": "habileté"
+  },
+  {
+    "key": "dmsdr",
+    "value": "laurier"
+  },
+  {
+    "key": "dmsdm",
+    "value": "myrthe"
+  },
+  {
+    "key": "dmsdf",
+    "value": "bruyère"
+  },
+  {
+    "key": "dmsdso",
+    "value": "genêt"
+  },
+  {
+    "key": "dmsdl",
+    "value": "lilas"
+  },
+  {
+    "key": "dmsds",
+    "value": "chèvrefeuille"
+  },
+  {
+    "key": "dmsr",
+    "value": "prétendre"
+  },
+  {
+    "key": "dmsrd",
+    "value": "rosier"
+  },
+  {
+    "key": "dmsrm",
+    "value": "églantier"
+  },
+  {
+    "key": "dmsrf",
+    "value": "dalhia"
+  },
+  {
+    "key": "dmsrso",
+    "value": "jasmin"
+  },
+  {
+    "key": "dmsrl",
+    "value": "narcisse"
+  },
+  {
+    "key": "dmsrs",
+    "value": "lys"
+  },
+  {
+    "key": "dmsm",
+    "value": "libérer"
+  },
+  {
+    "key": "dmsmd",
+    "value": "œillet"
+  },
+  {
+    "key": "dmsmr",
+    "value": "jonquille"
+  },
+  {
+    "key": "dmsmf",
+    "value": "tulipe"
+  },
+  {
+    "key": "dmsmso",
+    "value": "tubéreuse"
+  },
+  {
+    "key": "dmsml",
+    "value": "marguerite"
+  },
+  {
+    "key": "dmsms",
+    "value": "pâquerette"
+  },
+  {
+    "key": "dmsf",
+    "value": "énergie"
+  },
+  {
+    "key": "dmsfd",
+    "value": "hyacinthe"
+  },
+  {
+    "key": "dmsfr",
+    "value": "giroflée"
+  },
+  {
+    "key": "dmsfm",
+    "value": "iris"
+  },
+  {
+    "key": "dmsfso",
+    "value": "renoncule"
+  },
+  {
+    "key": "dmsfl",
+    "value": "anémone"
+  },
+  {
+    "key": "dmsfs",
+    "value": "souci"
+  },
+  {
+    "key": "dmsso",
+    "value": "fermeté"
+  },
+  {
+    "key": "dmssod",
+    "value": "violette"
+  },
+  {
+    "key": "dmssor",
+    "value": "myosotis"
+  },
+  {
+    "key": "dmssom",
+    "value": "pensée"
+  },
+  {
+    "key": "dmssof",
+    "value": "muguet"
+  },
+  {
+    "key": "dmssol",
+    "value": "perce-neige"
+  },
+  {
+    "key": "dmssos",
+    "value": "boule de neige"
+  },
+  {
+    "key": "dmsl",
+    "value": "affronter"
+  },
+  {
+    "key": "dmsld",
+    "value": "réséda"
+  },
+  {
+    "key": "dmslr",
+    "value": "mousse"
+  },
+  {
+    "key": "dmslm",
+    "value": "lierre"
+  },
+  {
+    "key": "dmslf",
+    "value": "clématite"
+  },
+  {
+    "key": "dmslso",
+    "value": "verveine"
+  },
+  {
+    "key": "dmsls",
+    "value": ""
+  },
+  {
+    "key": "dmss",
+    "value": "superstition"
+  },
+  {
+    "key": "df",
+    "value": "il, elle, lui, lui-même, elle-même, ils, elles, eux, eux-même, elles-mêmes"
+  },
+  {
+    "key": "dfd",
+    "value": ""
+  },
+  {
+    "key": "dfdd",
+    "value": "bigotisme"
+  },
+  {
+    "key": "dfdr",
+    "value": "attendre"
+  },
+  {
+    "key": "dfdrd",
+    "value": "minéralogie"
+  },
+  {
+    "key": "dfdrm",
+    "value": ""
+  },
+  {
+    "key": "dfdrf",
+    "value": "terre argileuse"
+  },
+  {
+    "key": "dfdrso",
+    "value": "terre"
+  },
+  {
+    "key": "dfdrl",
+    "value": "terre marneuse"
+  },
+  {
+    "key": "dfdrs",
+    "value": "terre glaiseuse"
+  },
+  {
+    "key": "dfdm",
+    "value": "espérer, se bercer de"
+  },
+  {
+    "key": "dfdmd",
+    "value": "marbre"
+  },
+  {
+    "key": "dfdmr",
+    "value": "porphyre"
+  },
+  {
+    "key": "dfdmf",
+    "value": "calcaire"
+  },
+  {
+    "key": "dfdmso",
+    "value": "roches"
+  },
+  {
+    "key": "dfdml",
+    "value": "gypse"
+  },
+  {
+    "key": "dfdms",
+    "value": "albâtre"
+  },
+  {
+    "key": "dfdf",
+    "value": "connaître"
+  },
+  {
+    "key": "dfdfd",
+    "value": "quartz"
+  },
+  {
+    "key": "dfdfr",
+    "value": "cristal"
+  },
+  {
+    "key": "dfdfm",
+    "value": "aventurine"
+  },
+  {
+    "key": "dfdfso",
+    "value": "quartz jaspe"
+  },
+  {
+    "key": "dfdfl",
+    "value": "quartz agate"
+  },
+  {
+    "key": "dfdfs",
+    "value": "cornaline"
+  },
+  {
+    "key": "dfdso",
+    "value": "être en relation avec"
+  },
+  {
+    "key": "dfdsod",
+    "value": "feldspath"
+  },
+  {
+    "key": "dfdsor",
+    "value": "pétunsé"
+  },
+  {
+    "key": "dfdsom",
+    "value": "kaolin"
+  },
+  {
+    "key": "dfdsof",
+    "value": "talc"
+  },
+  {
+    "key": "dfdsol",
+    "value": "mica foliacé"
+  },
+  {
+    "key": "dfdsos",
+    "value": "mica"
+  },
+  {
+    "key": "dfdl",
+    "value": "sociabilité"
+  },
+  {
+    "key": "dfdld",
+    "value": "amiante"
+  },
+  {
+    "key": "dfdlr",
+    "value": "houillère"
+  },
+  {
+    "key": "dfdlm",
+    "value": "goudronner"
+  },
+  {
+    "key": "dfdlf",
+    "value": "anthracite"
+  },
+  {
+    "key": "dfdlso",
+    "value": "acide carbonique"
+  },
+  {
+    "key": "dfdls",
+    "value": "lignite"
+  },
+  {
+    "key": "dfds",
+    "value": "éduquer, élever"
+  },
+  {
+    "key": "dfdsd",
+    "value": "souffre"
+  },
+  {
+    "key": "dfdsr",
+    "value": "acide sulfureux"
+  },
+  {
+    "key": "dfdsm",
+    "value": "acide sulphydrique"
+  },
+  {
+    "key": "dfdsf",
+    "value": "oxygène"
+  },
+  {
+    "key": "dfdsso",
+    "value": "chlore"
+  },
+  {
+    "key": "dfdsl",
+    "value": "acide chloridrique"
+  },
+  {
+    "key": "dfr",
+    "value": ""
+  },
+  {
+    "key": "dfrd",
+    "value": "lésiner, liarder"
+  },
+  {
+    "key": "dfrdr",
+    "value": "hydrogène"
+  },
+  {
+    "key": "dfrdm",
+    "value": "carbone"
+  },
+  {
+    "key": "dfrdf",
+    "value": "azote"
+  },
+  {
+    "key": "dfrdso",
+    "value": "iode"
+  },
+  {
+    "key": "dfrdl",
+    "value": "phosphore"
+  },
+  {
+    "key": "dfrds",
+    "value": "arsenic"
+  },
+  {
+    "key": "dfrr",
+    "value": "fanatisme"
+  },
+  {
+    "key": "dfrm",
+    "value": "économiser"
+  },
+  {
+    "key": "dfrmd",
+    "value": "sel de nitre"
+  },
+  {
+    "key": "dfrmr",
+    "value": "potasse"
+  },
+  {
+    "key": "dfrmf",
+    "value": "ammoniac"
+  },
+  {
+    "key": "dfrmso",
+    "value": "alumine"
+  },
+  {
+    "key": "dfrml",
+    "value": "alun"
+  },
+  {
+    "key": "dfrms",
+    "value": "sel gemme"
+  },
+  {
+    "key": "dfrf",
+    "value": "prospérer"
+  },
+  {
+    "key": "dfrfd",
+    "value": "magnésie"
+  },
+  {
+    "key": "dfrso",
+    "value": "être dans l'aisance"
+  },
+  {
+    "key": "dfrsod",
+    "value": "géologie"
+  },
+  {
+    "key": "dfrl",
+    "value": "enrichir"
+  },
+  {
+    "key": "dfrs",
+    "value": "luxe"
+  },
+  {
+    "key": "dfm",
+    "value": ""
+  },
+  {
+    "key": "dfmd",
+    "value": "sentiments, principes"
+  },
+  {
+    "key": "dfmr",
+    "value": "qualifier"
+  },
+  {
+    "key": "dfmm",
+    "value": "derrière"
+  },
+  {
+    "key": "dfmf",
+    "value": "avoir de l'empire sur soi-même"
+  },
+  {
+    "key": "dfmso",
+    "value": "sagesse"
+  },
+  {
+    "key": "dfml",
+    "value": "pudeur"
+  },
+  {
+    "key": "dfms",
+    "value": "épurer"
+  },
+  {
+    "key": "dff",
+    "value": "mars"
+  },
+  {
+    "key": "dffd",
+    "value": "pâques"
+  },
+  {
+    "key": "dffr",
+    "value": "fête de l'ascension"
+  },
+  {
+    "key": "dffm",
+    "value": "pentecôte"
+  },
+  {
+    "key": "dffso",
+    "value": "assomption"
+  },
+  {
+    "key": "dffl",
+    "value": "toussaint"
+  },
+  {
+    "key": "dffs",
+    "value": "noël"
+  },
+  {
+    "key": "dfso",
+    "value": ""
+  },
+  {
+    "key": "dfsod",
+    "value": "innocence"
+  },
+  {
+    "key": "dfsor",
+    "value": "naïveté"
+  },
+  {
+    "key": "dfsom",
+    "value": "embellir"
+  },
+  {
+    "key": "dfsof",
+    "value": "grâce"
+  },
+  {
+    "key": "dfsoso",
+    "value": "persécuter"
+  },
+  {
+    "key": "dfsol",
+    "value": "charmer"
+  },
+  {
+    "key": "dfsos",
+    "value": "vérité"
+  },
+  {
+    "key": "dfl",
+    "value": "miracle"
+  },
+  {
+    "key": "dfld",
+    "value": "franchise"
+  },
+  {
+    "key": "dflr",
+    "value": "bonté"
+  },
+  {
+    "key": "dflm",
+    "value": "sensibilité"
+  },
+  {
+    "key": "dflf",
+    "value": "cœur (du)"
+  },
+  {
+    "key": "dflso",
+    "value": "générosité"
+  },
+  {
+    "key": "dfll",
+    "value": "maudire"
+  },
+  {
+    "key": "dfls",
+    "value": "humanité"
+  },
+  {
+    "key": "dfs",
+    "value": "adorer"
+  },
+  {
+    "key": "dfsd",
+    "value": "prudence"
+  },
+  {
+    "key": "dfsr",
+    "value": "prévoir"
+  },
+  {
+    "key": "dfsm",
+    "value": "discrétion"
+  },
+  {
+    "key": "dfsf",
+    "value": "conscience"
+  },
+  {
+    "key": "dfsso",
+    "value": "honnêteté"
+  },
+  {
+    "key": "dfsl",
+    "value": "délicatesse"
+  },
+  {
+    "key": "dfss",
+    "value": "flageller"
+  },
+  {
+    "key": "dso",
+    "value": "soi, se, soi-même"
+  },
+  {
+    "key": "dsod",
+    "value": "prier, supplier, invoquer, implorer"
+  },
+  {
+    "key": "dsodd",
+    "value": "punir"
+  },
+  {
+    "key": "dsodr",
+    "value": "appeler"
+  },
+  {
+    "key": "dsodm",
+    "value": "demander"
+  },
+  {
+    "key": "dsodf",
+    "value": "ouvrir"
+  },
+  {
+    "key": "dsodso",
+    "value": "entrer"
+  },
+  {
+    "key": "dsodl",
+    "value": "intérieur"
+  },
+  {
+    "key": "dsods",
+    "value": "fond"
+  },
+  {
+    "key": "dsor",
+    "value": "croire (en dieu)"
+  },
+  {
+    "key": "dsord",
+    "value": "arranger"
+  },
+  {
+    "key": "dsorr",
+    "value": "se damner"
+  },
+  {
+    "key": "dsorm",
+    "value": "expérience"
+  },
+  {
+    "key": "dsorf",
+    "value": "régler"
+  },
+  {
+    "key": "dsorso",
+    "value": "s'occuper"
+  },
+  {
+    "key": "dsorl",
+    "value": "attribuer"
+  },
+  {
+    "key": "dsors",
+    "value": "éventualité"
+  },
+  {
+    "key": "dsom",
+    "value": ""
+  },
+  {
+    "key": "dsomd",
+    "value": "infériorité"
+  },
+  {
+    "key": "dsomr",
+    "value": "veiller"
+  },
+  {
+    "key": "dsomm",
+    "value": "tenter"
+  },
+  {
+    "key": "dsomf",
+    "value": "allumer"
+  },
+  {
+    "key": "dsomso",
+    "value": "bougie"
+  },
+  {
+    "key": "dsoml",
+    "value": "gaz"
+  },
+  {
+    "key": "dsoms",
+    "value": "éclairer"
+  },
+  {
+    "key": "dsof",
+    "value": ""
+  },
+  {
+    "key": "dsofd",
+    "value": "culpabilité"
+  },
+  {
+    "key": "dsofr",
+    "value": "éveiller"
+  },
+  {
+    "key": "dsofm",
+    "value": "se lever"
+  },
+  {
+    "key": "dsoff",
+    "value": "pécher"
+  },
+  {
+    "key": "dsofso",
+    "value": "paraître"
+  },
+  {
+    "key": "dsofl",
+    "value": "venir"
+  },
+  {
+    "key": "dsofs",
+    "value": "saluer"
+  },
+  {
+    "key": "dsoso",
+    "value": "avril"
+  },
+  {
+    "key": "dsosod",
+    "value": "sacrement"
+  },
+  {
+    "key": "dsosor",
+    "value": "baptiser"
+  },
+  {
+    "key": "dsosom",
+    "value": "communier"
+  },
+  {
+    "key": "dsosof",
+    "value": "hostie"
+  },
+  {
+    "key": "dsosol",
+    "value": "confirmer"
+  },
+  {
+    "key": "dsosos",
+    "value": "extrême-onction"
+  },
+  {
+    "key": "dsol",
+    "value": ""
+  },
+  {
+    "key": "dsold",
+    "value": "écouter"
+  },
+  {
+    "key": "dsolr",
+    "value": "débarrasser"
+  },
+  {
+    "key": "dsolrd",
+    "value": "femelle"
+  },
+  {
+    "key": "dsolm",
+    "value": "féliciter"
+  },
+  {
+    "key": "dsolf",
+    "value": "exagérer"
+  },
+  {
+    "key": "dsolso",
+    "value": "flatter"
+  },
+  {
+    "key": "dsoll",
+    "value": "se repentir"
+  },
+  {
+    "key": "dsols",
+    "value": "complaire"
+  },
+  {
+    "key": "dsos",
+    "value": "sanctifier"
+  },
+  {
+    "key": "dsosd",
+    "value": "conseiller"
+  },
+  {
+    "key": "dsosr",
+    "value": "remontrer"
+  },
+  {
+    "key": "dsosm",
+    "value": "suggérer"
+  },
+  {
+    "key": "dsosf",
+    "value": "conduire"
+  },
+  {
+    "key": "dsosso",
+    "value": "emmener"
+  },
+  {
+    "key": "dsosl",
+    "value": "s'empresser"
+  },
+  {
+    "key": "dsoss",
+    "value": "s'agenouiller"
+  },
+  {
+    "key": "dl",
+    "value": "on, quelqu'un, autrui, le prochain"
+  },
+  {
+    "key": "dld",
+    "value": ""
+  },
+  {
+    "key": "dldd",
+    "value": "avouer"
+  },
+  {
+    "key": "dldr",
+    "value": "inviter"
+  },
+  {
+    "key": "dldm",
+    "value": "accepter"
+  },
+  {
+    "key": "dldf",
+    "value": "mettre"
+  },
+  {
+    "key": "dldso",
+    "value": "couvert (le)"
+  },
+  {
+    "key": "dldl",
+    "value": "table"
+  },
+  {
+    "key": "dlds",
+    "value": "linge de table"
+  },
+  {
+    "key": "dlr",
+    "value": ""
+  },
+  {
+    "key": "dlrd",
+    "value": "vaisselle"
+  },
+  {
+    "key": "dlrr",
+    "value": "se confesser"
+  },
+  {
+    "key": "dlrm",
+    "value": "fourchette"
+  },
+  {
+    "key": "dlrf",
+    "value": "cuillère"
+  },
+  {
+    "key": "dlrso",
+    "value": "gobelet, verre à boire"
+  },
+  {
+    "key": "dlrl",
+    "value": "bouteille"
+  },
+  {
+    "key": "dlrs",
+    "value": "vin"
+  },
+  {
+    "key": "dlm",
+    "value": "mépriser"
+  },
+  {
+    "key": "dlmd",
+    "value": "se taire"
+  },
+  {
+    "key": "dlmr",
+    "value": "eau"
+  },
+  {
+    "key": "dlmm",
+    "value": "confesser"
+  },
+  {
+    "key": "dlmf",
+    "value": "altérer"
+  },
+  {
+    "key": "dlmso",
+    "value": "boire"
+  },
+  {
+    "key": "dlml",
+    "value": "faim"
+  },
+  {
+    "key": "dlms",
+    "value": "manger"
+  },
+  {
+    "key": "dlf",
+    "value": "compatir, s'apitoyer"
+  },
+  {
+    "key": "dlfd",
+    "value": "dissimuler"
+  },
+  {
+    "key": "dlfr",
+    "value": "nourrire"
+  },
+  {
+    "key": "dlfm",
+    "value": "potage"
+  },
+  {
+    "key": "dlff",
+    "value": "réconcilier"
+  },
+  {
+    "key": "dlfso",
+    "value": "pâtes"
+  },
+  {
+    "key": "dlfl",
+    "value": "pain"
+  },
+  {
+    "key": "dlfs",
+    "value": "poisson"
+  },
+  {
+    "key": "dlso",
+    "value": ""
+  },
+  {
+    "key": "dlsod",
+    "value": "viande"
+  },
+  {
+    "key": "dlsor",
+    "value": "rôtir"
+  },
+  {
+    "key": "dlsom",
+    "value": "volaille"
+  },
+  {
+    "key": "dlsof",
+    "value": "gibier"
+  },
+  {
+    "key": "dlsoso",
+    "value": "délivrer"
+  },
+  {
+    "key": "dlsol",
+    "value": "pâtisserie"
+  },
+  {
+    "key": "dlsos",
+    "value": "charcuterie"
+  },
+  {
+    "key": "dll",
+    "value": "mai"
+  },
+  {
+    "key": "dlld",
+    "value": "litanies"
+  },
+  {
+    "key": "dllr",
+    "value": "psalmodier"
+  },
+  {
+    "key": "dllm",
+    "value": "plain-chant"
+  },
+  {
+    "key": "dllf",
+    "value": "lutrin"
+  },
+  {
+    "key": "dllso",
+    "value": "maîtrise"
+  },
+  {
+    "key": "dlls",
+    "value": "encenser"
+  },
+  {
+    "key": "dls",
+    "value": ""
+  },
+  {
+    "key": "dlsd",
+    "value": "saler"
+  },
+  {
+    "key": "dlsr",
+    "value": "poivrer"
+  },
+  {
+    "key": "dlsm",
+    "value": "vinaigrer"
+  },
+  {
+    "key": "dlsf",
+    "value": "nord"
+  },
+  {
+    "key": "dlsso",
+    "value": "huiler"
+  },
+  {
+    "key": "dlsl",
+    "value": "moutarde"
+  },
+  {
+    "key": "dlss",
+    "value": "protéger"
+  },
+  {
+    "key": "ds",
+    "value": "autre"
+  },
+  {
+    "key": "dsd",
+    "value": "aider, secourir, assister, seconder"
+  },
+  {
+    "key": "dsdd",
+    "value": "glorifier"
+  },
+  {
+    "key": "dsdr",
+    "value": "suffire"
+  },
+  {
+    "key": "dsdm",
+    "value": "légumes"
+  },
+  {
+    "key": "dsdf",
+    "value": "salade"
+  },
+  {
+    "key": "dsdso",
+    "value": "assaisonner"
+  },
+  {
+    "key": "dsdl",
+    "value": "jus"
+  },
+  {
+    "key": "dsds",
+    "value": "œufs"
+  },
+  {
+    "key": "dsr",
+    "value": "appuyer, soutenir, maintenir, baser"
+  },
+  {
+    "key": "dsrd",
+    "value": "laitage"
+  },
+  {
+    "key": "dsrr",
+    "value": "édifier"
+  },
+  {
+    "key": "dsrm",
+    "value": "beurrer"
+  },
+  {
+    "key": "dsrf",
+    "value": "fromage"
+  },
+  {
+    "key": "dsrso",
+    "value": "dessert"
+  },
+  {
+    "key": "dsrl",
+    "value": "fruits (fraises etc.)"
+  },
+  {
+    "key": "dsrs",
+    "value": "fruits (pommes etc.)"
+  },
+  {
+    "key": "dsm",
+    "value": ""
+  },
+  {
+    "key": "dsmd",
+    "value": "inhabileté"
+  },
+  {
+    "key": "dsmr",
+    "value": "verser"
+  },
+  {
+    "key": "dsmm",
+    "value": "plus tard"
+  },
+  {
+    "key": "dsmf",
+    "value": "liqueurs"
+  },
+  {
+    "key": "dsmso",
+    "value": "spiritueux"
+  },
+  {
+    "key": "dsml",
+    "value": "se dégager"
+  },
+  {
+    "key": "dsms",
+    "value": "s'enivrer"
+  },
+  {
+    "key": "dsf",
+    "value": "accomplir, acquitter, satisfaire à"
+  },
+  {
+    "key": "dsfd",
+    "value": "imprudence"
+  },
+  {
+    "key": "dsfr",
+    "value": "bière"
+  },
+  {
+    "key": "dsfm",
+    "value": "rafraîchir"
+  },
+  {
+    "key": "dsff",
+    "value": "béatifier"
+  },
+  {
+    "key": "dsfso",
+    "value": "café"
+  },
+  {
+    "key": "dsfl",
+    "value": "thé"
+  },
+  {
+    "key": "dsfs",
+    "value": "sucrer"
+  },
+  {
+    "key": "dsso",
+    "value": "devoir"
+  },
+  {
+    "key": "dssod",
+    "value": "chocolat"
+  },
+  {
+    "key": "dssor",
+    "value": "inutilité"
+  },
+  {
+    "key": "dssom",
+    "value": "repas"
+  },
+  {
+    "key": "dssof",
+    "value": "cuisiner"
+  },
+  {
+    "key": "dssoso",
+    "value": "admirer"
+  },
+  {
+    "key": "dssol",
+    "value": "munir"
+  },
+  {
+    "key": "dssos",
+    "value": "comestibles"
+  },
+  {
+    "key": "dsl",
+    "value": "ennoblir"
+  },
+  {
+    "key": "dsld",
+    "value": "morceler"
+  },
+  {
+    "key": "dslr",
+    "value": "désemplir"
+  },
+  {
+    "key": "dslm",
+    "value": "entremets"
+  },
+  {
+    "key": "dslf",
+    "value": "conserver"
+  },
+  {
+    "key": "dslso",
+    "value": "buffet"
+  },
+  {
+    "key": "dsll",
+    "value": "respecter"
+  },
+  {
+    "key": "dsls",
+    "value": "office"
+  },
+  {
+    "key": "dss",
+    "value": "juin"
+  },
+  {
+    "key": "dssd",
+    "value": "séminaire"
+  },
+  {
+    "key": "dssr",
+    "value": "noviciat"
+  },
+  {
+    "key": "dssm",
+    "value": "être converti"
+  },
+  {
+    "key": "dssf",
+    "value": "s'adonner"
+  },
+  {
+    "key": "dssso",
+    "value": "chapelet"
+  },
+  {
+    "key": "dssl",
+    "value": "paroissien"
+  },
+  {
+    "key": "r",
+    "value": "et"
+  },
+  {
+    "key": "rd",
+    "value": "mon, ma, mien, mienne, mes"
+  },
+  {
+    "key": "rdd",
+    "value": "un"
+  },
+  {
+    "key": "rddr",
+    "value": "grotte"
+  },
+  {
+    "key": "rddm",
+    "value": "palissade"
+  },
+  {
+    "key": "rddf",
+    "value": "charmille"
+  },
+  {
+    "key": "rddso",
+    "value": "pépinière"
+  },
+  {
+    "key": "rddl",
+    "value": "vignoble"
+  },
+  {
+    "key": "rdds",
+    "value": "serre chaude"
+  },
+  {
+    "key": "rdr",
+    "value": ""
+  },
+  {
+    "key": "rdrd",
+    "value": "effet"
+  },
+  {
+    "key": "rdrr",
+    "value": "réservoir"
+  },
+  {
+    "key": "rdrm",
+    "value": "généraliser"
+  },
+  {
+    "key": "rdrf",
+    "value": "chemise"
+  },
+  {
+    "key": "rdrso",
+    "value": "bas"
+  },
+  {
+    "key": "rdrl",
+    "value": "chausser"
+  },
+  {
+    "key": "rdrs",
+    "value": "pentalon"
+  },
+  {
+    "key": "rdm",
+    "value": "répugner"
+  },
+  {
+    "key": "rdmd",
+    "value": "laver [-se]"
+  },
+  {
+    "key": "rdmr",
+    "value": "se raser"
+  },
+  {
+    "key": "rdmm",
+    "value": "soupape"
+  },
+  {
+    "key": "rdmf",
+    "value": "se mirer"
+  },
+  {
+    "key": "rdmso",
+    "value": "se peigner"
+  },
+  {
+    "key": "rdml",
+    "value": "diminuer"
+  },
+  {
+    "key": "rdms",
+    "value": "coiffer"
+  },
+  {
+    "key": "rdf",
+    "value": "moraliser"
+  },
+  {
+    "key": "rdfd",
+    "value": "inattendu"
+  },
+  {
+    "key": "rdfr",
+    "value": "déménager"
+  },
+  {
+    "key": "rdfm",
+    "value": "cravate"
+  },
+  {
+    "key": "rdff",
+    "value": "être bien portant"
+  },
+  {
+    "key": "rdfso",
+    "value": "gilet"
+  },
+  {
+    "key": "rdfl",
+    "value": "boutonner"
+  },
+  {
+    "key": "rdfs",
+    "value": "s'habiller"
+  },
+  {
+    "key": "rdso",
+    "value": ""
+  },
+  {
+    "key": "rdsod",
+    "value": "manteau"
+  },
+  {
+    "key": "rdsor",
+    "value": "garnir"
+  },
+  {
+    "key": "rdsom",
+    "value": "fourrure"
+  },
+  {
+    "key": "rdsof",
+    "value": "ganter"
+  },
+  {
+    "key": "rdsoso",
+    "value": "écrou"
+  },
+  {
+    "key": "rdsol",
+    "value": "canne"
+  },
+  {
+    "key": "rdsos",
+    "value": "parapluie"
+  },
+  {
+    "key": "rdl",
+    "value": ""
+  },
+  {
+    "key": "rdld",
+    "value": "faire sa toilette"
+  },
+  {
+    "key": "rdlr",
+    "value": "corset"
+  },
+  {
+    "key": "rdlm",
+    "value": "lacer"
+  },
+  {
+    "key": "rdlf",
+    "value": "jupe"
+  },
+  {
+    "key": "rdlso",
+    "value": "robe"
+  },
+  {
+    "key": "rdll",
+    "value": "vis"
+  },
+  {
+    "key": "rdls",
+    "value": "inévitable"
+  },
+  {
+    "key": "rds",
+    "value": "honorer"
+  },
+  {
+    "key": "rdsd",
+    "value": "insuffisance"
+  },
+  {
+    "key": "rdsr",
+    "value": "parer"
+  },
+  {
+    "key": "rdsm",
+    "value": "invisibilité"
+  },
+  {
+    "key": "rdsf",
+    "value": "bague"
+  },
+  {
+    "key": "rdsso",
+    "value": "bracelet"
+  },
+  {
+    "key": "rdsl",
+    "value": "lunettes"
+  },
+  {
+    "key": "rdss",
+    "value": "injustice"
+  },
+  {
+    "key": "rr",
+    "value": "plus-que-parfait"
+  },
+  {
+    "key": "rrd",
+    "value": "juillet"
+  },
+  {
+    "key": "rrdr",
+    "value": "construire"
+  },
+  {
+    "key": "rrdm",
+    "value": "plan"
+  },
+  {
+    "key": "rrdf",
+    "value": "échafauder"
+  },
+  {
+    "key": "rrdso",
+    "value": "pilotis"
+  },
+  {
+    "key": "rrdl",
+    "value": "maçonner"
+  },
+  {
+    "key": "rrds",
+    "value": "murer"
+  },
+  {
+    "key": "rrm",
+    "value": "août"
+  },
+  {
+    "key": "rrmd",
+    "value": "plâtrer"
+  },
+  {
+    "key": "rrmr",
+    "value": "pierre à chaux"
+  },
+  {
+    "key": "rrmf",
+    "value": "pierre"
+  },
+  {
+    "key": "rrmso",
+    "value": "sabler"
+  },
+  {
+    "key": "rrml",
+    "value": "bitumer"
+  },
+  {
+    "key": "rrms",
+    "value": "pétrole"
+  },
+  {
+    "key": "rrf",
+    "value": "septembre"
+  },
+  {
+    "key": "rrfd",
+    "value": "paver"
+  },
+  {
+    "key": "rrfr",
+    "value": "carreler"
+  },
+  {
+    "key": "rrfm",
+    "value": "cour"
+  },
+  {
+    "key": "rrfso",
+    "value": "voûter"
+  },
+  {
+    "key": "rrfl",
+    "value": "poteau"
+  },
+  {
+    "key": "rrfs",
+    "value": "fortifier"
+  },
+  {
+    "key": "rrso",
+    "value": "octobre"
+  },
+  {
+    "key": "rrsod",
+    "value": "forteresse"
+  },
+  {
+    "key": "rrsor",
+    "value": "caserner"
+  },
+  {
+    "key": "rrsom",
+    "value": "être en garnison"
+  },
+  {
+    "key": "rrsof",
+    "value": "terrasser"
+  },
+  {
+    "key": "rrsol",
+    "value": "tour"
+  },
+  {
+    "key": "rrsos",
+    "value": "créneler"
+  },
+  {
+    "key": "rrl",
+    "value": "novembre"
+  },
+  {
+    "key": "rrld",
+    "value": "dôme"
+  },
+  {
+    "key": "rrlr",
+    "value": "cime"
+  },
+  {
+    "key": "rrlm",
+    "value": "mansarde"
+  },
+  {
+    "key": "rrlf",
+    "value": "lambriser"
+  },
+  {
+    "key": "rrlso",
+    "value": "toiture"
+  },
+  {
+    "key": "rrls",
+    "value": "ardoises"
+  },
+  {
+    "key": "rrs",
+    "value": "décembre"
+  },
+  {
+    "key": "rrsd",
+    "value": "paratonnerre"
+  },
+  {
+    "key": "rrsr",
+    "value": "gouttière"
+  },
+  {
+    "key": "rrsm",
+    "value": "fossé"
+  },
+  {
+    "key": "rrsf",
+    "value": "marais"
+  },
+  {
+    "key": "rrsso",
+    "value": "boue"
+  },
+  {
+    "key": "rrsl",
+    "value": "égout"
+  },
+  {
+    "key": "rm",
+    "value": "ton, ta, tien, tienne, tes"
+  },
+  {
+    "key": "rmd",
+    "value": "limiter, borner, circonscrire"
+  },
+  {
+    "key": "rmdd",
+    "value": "tourner"
+  },
+  {
+    "key": "rmdr",
+    "value": "châle"
+  },
+  {
+    "key": "rmdm",
+    "value": "dépositaire"
+  },
+  {
+    "key": "rmdf",
+    "value": "agraffer"
+  },
+  {
+    "key": "rmdso",
+    "value": "chapeau"
+  },
+  {
+    "key": "rmdl",
+    "value": "voiler"
+  },
+  {
+    "key": "rmds",
+    "value": "élégance"
+  },
+  {
+    "key": "rmr",
+    "value": "mériter, être digne de"
+  },
+  {
+    "key": "rmrd",
+    "value": "marcher"
+  },
+  {
+    "key": "rmrr",
+    "value": "arrondir"
+  },
+  {
+    "key": "rmrm",
+    "value": "promener"
+  },
+  {
+    "key": "rmrf",
+    "value": "voiture"
+  },
+  {
+    "key": "rmrso",
+    "value": "visiter"
+  },
+  {
+    "key": "rmrl",
+    "value": "cartes (de visites)"
+  },
+  {
+    "key": "rmrs",
+    "value": "monde (le -)"
+  },
+  {
+    "key": "rmm",
+    "value": "deux"
+  },
+  {
+    "key": "rmmd",
+    "value": "vitrer"
+  },
+  {
+    "key": "rmmr",
+    "value": "griller"
+  },
+  {
+    "key": "rmmf",
+    "value": "moulin"
+  },
+  {
+    "key": "rmf",
+    "value": "bienfaisance"
+  },
+  {
+    "key": "rmfd",
+    "value": "défaut"
+  },
+  {
+    "key": "rmfr",
+    "value": "propriété"
+  },
+  {
+    "key": "rmfm",
+    "value": "concierge"
+  },
+  {
+    "key": "rmff",
+    "value": "enceindre"
+  },
+  {
+    "key": "rmfso",
+    "value": "louer"
+  },
+  {
+    "key": "rmfl",
+    "value": "maison"
+  },
+  {
+    "key": "rmfs",
+    "value": "habiter"
+  },
+  {
+    "key": "rmso",
+    "value": ""
+  },
+  {
+    "key": "rmsod",
+    "value": "sommeiller"
+  },
+  {
+    "key": "rmsor",
+    "value": "vestibule"
+  },
+  {
+    "key": "rmsom",
+    "value": "poste"
+  },
+  {
+    "key": "rmsof",
+    "value": "antichambre"
+  },
+  {
+    "key": "rmsoso",
+    "value": "bomber"
+  },
+  {
+    "key": "rmsol",
+    "value": "salle"
+  },
+  {
+    "key": "rmsos",
+    "value": "cabinet"
+  },
+  {
+    "key": "rml",
+    "value": "donner, gratifier"
+  },
+  {
+    "key": "rmld",
+    "value": "chambre à coucher"
+  },
+  {
+    "key": "rmlr",
+    "value": "cheminée"
+  },
+  {
+    "key": "rmlm",
+    "value": "flambeau"
+  },
+  {
+    "key": "rmlf",
+    "value": "fenêtre"
+  },
+  {
+    "key": "rmlso",
+    "value": "contrevent"
+  },
+  {
+    "key": "rmll",
+    "value": "ovale"
+  },
+  {
+    "key": "rmls",
+    "value": "balcon"
+  },
+  {
+    "key": "rms",
+    "value": ""
+  },
+  {
+    "key": "rmsd",
+    "value": "cave"
+  },
+  {
+    "key": "rmsr",
+    "value": "barrique"
+  },
+  {
+    "key": "rmsm",
+    "value": "rez-de-chaussée"
+  },
+  {
+    "key": "rmsf",
+    "value": "lanterner"
+  },
+  {
+    "key": "rmsso",
+    "value": "escalier"
+  },
+  {
+    "key": "rmsl",
+    "value": "étage"
+  },
+  {
+    "key": "rmss",
+    "value": "carrer"
+  },
+  {
+    "key": "rf",
+    "value": "son, sa, sien, sienne, ses"
+  },
+  {
+    "key": "rfd",
+    "value": ""
+  },
+  {
+    "key": "rfdd",
+    "value": "profaner"
+  },
+  {
+    "key": "rfdr",
+    "value": "emménager"
+  },
+  {
+    "key": "rfdm",
+    "value": "mobilier"
+  },
+  {
+    "key": "rfdf",
+    "value": "ménage"
+  },
+  {
+    "key": "rfdso",
+    "value": "meubler"
+  },
+  {
+    "key": "rfdl",
+    "value": "tiroir"
+  },
+  {
+    "key": "rfds",
+    "value": "bibliothèque"
+  },
+  {
+    "key": "rfr",
+    "value": ""
+  },
+  {
+    "key": "rfrd",
+    "value": "armoire"
+  },
+  {
+    "key": "rfrr",
+    "value": "forger"
+  },
+  {
+    "key": "rfrm",
+    "value": "siège"
+  },
+  {
+    "key": "rfrf",
+    "value": "s'assoir"
+  },
+  {
+    "key": "rfrso",
+    "value": "lit"
+  },
+  {
+    "key": "rfrl",
+    "value": "literie"
+  },
+  {
+    "key": "rfrs",
+    "value": "rideaux"
+  },
+  {
+    "key": "rfm",
+    "value": "déplaire"
+  },
+  {
+    "key": "rfmd",
+    "value": "mourir"
+  },
+  {
+    "key": "rfmr",
+    "value": "poêle"
+  },
+  {
+    "key": "rfmm",
+    "value": "maréchalerie"
+  },
+  {
+    "key": "rfmf",
+    "value": "ustensiles de feu"
+  },
+  {
+    "key": "rfmso",
+    "value": "souffler"
+  },
+  {
+    "key": "rfml",
+    "value": "combustibles"
+  },
+  {
+    "key": "rfms",
+    "value": "charbon"
+  },
+  {
+    "key": "rff",
+    "value": "trois"
+  },
+  {
+    "key": "rffd",
+    "value": "engrener"
+  },
+  {
+    "key": "rffr",
+    "value": "poulie"
+  },
+  {
+    "key": "rffm",
+    "value": "serrure"
+  },
+  {
+    "key": "rffso",
+    "value": "contre-poison"
+  },
+  {
+    "key": "rffl",
+    "value": "clé"
+  },
+  {
+    "key": "rffs",
+    "value": "verrou"
+  },
+  {
+    "key": "rfso",
+    "value": ""
+  },
+  {
+    "key": "rfsod",
+    "value": "feu"
+  },
+  {
+    "key": "rfsor",
+    "value": "brûler"
+  },
+  {
+    "key": "rfsom",
+    "value": "scintiller"
+  },
+  {
+    "key": "rfsof",
+    "value": "pacifier"
+  },
+  {
+    "key": "rfsoso",
+    "value": "fer à cheval"
+  },
+  {
+    "key": "rfsol",
+    "value": "chauffer"
+  },
+  {
+    "key": "rfsos",
+    "value": "foyer"
+  },
+  {
+    "key": "rfl",
+    "value": "privilégier"
+  },
+  {
+    "key": "rfld",
+    "value": "linge"
+  },
+  {
+    "key": "rflr",
+    "value": "déchirer"
+  },
+  {
+    "key": "rflm",
+    "value": "raccommoder"
+  },
+  {
+    "key": "rflf",
+    "value": "coudre"
+  },
+  {
+    "key": "rflso",
+    "value": "border"
+  },
+  {
+    "key": "rfll",
+    "value": "enclume"
+  },
+  {
+    "key": "rfls",
+    "value": "broder"
+  },
+  {
+    "key": "rfs",
+    "value": "droit [avoir -]"
+  },
+  {
+    "key": "rfsd",
+    "value": "dé"
+  },
+  {
+    "key": "rfsr",
+    "value": "étui"
+  },
+  {
+    "key": "rfsm",
+    "value": "aiguilles"
+  },
+  {
+    "key": "rfsf",
+    "value": "ciseler"
+  },
+  {
+    "key": "rfsso",
+    "value": "couper"
+  },
+  {
+    "key": "rfsl",
+    "value": "tailler"
+  },
+  {
+    "key": "rfss",
+    "value": "étau"
+  },
+  {
+    "key": "rso",
+    "value": "notre, nos"
+  },
+  {
+    "key": "rsod",
+    "value": "douter de dieu"
+  },
+  {
+    "key": "rsodd",
+    "value": "serrer"
+  },
+  {
+    "key": "rsodr",
+    "value": "poche"
+  },
+  {
+    "key": "rsodm",
+    "value": "commodité"
+  },
+  {
+    "key": "rsodf",
+    "value": "cacher"
+  },
+  {
+    "key": "rsodso",
+    "value": "porte-monnaie"
+  },
+  {
+    "key": "rsodl",
+    "value": "contenir"
+  },
+  {
+    "key": "rsods",
+    "value": "dépenser"
+  },
+  {
+    "key": "rsor",
+    "value": "errer, vaguer, s'égarer, se tromper"
+  },
+  {
+    "key": "rsord",
+    "value": "maître"
+  },
+  {
+    "key": "rsorr",
+    "value": "tenailles"
+  },
+  {
+    "key": "rsorm",
+    "value": "commander"
+  },
+  {
+    "key": "rsorf",
+    "value": "envoyer"
+  },
+  {
+    "key": "rsorso",
+    "value": "congédier"
+  },
+  {
+    "key": "rsorl",
+    "value": "développer"
+  },
+  {
+    "key": "rsors",
+    "value": "renvoyer"
+  },
+  {
+    "key": "rsom",
+    "value": ""
+  },
+  {
+    "key": "rsomd",
+    "value": "impuissance"
+  },
+  {
+    "key": "rsomr",
+    "value": "balayer"
+  },
+  {
+    "key": "rsomm",
+    "value": "pincer"
+  },
+  {
+    "key": "rsomf",
+    "value": "cirer"
+  },
+  {
+    "key": "rsomso",
+    "value": "brosser"
+  },
+  {
+    "key": "rsoml",
+    "value": "continuer"
+  },
+  {
+    "key": "rsoms",
+    "value": "nettoyer"
+  },
+  {
+    "key": "rsof",
+    "value": ""
+  },
+  {
+    "key": "rsofd",
+    "value": "faire des tours"
+  },
+  {
+    "key": "rsofr",
+    "value": "se baigner"
+  },
+  {
+    "key": "rsofm",
+    "value": "timidité"
+  },
+  {
+    "key": "rsoff",
+    "value": "marteler"
+  },
+  {
+    "key": "rsofso",
+    "value": "dénuder"
+  },
+  {
+    "key": "rsofl",
+    "value": "éponger"
+  },
+  {
+    "key": "rsofs",
+    "value": "frictionner"
+  },
+  {
+    "key": "rsoso",
+    "value": "quatre"
+  },
+  {
+    "key": "rsosod",
+    "value": "menuiserie"
+  },
+  {
+    "key": "rsosor",
+    "value": "boiser"
+  },
+  {
+    "key": "rsosom",
+    "value": "raboter"
+  },
+  {
+    "key": "rsosof",
+    "value": "aplatir"
+  },
+  {
+    "key": "rsosol",
+    "value": "horizontalité"
+  },
+  {
+    "key": "rsosos",
+    "value": "verticalité"
+  },
+  {
+    "key": "rsol",
+    "value": "matérialiser"
+  },
+  {
+    "key": "rsold",
+    "value": "se fatiguer"
+  },
+  {
+    "key": "rsolr",
+    "value": "se déshabiller"
+  },
+  {
+    "key": "rsolm",
+    "value": "se coucher"
+  },
+  {
+    "key": "rsolf",
+    "value": "se couvrir"
+  },
+  {
+    "key": "rsolso",
+    "value": "se reposer"
+  },
+  {
+    "key": "rsoll",
+    "value": "pousser"
+  },
+  {
+    "key": "rsols",
+    "value": "rêver"
+  },
+  {
+    "key": "rsos",
+    "value": "décourager"
+  },
+  {
+    "key": "rsosd",
+    "value": "nécessiter"
+  },
+  {
+    "key": "rsosr",
+    "value": "travailler"
+  },
+  {
+    "key": "rsosm",
+    "value": "pratiquer"
+  },
+  {
+    "key": "rsosf",
+    "value": "métier"
+  },
+  {
+    "key": "rsosso",
+    "value": "ouvrage"
+  },
+  {
+    "key": "rsosl",
+    "value": "s'habituer"
+  },
+  {
+    "key": "rsoss",
+    "value": "enfoncer"
+  },
+  {
+    "key": "rl",
+    "value": "votre, vos"
+  },
+  {
+    "key": "rld",
+    "value": ""
+  },
+  {
+    "key": "rldd",
+    "value": "équilibrer"
+  },
+  {
+    "key": "rldr",
+    "value": "blanchir"
+  },
+  {
+    "key": "rldm",
+    "value": "empeser"
+  },
+  {
+    "key": "rldf",
+    "value": "repasser"
+  },
+  {
+    "key": "rldso",
+    "value": "froncer"
+  },
+  {
+    "key": "rldl",
+    "value": "fers"
+  },
+  {
+    "key": "rlds",
+    "value": "aiguiser"
+  },
+  {
+    "key": "rlr",
+    "value": "contrarier"
+  },
+  {
+    "key": "rlrd",
+    "value": "fêler"
+  },
+  {
+    "key": "rlrr",
+    "value": "ressort"
+  },
+  {
+    "key": "rlrm",
+    "value": "casser"
+  },
+  {
+    "key": "rlrf",
+    "value": "briser"
+  },
+  {
+    "key": "rlrso",
+    "value": "clouer"
+  },
+  {
+    "key": "rlrl",
+    "value": "percer"
+  },
+  {
+    "key": "rlrs",
+    "value": "trouer"
+  },
+  {
+    "key": "rlm",
+    "value": "soupçonner, suspecter, se méfier, se défier"
+  },
+  {
+    "key": "rlmd",
+    "value": "bégayer"
+  },
+  {
+    "key": "rlmr",
+    "value": "voisiner"
+  },
+  {
+    "key": "rlmm",
+    "value": "côté"
+  },
+  {
+    "key": "rlmf",
+    "value": "frapper"
+  },
+  {
+    "key": "rlmso",
+    "value": "agiter"
+  },
+  {
+    "key": "rlml",
+    "value": "bon marché"
+  },
+  {
+    "key": "rlms",
+    "value": "sonner"
+  },
+  {
+    "key": "rlf",
+    "value": ""
+  },
+  {
+    "key": "rlfd",
+    "value": "malignité"
+  },
+  {
+    "key": "rlfr",
+    "value": "se courber"
+  },
+  {
+    "key": "rlfm",
+    "value": "pencher"
+  },
+  {
+    "key": "rlff",
+    "value": "droit"
+  },
+  {
+    "key": "rlfso",
+    "value": "se retourner"
+  },
+  {
+    "key": "rlfl",
+    "value": "disproportionner"
+  },
+  {
+    "key": "rlfs",
+    "value": "tenir"
+  },
+  {
+    "key": "rlso",
+    "value": ""
+  },
+  {
+    "key": "rlsod",
+    "value": "embarrasser"
+  },
+  {
+    "key": "rlsor",
+    "value": "jeter"
+  },
+  {
+    "key": "rlsom",
+    "value": "trouver"
+  },
+  {
+    "key": "rlsof",
+    "value": "relever"
+  },
+  {
+    "key": "rlsoso",
+    "value": "accrocher"
+  },
+  {
+    "key": "rlsol",
+    "value": "objet"
+  },
+  {
+    "key": "rlsos",
+    "value": "bagatelle"
+  },
+  {
+    "key": "rll",
+    "value": "cinq"
+  },
+  {
+    "key": "rlld",
+    "value": "ébénisterie"
+  },
+  {
+    "key": "rllr",
+    "value": "marqueter"
+  },
+  {
+    "key": "rllm",
+    "value": "surface"
+  },
+  {
+    "key": "rllf",
+    "value": "ébène"
+  },
+  {
+    "key": "rllso",
+    "value": "charpenterie"
+  },
+  {
+    "key": "rlls",
+    "value": "planchéier"
+  },
+  {
+    "key": "rls",
+    "value": "regretter, déplorer"
+  },
+  {
+    "key": "rlsd",
+    "value": "emplir"
+  },
+  {
+    "key": "rlsr",
+    "value": "charger"
+  },
+  {
+    "key": "rlsm",
+    "value": "déborder"
+  },
+  {
+    "key": "rlsf",
+    "value": "ouest"
+  },
+  {
+    "key": "rlsso",
+    "value": "boucher"
+  },
+  {
+    "key": "rlsl",
+    "value": "enfermer"
+  },
+  {
+    "key": "rlss",
+    "value": "crochet"
+  },
+  {
+    "key": "rs",
+    "value": "leur(s)"
+  },
+  {
+    "key": "rsd",
+    "value": "maltraiter, malmener, bourrer"
+  },
+  {
+    "key": "rsdd",
+    "value": "outiller"
+  },
+  {
+    "key": "rsdr",
+    "value": "race"
+  },
+  {
+    "key": "rsdm",
+    "value": "généalogie"
+  },
+  {
+    "key": "rsdf",
+    "value": "aieux"
+  },
+  {
+    "key": "rsdso",
+    "value": "famille"
+  },
+  {
+    "key": "rsdl",
+    "value": "grand-parent"
+  },
+  {
+    "key": "rsds",
+    "value": "parentalité"
+  },
+  {
+    "key": "rsr",
+    "value": "endurcir [s']"
+  },
+  {
+    "key": "rsrd",
+    "value": "engendrer"
+  },
+  {
+    "key": "rsrr",
+    "value": "manche"
+  },
+  {
+    "key": "rsmso",
+    "value": "concevoir"
+  },
+  {
+    "key": "rsrf",
+    "value": "accoucher"
+  },
+  {
+    "key": "rsrso",
+    "value": "fils"
+  },
+  {
+    "key": "rsrl",
+    "value": "embrasser"
+  },
+  {
+    "key": "rsrs",
+    "value": "caresser"
+  },
+  {
+    "key": "rsm",
+    "value": "récalcitrer, regimber, se formaliser de"
+  },
+  {
+    "key": "rsmd",
+    "value": "renoncer"
+  },
+  {
+    "key": "rsmr",
+    "value": "frère, sœur"
+  },
+  {
+    "key": "rsmm",
+    "value": "lame"
+  },
+  {
+    "key": "rsmf",
+    "value": "petit-fils, belle-fille"
+  },
+  {
+    "key": "rsmso",
+    "value": "oncle, tante"
+  },
+  {
+    "key": "rsml",
+    "value": "neveu, nièce"
+  },
+  {
+    "key": "rsms",
+    "value": "cousin, cousine"
+  },
+  {
+    "key": "rsf",
+    "value": "devenir"
+  },
+  {
+    "key": "rsfd",
+    "value": "imprévoyance"
+  },
+  {
+    "key": "rsfr",
+    "value": "beau-parent"
+  },
+  {
+    "key": "rsfm",
+    "value": "gendre"
+  },
+  {
+    "key": "rsff",
+    "value": "hache"
+  },
+  {
+    "key": "rsfso",
+    "value": "beau-frère, belle-sœur"
+  },
+  {
+    "key": "rsfl",
+    "value": "tutelle"
+  },
+  {
+    "key": "rsfs",
+    "value": "pupille"
+  },
+  {
+    "key": "rsso",
+    "value": "atrister [s']"
+  },
+  {
+    "key": "rssod",
+    "value": "parrain"
+  },
+  {
+    "key": "rssor",
+    "value": "nommer"
+  },
+  {
+    "key": "rssom",
+    "value": "filleul"
+  },
+  {
+    "key": "rssof",
+    "value": "intimité"
+  },
+  {
+    "key": "rssoso",
+    "value": "scier"
+  },
+  {
+    "key": "rssol",
+    "value": "familiarité"
+  },
+  {
+    "key": "rssos",
+    "value": "camaraderie"
+  },
+  {
+    "key": "rsl",
+    "value": "ennuyer [s']"
+  },
+  {
+    "key": "rsld",
+    "value": "promettre"
+  },
+  {
+    "key": "rslr",
+    "value": "promettre"
+  },
+  {
+    "key": "rslm",
+    "value": "obliger"
+  },
+  {
+    "key": "rslf",
+    "value": "prêter"
+  },
+  {
+    "key": "rslso",
+    "value": "héberger"
+  },
+  {
+    "key": "rsll",
+    "value": "limer"
+  },
+  {
+    "key": "rsls",
+    "value": "endroit"
+  },
+  {
+    "key": "rss",
+    "value": "six"
+  },
+  {
+    "key": "rssd",
+    "value": "mécanique"
+  },
+  {
+    "key": "rssr",
+    "value": "levier"
+  },
+  {
+    "key": "rssm",
+    "value": "cylindre"
+  },
+  {
+    "key": "rssf",
+    "value": "tube"
+  },
+  {
+    "key": "rssso",
+    "value": "barrer"
+  },
+  {
+    "key": "rssl",
+    "value": "rails"
+  },
+  {
+    "key": "m",
+    "value": "ou"
+  },
+  {
+    "key": "md",
+    "value": "pour"
+  },
+  {
+    "key": "mdd",
+    "value": "treize"
+  },
+  {
+    "key": "mddr",
+    "value": ""
+  },
+  {
+    "key": "mddm",
+    "value": ""
+  },
+  {
+    "key": "mddf",
+    "value": ""
+  },
+  {
+    "key": "mddso",
+    "value": ""
+  },
+  {
+    "key": "mddl",
+    "value": "excéder, outrepasser"
+  },
+  {
+    "key": "mdds",
+    "value": ""
+  },
+  {
+    "key": "mdr",
+    "value": "sympathiser, se plaire"
+  },
+  {
+    "key": "mdrd",
+    "value": "moral (le)"
+  },
+  {
+    "key": "mdrr",
+    "value": "approximation"
+  },
+  {
+    "key": "mdrm",
+    "value": "origine"
+  },
+  {
+    "key": "mdrf",
+    "value": "précéder"
+  },
+  {
+    "key": "mdrso",
+    "value": "postérité"
+  },
+  {
+    "key": "mdrl",
+    "value": "clair"
+  },
+  {
+    "key": "mdrs",
+    "value": "dispercer"
+  },
+  {
+    "key": "mdm",
+    "value": "attirer"
+  },
+  {
+    "key": "mdmd",
+    "value": "doter"
+  },
+  {
+    "key": "mdmr",
+    "value": "déposer"
+  },
+  {
+    "key": "mdmm",
+    "value": ""
+  },
+  {
+    "key": "mdmf",
+    "value": "léguer"
+  },
+  {
+    "key": "mdmso",
+    "value": "hériter"
+  },
+  {
+    "key": "mdml",
+    "value": "manquer"
+  },
+  {
+    "key": "mdms",
+    "value": "posséder"
+  },
+  {
+    "key": "mdf",
+    "value": "préférer"
+  },
+  {
+    "key": "mdfd",
+    "value": "désespérer"
+  },
+  {
+    "key": "mdfr",
+    "value": "deuil"
+  },
+  {
+    "key": "mdfm",
+    "value": "veuvage"
+  },
+  {
+    "key": "mdff",
+    "value": ""
+  },
+  {
+    "key": "mdfso",
+    "value": "orphelinat"
+  },
+  {
+    "key": "mdfl",
+    "value": "abandonner"
+  },
+  {
+    "key": "mdfs",
+    "value": "souffrir"
+  },
+  {
+    "key": "mdso",
+    "value": "trinité"
+  },
+  {
+    "key": "mdsod",
+    "value": "craindre"
+  },
+  {
+    "key": "mdsor",
+    "value": "incommodité"
+  },
+  {
+    "key": "mdsom",
+    "value": "s'inquiéter"
+  },
+  {
+    "key": "mdsof",
+    "value": "se plaindre"
+  },
+  {
+    "key": "mdsoso",
+    "value": ""
+  },
+  {
+    "key": "mdsol",
+    "value": "destin"
+  },
+  {
+    "key": "mdsos",
+    "value": "fatalité"
+  },
+  {
+    "key": "mdl",
+    "value": ""
+  },
+  {
+    "key": "mdld",
+    "value": "refuser"
+  },
+  {
+    "key": "mdlr",
+    "value": "intervenir"
+  },
+  {
+    "key": "mdlm",
+    "value": "influencer"
+  },
+  {
+    "key": "mdlf",
+    "value": "concilier"
+  },
+  {
+    "key": "mdlso",
+    "value": "consoler"
+  },
+  {
+    "key": "mdll",
+    "value": ""
+  },
+  {
+    "key": "mdls",
+    "value": "contenter"
+  },
+  {
+    "key": "mds",
+    "value": "affectionner, s'attacher, tenir à"
+  },
+  {
+    "key": "mdsd",
+    "value": "sacrifier"
+  },
+  {
+    "key": "mdsr",
+    "value": "se priver"
+  },
+  {
+    "key": "mdsm",
+    "value": "invraisemblance"
+  },
+  {
+    "key": "mdsf",
+    "value": "revenir"
+  },
+  {
+    "key": "mdsso",
+    "value": "s'efforcer"
+  },
+  {
+    "key": "mdsl",
+    "value": "obtenir"
+  },
+  {
+    "key": "mdss",
+    "value": ""
+  },
+  {
+    "key": "mr",
+    "value": "qui, que, lequel, lesquels, lesquels personnes, lesquels choses"
+  },
+  {
+    "key": "mrd",
+    "value": "entr'aimer [s'], se convenir"
+  },
+  {
+    "key": "mrdd",
+    "value": ""
+  },
+  {
+    "key": "mrdr",
+    "value": "particulariser"
+  },
+  {
+    "key": "mrdm",
+    "value": "rareté"
+  },
+  {
+    "key": "mrdf",
+    "value": "prendre l'initiative"
+  },
+  {
+    "key": "mrdso",
+    "value": "tenter"
+  },
+  {
+    "key": "mrdl",
+    "value": "entreprendre"
+  },
+  {
+    "key": "mrds",
+    "value": "hasarder"
+  },
+  {
+    "key": "mrr",
+    "value": "quatorze"
+  },
+  {
+    "key": "mrrd",
+    "value": ""
+  },
+  {
+    "key": "mrrm",
+    "value": ""
+  },
+  {
+    "key": "mrrf",
+    "value": ""
+  },
+  {
+    "key": "mrrso",
+    "value": ""
+  },
+  {
+    "key": "mrrl",
+    "value": ""
+  },
+  {
+    "key": "mrrs",
+    "value": ""
+  },
+  {
+    "key": "mrm",
+    "value": ""
+  },
+  {
+    "key": "mrmd",
+    "value": "aveugler"
+  },
+  {
+    "key": "mrmr",
+    "value": "inscrire"
+  },
+  {
+    "key": "mrmm",
+    "value": ""
+  },
+  {
+    "key": "mrmf",
+    "value": "document"
+  },
+  {
+    "key": "mrmso",
+    "value": "officiel"
+  },
+  {
+    "key": "mrml",
+    "value": "dédier"
+  },
+  {
+    "key": "mrms",
+    "value": "strophe"
+  },
+  {
+    "key": "mrf",
+    "value": ""
+  },
+  {
+    "key": "mrfd",
+    "value": "dire"
+  },
+  {
+    "key": "mrfr",
+    "value": "chose"
+  },
+  {
+    "key": "mrfm",
+    "value": "principal"
+  },
+  {
+    "key": "mrff",
+    "value": ""
+  },
+  {
+    "key": "mrfso",
+    "value": "sérieux"
+  },
+  {
+    "key": "mrfl",
+    "value": "précieux"
+  },
+  {
+    "key": "mrfs",
+    "value": "curiosité"
+  },
+  {
+    "key": "mrso",
+    "value": "reconnaître, savoir gré"
+  },
+  {
+    "key": "mrsod",
+    "value": "inexpérience"
+  },
+  {
+    "key": "mrsor",
+    "value": "participer"
+  },
+  {
+    "key": "mrsom",
+    "value": "projeter"
+  },
+  {
+    "key": "mrsof",
+    "value": "but"
+  },
+  {
+    "key": "mrsoso",
+    "value": ""
+  },
+  {
+    "key": "mrsol",
+    "value": "amincir"
+  },
+  {
+    "key": "mrsos",
+    "value": "destiner"
+  },
+  {
+    "key": "mrl",
+    "value": "dévouer [se -], se vouer, se consacrer à"
+  },
+  {
+    "key": "mrld",
+    "value": "avoir tort"
+  },
+  {
+    "key": "mrlr",
+    "value": "reprocher"
+  },
+  {
+    "key": "mrlm",
+    "value": "gronder"
+  },
+  {
+    "key": "mrlf",
+    "value": "quereller"
+  },
+  {
+    "key": "mrlso",
+    "value": "injurier"
+  },
+  {
+    "key": "mrll",
+    "value": ""
+  },
+  {
+    "key": "mrls",
+    "value": "incident"
+  },
+  {
+    "key": "mrs",
+    "value": "lier, enchaîner"
+  },
+  {
+    "key": "mrsd",
+    "value": "provoquer"
+  },
+  {
+    "key": "mrsr",
+    "value": "menacer"
+  },
+  {
+    "key": "mrsm",
+    "value": "souffleter"
+  },
+  {
+    "key": "mrsf",
+    "value": "offenser"
+  },
+  {
+    "key": "mrsso",
+    "value": "se fâcher"
+  },
+  {
+    "key": "mrsl",
+    "value": "bouder"
+  },
+  {
+    "key": "mrss",
+    "value": ""
+  },
+  {
+    "key": "mm",
+    "value": "futur"
+  },
+  {
+    "key": "mmd",
+    "value": "sept"
+  },
+  {
+    "key": "mmdr",
+    "value": "mais"
+  },
+  {
+    "key": "mmdm",
+    "value": ""
+  },
+  {
+    "key": "mmdf",
+    "value": ""
+  },
+  {
+    "key": "mmdso",
+    "value": ""
+  },
+  {
+    "key": "mmdl",
+    "value": ""
+  },
+  {
+    "key": "mmds",
+    "value": ""
+  },
+  {
+    "key": "mmr",
+    "value": "huit"
+  },
+  {
+    "key": "mmrd",
+    "value": ""
+  },
+  {
+    "key": "mmrm",
+    "value": "tel que, tels que"
+  },
+  {
+    "key": "mmrf",
+    "value": "joindre"
+  },
+  {
+    "key": "mmrso",
+    "value": ""
+  },
+  {
+    "key": "mmrl",
+    "value": ""
+  },
+  {
+    "key": "mmrso",
+    "value": ""
+  },
+  {
+    "key": "mmf",
+    "value": "neuf"
+  },
+  {
+    "key": "mmfd",
+    "value": ""
+  },
+  {
+    "key": "mmfr",
+    "value": ""
+  },
+  {
+    "key": "mmfm",
+    "value": ""
+  },
+  {
+    "key": "mmfso",
+    "value": ""
+  },
+  {
+    "key": "mmfl",
+    "value": ""
+  },
+  {
+    "key": "mmfs",
+    "value": ""
+  },
+  {
+    "key": "mmso",
+    "value": "dix"
+  },
+  {
+    "key": "mmsod",
+    "value": ""
+  },
+  {
+    "key": "mmsor",
+    "value": ""
+  },
+  {
+    "key": "mmsom",
+    "value": ""
+  },
+  {
+    "key": "mmsof",
+    "value": ""
+  },
+  {
+    "key": "mmsol",
+    "value": ""
+  },
+  {
+    "key": "mmsos",
+    "value": ""
+  },
+  {
+    "key": "mml",
+    "value": "onze"
+  },
+  {
+    "key": "mmld",
+    "value": ""
+  },
+  {
+    "key": "mmlr",
+    "value": ""
+  },
+  {
+    "key": "mmlm",
+    "value": ""
+  },
+  {
+    "key": "mmlf",
+    "value": ""
+  },
+  {
+    "key": "mmlso",
+    "value": ""
+  },
+  {
+    "key": "mmls",
+    "value": ""
+  },
+  {
+    "key": "mms",
+    "value": "douze"
+  },
+  {
+    "key": "mmsd",
+    "value": ""
+  },
+  {
+    "key": "mmsr",
+    "value": ""
+  },
+  {
+    "key": "mmsm",
+    "value": "tantôt"
+  },
+  {
+    "key": "mmsf",
+    "value": ""
+  },
+  {
+    "key": "mmsso",
+    "value": ""
+  },
+  {
+    "key": "mmsl",
+    "value": ""
+  },
+  {
+    "key": "mf",
+    "value": "dont, de qui, duquel, desquels personnes, desquels choses"
+  },
+  {
+    "key": "mfd",
+    "value": ""
+  },
+  {
+    "key": "mfdd",
+    "value": ""
+  },
+  {
+    "key": "mfdr",
+    "value": "caractère"
+  },
+  {
+    "key": "mfdm",
+    "value": "exiger"
+  },
+  {
+    "key": "mfdf",
+    "value": "envier"
+  },
+  {
+    "key": "mfdso",
+    "value": "ambitionner"
+  },
+  {
+    "key": "mfdl",
+    "value": "solliciter"
+  },
+  {
+    "key": "mfds",
+    "value": "intriguer"
+  },
+  {
+    "key": "mfr",
+    "value": "plaire, séduire"
+  },
+  {
+    "key": "mfrd",
+    "value": "personnalité"
+  },
+  {
+    "key": "mfrr",
+    "value": "alterner"
+  },
+  {
+    "key": "mfrm",
+    "value": "accessoire"
+  },
+  {
+    "key": "mfrf",
+    "value": "amour-propre"
+  },
+  {
+    "key": "mfrso",
+    "value": "vanité"
+  },
+  {
+    "key": "mfrl",
+    "value": "s'arroger"
+  },
+  {
+    "key": "mfrs",
+    "value": "s'enorgueillir"
+  },
+  {
+    "key": "mfm",
+    "value": "soupirer"
+  },
+  {
+    "key": "mfmd",
+    "value": "susceptibilité"
+  },
+  {
+    "key": "mfmr",
+    "value": "médiocrité"
+  },
+  {
+    "key": "mfmm",
+    "value": ""
+  },
+  {
+    "key": "mfmf",
+    "value": "paresser"
+  },
+  {
+    "key": "mfmso",
+    "value": "négliger"
+  },
+  {
+    "key": "mfml",
+    "value": "sensualité"
+  },
+  {
+    "key": "mfms",
+    "value": "gourmandise"
+  },
+  {
+    "key": "mff",
+    "value": "quinze"
+  },
+  {
+    "key": "mffd",
+    "value": ""
+  },
+  {
+    "key": "mffr",
+    "value": ""
+  },
+  {
+    "key": "mffm",
+    "value": ""
+  },
+  {
+    "key": "mffso",
+    "value": ""
+  },
+  {
+    "key": "mffl",
+    "value": ""
+  },
+  {
+    "key": "mffs",
+    "value": ""
+  },
+  {
+    "key": "mfso",
+    "value": "élever"
+  },
+  {
+    "key": "mfsod",
+    "value": "libertiner"
+  },
+  {
+    "key": "mfsor",
+    "value": "effronterie"
+  },
+  {
+    "key": "mfsom",
+    "value": "corrompre"
+  },
+  {
+    "key": "mfsof",
+    "value": "être désarmé"
+  },
+  {
+    "key": "mfsoso",
+    "value": ""
+  },
+  {
+    "key": "mfsol",
+    "value": "blaser"
+  },
+  {
+    "key": "mfsos",
+    "value": "affreux"
+  },
+  {
+    "key": "mfl",
+    "value": "désirer, souhaiter"
+  },
+  {
+    "key": "mfld",
+    "value": "s'avilir"
+  },
+  {
+    "key": "mflr",
+    "value": "trahir"
+  },
+  {
+    "key": "mflm",
+    "value": "voler, dérober"
+  },
+  {
+    "key": "mflf",
+    "value": "tromper"
+  },
+  {
+    "key": "mflso",
+    "value": "falsifier"
+  },
+  {
+    "key": "mfll",
+    "value": ""
+  },
+  {
+    "key": "mfls",
+    "value": "enfreindre"
+  },
+  {
+    "key": "mfs",
+    "value": ""
+  },
+  {
+    "key": "mfsd",
+    "value": "adultère"
+  },
+  {
+    "key": "mfsr",
+    "value": "jalouser"
+  },
+  {
+    "key": "mfsm",
+    "value": "irriter"
+  },
+  {
+    "key": "mfsf",
+    "value": "s'emporter"
+  },
+  {
+    "key": "mfsso",
+    "value": "inconstance"
+  },
+  {
+    "key": "mfsl",
+    "value": "venger"
+  },
+  {
+    "key": "mfss",
+    "value": ""
+  },
+  {
+    "key": "mso",
+    "value": "bien faire"
+  },
+  {
+    "key": "msod",
+    "value": "esprit de vérité, esprit consolateur, saint-esprit"
+  },
+  {
+    "key": "msodd",
+    "value": ""
+  },
+  {
+    "key": "msodr",
+    "value": "taquiner"
+  },
+  {
+    "key": "msodm",
+    "value": "rassurer"
+  },
+  {
+    "key": "msodf",
+    "value": "se mutiner"
+  },
+  {
+    "key": "msodso",
+    "value": "étourderie"
+  },
+  {
+    "key": "msodl",
+    "value": "changer"
+  },
+  {
+    "key": "msods",
+    "value": "diversifier"
+  },
+  {
+    "key": "msor",
+    "value": "grâce de dieu [la -]"
+  },
+  {
+    "key": "msord",
+    "value": "personne"
+  },
+  {
+    "key": "msorr",
+    "value": ""
+  },
+  {
+    "key": "msorm",
+    "value": "recommander"
+  },
+  {
+    "key": "msorf",
+    "value": "présenter"
+  },
+  {
+    "key": "msorso",
+    "value": "admettre"
+  },
+  {
+    "key": "msorl",
+    "value": "se réunir"
+  },
+  {
+    "key": "msors",
+    "value": "société"
+  },
+  {
+    "key": "msom",
+    "value": ""
+  },
+  {
+    "key": "msomd",
+    "value": "petitesse"
+  },
+  {
+    "key": "msomr",
+    "value": "fréquenter"
+  },
+  {
+    "key": "msomm",
+    "value": ""
+  },
+  {
+    "key": "msomf",
+    "value": "observer"
+  },
+  {
+    "key": "msomso",
+    "value": "regarder"
+  },
+  {
+    "key": "msoml",
+    "value": "causer"
+  },
+  {
+    "key": "msoms",
+    "value": "répondre"
+  },
+  {
+    "key": "msof",
+    "value": ""
+  },
+  {
+    "key": "msofd",
+    "value": "s'enlaidir"
+  },
+  {
+    "key": "msofr",
+    "value": "attitude"
+  },
+  {
+    "key": "msofm",
+    "value": "tournure"
+  },
+  {
+    "key": "msoff",
+    "value": ""
+  },
+  {
+    "key": "msofso",
+    "value": "convenance"
+  },
+  {
+    "key": "msofl",
+    "value": "bon ton"
+  },
+  {
+    "key": "msofs",
+    "value": "politesse"
+  },
+  {
+    "key": "msoso",
+    "value": "seize"
+  },
+  {
+    "key": "msosod",
+    "value": ""
+  },
+  {
+    "key": "msosor",
+    "value": ""
+  },
+  {
+    "key": "msosom",
+    "value": ""
+  },
+  {
+    "key": "msosof",
+    "value": "prendre sa revanche"
+  },
+  {
+    "key": "msosol",
+    "value": ""
+  },
+  {
+    "key": "msosos",
+    "value": ""
+  },
+  {
+    "key": "msol",
+    "value": "égaler"
+  },
+  {
+    "key": "msold",
+    "value": "se singulariser"
+  },
+  {
+    "key": "msolr",
+    "value": "caprice"
+  },
+  {
+    "key": "msolm",
+    "value": "manie"
+  },
+  {
+    "key": "msolf",
+    "value": "minauder"
+  },
+  {
+    "key": "msolso",
+    "value": "coqueter"
+  },
+  {
+    "key": "msoll",
+    "value": ""
+  },
+  {
+    "key": "msols",
+    "value": "courtiser"
+  },
+  {
+    "key": "msos",
+    "value": ""
+  },
+  {
+    "key": "msosd",
+    "value": "inaugurer"
+  },
+  {
+    "key": "msosr",
+    "value": "célébrer"
+  },
+  {
+    "key": "msosm",
+    "value": "fête"
+  },
+  {
+    "key": "msosf",
+    "value": "indirect"
+  },
+  {
+    "key": "msosso",
+    "value": "bal"
+  },
+  {
+    "key": "msosl",
+    "value": "danser"
+  },
+  {
+    "key": "msoss",
+    "value": ""
+  },
+  {
+    "key": "ml",
+    "value": "voilà"
+  },
+  {
+    "key": "mld",
+    "value": "apprécier, estimer, considérer, faire cas de"
+  },
+  {
+    "key": "mldd",
+    "value": ""
+  },
+  {
+    "key": "mldr",
+    "value": "valser"
+  },
+  {
+    "key": "mldm",
+    "value": "simultanéité"
+  },
+  {
+    "key": "mldf",
+    "value": "fois"
+  },
+  {
+    "key": "mldso",
+    "value": "se distraire"
+  },
+  {
+    "key": "mldl",
+    "value": "plaisanter"
+  },
+  {
+    "key": "mlds",
+    "value": "parodier"
+  },
+  {
+    "key": "mlr",
+    "value": "confier [se -], se fier"
+  },
+  {
+    "key": "mlrd",
+    "value": "se moquer"
+  },
+  {
+    "key": "mlrr",
+    "value": ""
+  },
+  {
+    "key": "mlrm",
+    "value": "ridicule"
+  },
+  {
+    "key": "mlrf",
+    "value": "critiquer"
+  },
+  {
+    "key": "mlrso",
+    "value": "médire"
+  },
+  {
+    "key": "mlrl",
+    "value": "calomnier"
+  },
+  {
+    "key": "mlrs",
+    "value": "compromettre"
+  },
+  {
+    "key": "mlm",
+    "value": "passionner [se -]"
+  },
+  {
+    "key": "mlmd",
+    "value": "déraisonner"
+  },
+  {
+    "key": "mlmr",
+    "value": "secret"
+  },
+  {
+    "key": "mlmm",
+    "value": "quand doit avoir lieu ?"
+  },
+  {
+    "key": "mlmf",
+    "value": "confidence"
+  },
+  {
+    "key": "mlmso",
+    "value": "fureter"
+  },
+  {
+    "key": "mlml",
+    "value": "deviner"
+  },
+  {
+    "key": "mlms",
+    "value": "divulguer"
+  },
+  {
+    "key": "mlf",
+    "value": "raffoler, idolâtrer"
+  },
+  {
+    "key": "mlfd",
+    "value": "insensibilité"
+  },
+  {
+    "key": "mlfr",
+    "value": "indifférence"
+  },
+  {
+    "key": "mlfm",
+    "value": "froideur"
+  },
+  {
+    "key": "mlff",
+    "value": "quand cela est-il arrivé ?"
+  },
+  {
+    "key": "mlfso",
+    "value": "sang-froid"
+  },
+  {
+    "key": "mlfl",
+    "value": "préjuger"
+  },
+  {
+    "key": "mlfs",
+    "value": "coterie"
+  },
+  {
+    "key": "mlso",
+    "value": "aimer (pour les choses)"
+  },
+  {
+    "key": "mlsod",
+    "value": "blâmer"
+  },
+  {
+    "key": "mlsor",
+    "value": "dédaigner"
+  },
+  {
+    "key": "mlsom",
+    "value": "diffamer"
+  },
+  {
+    "key": "mlsof",
+    "value": "contester"
+  },
+  {
+    "key": "mlsoso",
+    "value": "qu'en dira-t-on ?"
+  },
+  {
+    "key": "mlsol",
+    "value": "insolvabilité"
+  },
+  {
+    "key": "mlsos",
+    "value": "opposer"
+  },
+  {
+    "key": "mll",
+    "value": "dix-sept"
+  },
+  {
+    "key": "mlld",
+    "value": ""
+  },
+  {
+    "key": "mllr",
+    "value": ""
+  },
+  {
+    "key": "mllm",
+    "value": ""
+  },
+  {
+    "key": "mllf",
+    "value": ""
+  },
+  {
+    "key": "mllso",
+    "value": ""
+  },
+  {
+    "key": "mlls",
+    "value": ""
+  },
+  {
+    "key": "mls",
+    "value": "aimer, chérir"
+  },
+  {
+    "key": "mlsd",
+    "value": "congrès"
+  },
+  {
+    "key": "mlsr",
+    "value": "noter"
+  },
+  {
+    "key": "mlsm",
+    "value": "notice"
+  },
+  {
+    "key": "mlsf",
+    "value": "délibérer"
+  },
+  {
+    "key": "mlsso",
+    "value": "rapporter"
+  },
+  {
+    "key": "mlsl",
+    "value": "conclure"
+  },
+  {
+    "key": "mlss",
+    "value": "qu'est-il survenu, qu'est-il arrivé, quoi de nouv."
+  },
+  {
+    "key": "ms",
+    "value": "bonsoir"
+  },
+  {
+    "key": "msd",
+    "value": ""
+  },
+  {
+    "key": "msdd",
+    "value": "d'abord"
+  },
+  {
+    "key": "msdr",
+    "value": "apparence"
+  },
+  {
+    "key": "msdm",
+    "value": "vraisemblance"
+  },
+  {
+    "key": "msdf",
+    "value": "sembler"
+  },
+  {
+    "key": "msdso",
+    "value": "prétexter"
+  },
+  {
+    "key": "msdl",
+    "value": "oser"
+  },
+  {
+    "key": "msds",
+    "value": "se pénétrer de"
+  },
+  {
+    "key": "msr",
+    "value": "durer"
+  },
+  {
+    "key": "msrd",
+    "value": "rester"
+  },
+  {
+    "key": "msrr",
+    "value": "qui est là, qui va là ?"
+  },
+  {
+    "key": "msrm",
+    "value": "avoir hâte de"
+  },
+  {
+    "key": "msrf",
+    "value": "anticiper"
+  },
+  {
+    "key": "msrso",
+    "value": "supposer"
+  },
+  {
+    "key": "msrl",
+    "value": "pressentir"
+  },
+  {
+    "key": "msrs",
+    "value": "prédire"
+  },
+  {
+    "key": "msm",
+    "value": "fiancer [se -]"
+  },
+  {
+    "key": "msmd",
+    "value": "esclavage"
+  },
+  {
+    "key": "msmr",
+    "value": "dépendre"
+  },
+  {
+    "key": "msmm",
+    "value": ""
+  },
+  {
+    "key": "msmf",
+    "value": "responsabilité"
+  },
+  {
+    "key": "msmso",
+    "value": "soumettre à"
+  },
+  {
+    "key": "msml",
+    "value": "obéir"
+  },
+  {
+    "key": "msms",
+    "value": "circonstance"
+  },
+  {
+    "key": "msf",
+    "value": "marier [se -], s'épouser"
+  },
+  {
+    "key": "msfd",
+    "value": "indiscrétion"
+  },
+  {
+    "key": "msfr",
+    "value": "somnambulisme"
+  },
+  {
+    "key": "msfm",
+    "value": "magnétiser"
+  },
+  {
+    "key": "msff",
+    "value": ""
+  },
+  {
+    "key": "msfso",
+    "value": "fluide"
+  },
+  {
+    "key": "msfl",
+    "value": "léger"
+  },
+  {
+    "key": "msfs",
+    "value": "spiritisme"
+  },
+  {
+    "key": "msso",
+    "value": ""
+  },
+  {
+    "key": "mssod",
+    "value": "expérimenter"
+  },
+  {
+    "key": "mssor",
+    "value": "prouver"
+  },
+  {
+    "key": "mssom",
+    "value": "constater"
+  },
+  {
+    "key": "mssof",
+    "value": "persuader"
+  },
+  {
+    "key": "mssoso",
+    "value": "extrême"
+  },
+  {
+    "key": "mssol",
+    "value": "croire"
+  },
+  {
+    "key": "mssos",
+    "value": "certitude"
+  },
+  {
+    "key": "msl",
+    "value": "jouir"
+  },
+  {
+    "key": "msld",
+    "value": "escamoter"
+  },
+  {
+    "key": "mslr",
+    "value": "fantasmagorie"
+  },
+  {
+    "key": "mslm",
+    "value": "transformer"
+  },
+  {
+    "key": "mslf",
+    "value": "ensorceler, jeter un sort sur quelqu'un"
+  },
+  {
+    "key": "mslso",
+    "value": "compérage"
+  },
+  {
+    "key": "msll",
+    "value": ""
+  },
+  {
+    "key": "msls",
+    "value": "connivence"
+  },
+  {
+    "key": "mss",
+    "value": "dix-huit"
+  },
+  {
+    "key": "mssd",
+    "value": ""
+  },
+  {
+    "key": "mssr",
+    "value": ""
+  },
+  {
+    "key": "mssm",
+    "value": ""
+  },
+  {
+    "key": "mssf",
+    "value": ""
+  },
+  {
+    "key": "mssso",
+    "value": ""
+  },
+  {
+    "key": "mssl",
+    "value": ""
+  },
+  {
+    "key": "f",
+    "value": "à, à la, au, aux"
+  },
+  {
+    "key": "fd",
+    "value": "quoi, qu'est-ce que c'est"
+  },
+  {
+    "key": "fdd",
+    "value": "huitante, octante, quatre-vingts"
+  },
+  {
+    "key": "fddr",
+    "value": "retenir"
+  },
+  {
+    "key": "fddm",
+    "value": "détourner de"
+  },
+  {
+    "key": "fddf",
+    "value": "empêcher"
+  },
+  {
+    "key": "fddso",
+    "value": "soigner"
+  },
+  {
+    "key": "fddl",
+    "value": "réparer"
+  },
+  {
+    "key": "fdds",
+    "value": "se précautionner"
+  },
+  {
+    "key": "fdr",
+    "value": "démoraliser"
+  },
+  {
+    "key": "fdrd",
+    "value": "nature"
+  },
+  {
+    "key": "fdrr",
+    "value": "infuser"
+  },
+  {
+    "key": "fdrm",
+    "value": ""
+  },
+  {
+    "key": "fdrf",
+    "value": "paysage"
+  },
+  {
+    "key": "fdrso",
+    "value": "pittoresque"
+  },
+  {
+    "key": "fdrl",
+    "value": "entourer"
+  },
+  {
+    "key": "fdrs",
+    "value": "ferme"
+  },
+  {
+    "key": "fdm",
+    "value": ""
+  },
+  {
+    "key": "fdmd",
+    "value": "montagne"
+  },
+  {
+    "key": "fdmr",
+    "value": "volcan"
+  },
+  {
+    "key": "fdmm",
+    "value": "se gargariser"
+  },
+  {
+    "key": "fdmf",
+    "value": "s'engouffrer"
+  },
+  {
+    "key": "fdmso",
+    "value": "rocher"
+  },
+  {
+    "key": "fdml",
+    "value": "stériliser"
+  },
+  {
+    "key": "fdms",
+    "value": "désert"
+  },
+  {
+    "key": "fdf",
+    "value": "dater"
+  },
+  {
+    "key": "fdfd",
+    "value": "isoler"
+  },
+  {
+    "key": "fdfr",
+    "value": "se réfugier"
+  },
+  {
+    "key": "fdfm",
+    "value": "parc"
+  },
+  {
+    "key": "fdff",
+    "value": "avaler"
+  },
+  {
+    "key": "fdfso",
+    "value": "arbre"
+  },
+  {
+    "key": "fdfl",
+    "value": "feuillage"
+  },
+  {
+    "key": "fdfs",
+    "value": "ombrager"
+  },
+  {
+    "key": "fdso",
+    "value": "signer"
+  },
+  {
+    "key": "fdsod",
+    "value": "fermer"
+  },
+  {
+    "key": "fdsor",
+    "value": "défricher"
+  },
+  {
+    "key": "fdsom",
+    "value": "faucher"
+  },
+  {
+    "key": "fdsof",
+    "value": "ratisser"
+  },
+  {
+    "key": "fdsoso",
+    "value": "goutte (une)"
+  },
+  {
+    "key": "fdsol",
+    "value": "piocher"
+  },
+  {
+    "key": "fdsos",
+    "value": "greffer"
+  },
+  {
+    "key": "fdl",
+    "value": "cacheter, sceller"
+  },
+  {
+    "key": "fdld",
+    "value": "ôter"
+  },
+  {
+    "key": "fdlr",
+    "value": "planter"
+  },
+  {
+    "key": "fdlm",
+    "value": "s'enraciner"
+  },
+  {
+    "key": "fdlf",
+    "value": "tige"
+  },
+  {
+    "key": "fdlso",
+    "value": "branche"
+  },
+  {
+    "key": "fdll",
+    "value": "sirop"
+  },
+  {
+    "key": "fdls",
+    "value": "haie"
+  },
+  {
+    "key": "fds",
+    "value": "finir, achever, terminer"
+  },
+  {
+    "key": "fdsd",
+    "value": "jardiner"
+  },
+  {
+    "key": "fdsr",
+    "value": "jardin"
+  },
+  {
+    "key": "fdsm",
+    "value": "fleurir"
+  },
+  {
+    "key": "fdsf",
+    "value": "bouquet"
+  },
+  {
+    "key": "fdsso",
+    "value": "classique"
+  },
+  {
+    "key": "fdsl",
+    "value": "parfumer"
+  },
+  {
+    "key": "fdss",
+    "value": "adoucir"
+  },
+  {
+    "key": "fr",
+    "value": "celui-là, celle-là, ce, cet, cette, cette personne-là, cette chose-là"
+  },
+  {
+    "key": "frd",
+    "value": "adresser"
+  },
+  {
+    "key": "frdd",
+    "value": "gomme"
+  },
+  {
+    "key": "frdr",
+    "value": "cultiver"
+  },
+  {
+    "key": "frdm",
+    "value": "succéder"
+  },
+  {
+    "key": "frdf",
+    "value": "labourer"
+  },
+  {
+    "key": "frdso",
+    "value": "semer"
+  },
+  {
+    "key": "frdl",
+    "value": "grain"
+  },
+  {
+    "key": "frds",
+    "value": "blé"
+  },
+  {
+    "key": "frr",
+    "value": "cent"
+  },
+  {
+    "key": "frrd",
+    "value": "préserver"
+  },
+  {
+    "key": "frrm",
+    "value": "vacciner"
+  },
+  {
+    "key": "frrf",
+    "value": "allaiter"
+  },
+  {
+    "key": "frrso",
+    "value": "régime"
+  },
+  {
+    "key": "frrl",
+    "value": "guérir"
+  },
+  {
+    "key": "frrs",
+    "value": "renaître"
+  },
+  {
+    "key": "frm",
+    "value": "être"
+  },
+  {
+    "key": "frmd",
+    "value": "mûrir"
+  },
+  {
+    "key": "frmr",
+    "value": "cueillir"
+  },
+  {
+    "key": "frmm",
+    "value": "disjoindre*"
+  },
+  {
+    "key": "frmf",
+    "value": "récolter"
+  },
+  {
+    "key": "frmso",
+    "value": "glaner"
+  },
+  {
+    "key": "frml",
+    "value": "épi"
+  },
+  {
+    "key": "frms",
+    "value": "champ"
+  },
+  {
+    "key": "frf",
+    "value": "aller, se rendre à"
+  },
+  {
+    "key": "frfd",
+    "value": "végéter"
+  },
+  {
+    "key": "frfr",
+    "value": "reverdir"
+  },
+  {
+    "key": "frfm",
+    "value": "vallon"
+  },
+  {
+    "key": "frff",
+    "value": "affadir*"
+  },
+  {
+    "key": "frfso",
+    "value": "chasser"
+  },
+  {
+    "key": "frfl",
+    "value": "poursuivre"
+  },
+  {
+    "key": "frfs",
+    "value": ""
+  },
+  {
+    "key": "frso",
+    "value": "allonger, étendre"
+  },
+  {
+    "key": "frsod",
+    "value": "cheval"
+  },
+  {
+    "key": "frsor",
+    "value": "brider"
+  },
+  {
+    "key": "frsom",
+    "value": "seller"
+  },
+  {
+    "key": "frsof",
+    "value": "étrier"
+  },
+  {
+    "key": "frsoso",
+    "value": "âcreté"
+  },
+  {
+    "key": "frsol",
+    "value": "cravacher"
+  },
+  {
+    "key": "frsos",
+    "value": "atteler"
+  },
+  {
+    "key": "frl",
+    "value": "poste aux lettres"
+  },
+  {
+    "key": "frld",
+    "value": "animal"
+  },
+  {
+    "key": "frlr",
+    "value": "mouton"
+  },
+  {
+    "key": "frlm",
+    "value": "bœuf"
+  },
+  {
+    "key": "frlf",
+    "value": "cochon"
+  },
+  {
+    "key": "frlso",
+    "value": "bouc"
+  },
+  {
+    "key": "frll",
+    "value": "âpreté"
+  },
+  {
+    "key": "frls",
+    "value": "âne"
+  },
+  {
+    "key": "frs",
+    "value": ""
+  },
+  {
+    "key": "frsd",
+    "value": "chameau"
+  },
+  {
+    "key": "frsr",
+    "value": "chien"
+  },
+  {
+    "key": "frsm",
+    "value": "chat"
+  },
+  {
+    "key": "frsf",
+    "value": "oiseau"
+  },
+  {
+    "key": "frsso",
+    "value": "ailes"
+  },
+  {
+    "key": "frsl",
+    "value": "voler"
+  },
+  {
+    "key": "frss",
+    "value": "acidifier"
+  },
+  {
+    "key": "fm",
+    "value": "celui-là, celle-là, ce, cet, cette, cette personne-ci, cette chose-ci"
+  },
+  {
+    "key": "fmd",
+    "value": "affranchir, exempter, exonérer"
+  },
+  {
+    "key": "fmdd",
+    "value": "aigrir"
+  },
+  {
+    "key": "fmdr",
+    "value": "conscription"
+  },
+  {
+    "key": "fmdm",
+    "value": "soldat"
+  },
+  {
+    "key": "fmdf",
+    "value": "uniforme"
+  },
+  {
+    "key": "fmdso",
+    "value": "équipement"
+  },
+  {
+    "key": "fmdl",
+    "value": "armer"
+  },
+  {
+    "key": "fmds",
+    "value": "graduer"
+  },
+  {
+    "key": "fmr",
+    "value": ""
+  },
+  {
+    "key": "fmrd",
+    "value": "état-major"
+  },
+  {
+    "key": "fmrr",
+    "value": "camphrer"
+  },
+  {
+    "key": "fmrm",
+    "value": "officier"
+  },
+  {
+    "key": "fmrf",
+    "value": "colonel"
+  },
+  {
+    "key": "fmrso",
+    "value": "aide-de-camp"
+  },
+  {
+    "key": "fmrl",
+    "value": "généralat"
+  },
+  {
+    "key": "fmrs",
+    "value": "maréchalat"
+  },
+  {
+    "key": "fmm",
+    "value": "mille"
+  },
+  {
+    "key": "fmmd",
+    "value": "convalescence"
+  },
+  {
+    "key": "fmmr",
+    "value": "tempérament"
+  },
+  {
+    "key": "fmmf",
+    "value": "organisme"
+  },
+  {
+    "key": "fmmso",
+    "value": "saineté"
+  },
+  {
+    "key": "fmml",
+    "value": "assainir"
+  },
+  {
+    "key": "fmms",
+    "value": "efficacité"
+  },
+  {
+    "key": "fmf",
+    "value": "timbrer"
+  },
+  {
+    "key": "fmfd",
+    "value": "vice"
+  },
+  {
+    "key": "fmfr",
+    "value": "armée"
+  },
+  {
+    "key": "fmfm",
+    "value": "activité"
+  },
+  {
+    "key": "fmff",
+    "value": "narcotiser"
+  },
+  {
+    "key": "fmfso",
+    "value": "brigade"
+  },
+  {
+    "key": "fmfl",
+    "value": "régiment"
+  },
+  {
+    "key": "fmfs",
+    "value": "zouaves"
+  },
+  {
+    "key": "fmso",
+    "value": "avoir"
+  },
+  {
+    "key": "fmsod",
+    "value": "amortir"
+  },
+  {
+    "key": "fmsor",
+    "value": "infanterie"
+  },
+  {
+    "key": "fmsom",
+    "value": "cavalerie"
+  },
+  {
+    "key": "fmsof",
+    "value": "artillerie"
+  },
+  {
+    "key": "fmsoso",
+    "value": "chloroformer"
+  },
+  {
+    "key": "fmsol",
+    "value": "envers [l'-]"
+  },
+  {
+    "key": "fmsos",
+    "value": "génie"
+  },
+  {
+    "key": "fml",
+    "value": ""
+  },
+  {
+    "key": "fmld",
+    "value": "camper"
+  },
+  {
+    "key": "fmlr",
+    "value": "tente"
+  },
+  {
+    "key": "fmlm",
+    "value": "bivouaquer"
+  },
+  {
+    "key": "fmlf",
+    "value": "ambulance"
+  },
+  {
+    "key": "fmlso",
+    "value": "le matériel"
+  },
+  {
+    "key": "fmll",
+    "value": "éthériser"
+  },
+  {
+    "key": "fmls",
+    "value": "étendard"
+  },
+  {
+    "key": "fms",
+    "value": "porter, apporter"
+  },
+  {
+    "key": "fmsd",
+    "value": "armes à feu"
+  },
+  {
+    "key": "fmsr",
+    "value": "canonner"
+  },
+  {
+    "key": "fmsm",
+    "value": "batterie"
+  },
+  {
+    "key": "fmsf",
+    "value": "fusiller"
+  },
+  {
+    "key": "fmsso",
+    "value": "crosse"
+  },
+  {
+    "key": "fmsl",
+    "value": "pistolet"
+  },
+  {
+    "key": "fmss",
+    "value": "nier"
+  },
+  {
+    "key": "ff",
+    "value": "conditionnel"
+  },
+  {
+    "key": "ffd",
+    "value": "dix-neuf"
+  },
+  {
+    "key": "ffdr",
+    "value": "avoir mal"
+  },
+  {
+    "key": "ffdm",
+    "value": "consulter"
+  },
+  {
+    "key": "ffdf",
+    "value": "médecine"
+  },
+  {
+    "key": "ffdso",
+    "value": "chirurgie"
+  },
+  {
+    "key": "ffdl",
+    "value": "art dentaire"
+  },
+  {
+    "key": "ffds",
+    "value": "oculiste, ophtalmologiste"
+  },
+  {
+    "key": "ffr",
+    "value": "vingt"
+  },
+  {
+    "key": "ffrd",
+    "value": "prescrire"
+  },
+  {
+    "key": "ffrm",
+    "value": "doser"
+  },
+  {
+    "key": "ffrf",
+    "value": "pilule"
+  },
+  {
+    "key": "ffrso",
+    "value": "pharmacie"
+  },
+  {
+    "key": "ffrl",
+    "value": "allopathie"
+  },
+  {
+    "key": "ffrs",
+    "value": "homéopathie"
+  },
+  {
+    "key": "ffm",
+    "value": "trente"
+  },
+  {
+    "key": "ffmd",
+    "value": "herboriser"
+  },
+  {
+    "key": "ffmr",
+    "value": "médicamenter"
+  },
+  {
+    "key": "ffmf",
+    "value": "remédier"
+  },
+  {
+    "key": "ffmso",
+    "value": "réagir"
+  },
+  {
+    "key": "ffml",
+    "value": "emplâtre"
+  },
+  {
+    "key": "ffms",
+    "value": "onguent"
+  },
+  {
+    "key": "ffso",
+    "value": "quarante"
+  },
+  {
+    "key": "ffsod",
+    "value": "pommader"
+  },
+  {
+    "key": "ffsor",
+    "value": "saindoux"
+  },
+  {
+    "key": "ffsom",
+    "value": "graisser"
+  },
+  {
+    "key": "ffsof",
+    "value": "cataplasme"
+  },
+  {
+    "key": "ffsol",
+    "value": "graine de lin"
+  },
+  {
+    "key": "ffsos",
+    "value": "épaissir"
+  },
+  {
+    "key": "ffl",
+    "value": "cinquante"
+  },
+  {
+    "key": "ffld",
+    "value": "délayer"
+  },
+  {
+    "key": "fflr",
+    "value": "gauche"
+  },
+  {
+    "key": "fflm",
+    "value": "cuire"
+  },
+  {
+    "key": "fflf",
+    "value": "bouillir"
+  },
+  {
+    "key": "fflso",
+    "value": "fondre"
+  },
+  {
+    "key": "ffls",
+    "value": "aromatiser"
+  },
+  {
+    "key": "ffs",
+    "value": "soixante"
+  },
+  {
+    "key": "ffsd",
+    "value": "s'évaporer"
+  },
+  {
+    "key": "ffsr",
+    "value": "distiller"
+  },
+  {
+    "key": "ffsm",
+    "value": "quintescencier"
+  },
+  {
+    "key": "ffsf",
+    "value": "essence"
+  },
+  {
+    "key": "ffsso",
+    "value": "limonade"
+  },
+  {
+    "key": "ffsl",
+    "value": "pétiller"
+  },
+  {
+    "key": "fso",
+    "value": "voici"
+  },
+  {
+    "key": "fsod",
+    "value": "occasionner, susciter, être cause de"
+  },
+  {
+    "key": "fsodd",
+    "value": "glisser"
+  },
+  {
+    "key": "fsodr",
+    "value": "poudrerie"
+  },
+  {
+    "key": "fsodm",
+    "value": "cartouche"
+  },
+  {
+    "key": "fsodf",
+    "value": "balle"
+  },
+  {
+    "key": "fsodso",
+    "value": "amorcer"
+  },
+  {
+    "key": "fsodl",
+    "value": "sabre"
+  },
+  {
+    "key": "fsods",
+    "value": "poignard"
+  },
+  {
+    "key": "fsor",
+    "value": ""
+  },
+  {
+    "key": "fsord",
+    "value": "convoiter"
+  },
+  {
+    "key": "fsorr",
+    "value": "entorse"
+  },
+  {
+    "key": "fsorm",
+    "value": "assiéger"
+  },
+  {
+    "key": "fsorf",
+    "value": "attaquer"
+  },
+  {
+    "key": "fsorso",
+    "value": "combattre"
+  },
+  {
+    "key": "fsorl",
+    "value": "tirer"
+  },
+  {
+    "key": "fsors",
+    "value": "mitraille"
+  },
+  {
+    "key": "fsom",
+    "value": ""
+  },
+  {
+    "key": "fsomd",
+    "value": "intelligence"
+  },
+  {
+    "key": "fsomr",
+    "value": "stratégie"
+  },
+  {
+    "key": "fsomm",
+    "value": "fouler"
+  },
+  {
+    "key": "fsomf",
+    "value": "servir"
+  },
+  {
+    "key": "fsomso",
+    "value": "résister"
+  },
+  {
+    "key": "fsoml",
+    "value": "inflexibilité"
+  },
+  {
+    "key": "fsoms",
+    "value": "s'obstiner"
+  },
+  {
+    "key": "fsof",
+    "value": "agir, procéder, se comporter"
+  },
+  {
+    "key": "fsofd",
+    "value": "disgracieux"
+  },
+  {
+    "key": "fsofr",
+    "value": "guerroyer"
+  },
+  {
+    "key": "fsofm",
+    "value": "vaincre"
+  },
+  {
+    "key": "fsoff",
+    "value": "blessure"
+  },
+  {
+    "key": "fsofso",
+    "value": "conquérir"
+  },
+  {
+    "key": "fsofl",
+    "value": "héroïsme"
+  },
+  {
+    "key": "fsofs",
+    "value": "triompher"
+  },
+  {
+    "key": "fsoso",
+    "value": "million"
+  },
+  {
+    "key": "fsosod",
+    "value": "s'engraisser"
+  },
+  {
+    "key": "fsosor",
+    "value": "fraîcheur"
+  },
+  {
+    "key": "fsosom",
+    "value": "digérer"
+  },
+  {
+    "key": "fsosof",
+    "value": "éternuer"
+  },
+  {
+    "key": "fsosol",
+    "value": "se moucher"
+  },
+  {
+    "key": "fsosos",
+    "value": "bailler"
+  },
+  {
+    "key": "fsol",
+    "value": "faire, commettre"
+  },
+  {
+    "key": "fsold",
+    "value": "mer"
+  },
+  {
+    "key": "fsolr",
+    "value": "flotter"
+  },
+  {
+    "key": "fsolm",
+    "value": "marine"
+  },
+  {
+    "key": "fsolf",
+    "value": "escadre"
+  },
+  {
+    "key": "fsolso",
+    "value": "vaisseau"
+  },
+  {
+    "key": "fsoll",
+    "value": "panser"
+  },
+  {
+    "key": "fsols",
+    "value": "bateau"
+  },
+  {
+    "key": "fsos",
+    "value": "préparer, appréter, disposer, faire ses dispositions"
+  },
+  {
+    "key": "fsosd",
+    "value": "mature"
+  },
+  {
+    "key": "fsosr",
+    "value": "voilure"
+  },
+  {
+    "key": "fsosm",
+    "value": "gouvernail"
+  },
+  {
+    "key": "fsosf",
+    "value": "piloter"
+  },
+  {
+    "key": "fsosso",
+    "value": "équipage maritime"
+  },
+  {
+    "key": "fsosl",
+    "value": "amirauté"
+  },
+  {
+    "key": "fsoss",
+    "value": "minorité"
+  },
+  {
+    "key": "fl",
+    "value": "savoureux, délectable, exquis, délicieux"
+  },
+  {
+    "key": "fld",
+    "value": "falloir"
+  },
+  {
+    "key": "fldd",
+    "value": "opérer"
+  },
+  {
+    "key": "fldr",
+    "value": "naviguer"
+  },
+  {
+    "key": "fldm",
+    "value": "espace"
+  },
+  {
+    "key": "fldf",
+    "value": "lieue"
+  },
+  {
+    "key": "fldso",
+    "value": "ramer"
+  },
+  {
+    "key": "fldl",
+    "value": "voguer"
+  },
+  {
+    "key": "flds",
+    "value": "manœuvrer"
+  },
+  {
+    "key": "flr",
+    "value": "pouvoir"
+  },
+  {
+    "key": "flrd",
+    "value": "aborder"
+  },
+  {
+    "key": "flrr",
+    "value": "cicatriser"
+  },
+  {
+    "key": "flrm",
+    "value": "ancrer"
+  },
+  {
+    "key": "flrf",
+    "value": "port de mer"
+  },
+  {
+    "key": "flrso",
+    "value": "plage"
+  },
+  {
+    "key": "flrl",
+    "value": "côte, rivage"
+  },
+  {
+    "key": "flrs",
+    "value": "île"
+  },
+  {
+    "key": "flm",
+    "value": ""
+  },
+  {
+    "key": "flmd",
+    "value": "folie"
+  },
+  {
+    "key": "flmr",
+    "value": "lac"
+  },
+  {
+    "key": "flmm",
+    "value": "bander"
+  },
+  {
+    "key": "flmf",
+    "value": "profondeur"
+  },
+  {
+    "key": "flmso",
+    "value": "pêcher"
+  },
+  {
+    "key": "flml",
+    "value": "ligne"
+  },
+  {
+    "key": "flms",
+    "value": "allécher"
+  },
+  {
+    "key": "flf",
+    "value": "comprendre"
+  },
+  {
+    "key": "flfd",
+    "value": "nager"
+  },
+  {
+    "key": "flfr",
+    "value": "inonder"
+  },
+  {
+    "key": "flfm",
+    "value": "duper"
+  },
+  {
+    "key": "flff",
+    "value": "sangler"
+  },
+  {
+    "key": "flfso",
+    "value": "naufrager"
+  },
+  {
+    "key": "flfl",
+    "value": "se noyer"
+  },
+  {
+    "key": "flfs",
+    "value": "torrent"
+  },
+  {
+    "key": "flso",
+    "value": ""
+  },
+  {
+    "key": "flsod",
+    "value": "ruisseau"
+  },
+  {
+    "key": "flsor",
+    "value": "canaliser"
+  },
+  {
+    "key": "flsom",
+    "value": "puits"
+  },
+  {
+    "key": "flsof",
+    "value": "pomper"
+  },
+  {
+    "key": "flsoso",
+    "value": "estropier, handicaper"
+  },
+  {
+    "key": "flsol",
+    "value": "jaillir"
+  },
+  {
+    "key": "flsos",
+    "value": "s'unir"
+  },
+  {
+    "key": "fll",
+    "value": "milliard"
+  },
+  {
+    "key": "flld",
+    "value": "enrouer"
+  },
+  {
+    "key": "fllr",
+    "value": "enrhumer"
+  },
+  {
+    "key": "fllm",
+    "value": "tousser"
+  },
+  {
+    "key": "fllf",
+    "value": "saliver"
+  },
+  {
+    "key": "fllso",
+    "value": "asthme"
+  },
+  {
+    "key": "flls",
+    "value": "pulmonie"
+  },
+  {
+    "key": "fls",
+    "value": ""
+  },
+  {
+    "key": "flsd",
+    "value": "continent"
+  },
+  {
+    "key": "flsr",
+    "value": "Europe"
+  },
+  {
+    "key": "flsm",
+    "value": "Asie"
+  },
+  {
+    "key": "flsf",
+    "value": "Afrique"
+  },
+  {
+    "key": "flsso",
+    "value": "Amérique"
+  },
+  {
+    "key": "flsl",
+    "value": "Océanie"
+  },
+  {
+    "key": "flss",
+    "value": ""
+  },
+  {
+    "key": "fs",
+    "value": "beaucoup, très, [particule grammatical augmentatif]"
+  },
+  {
+    "key": "fsd",
+    "value": "démarche [faire une -]"
+  },
+  {
+    "key": "fsdd",
+    "value": "boiter"
+  },
+  {
+    "key": "fsdr",
+    "value": "voyager"
+  },
+  {
+    "key": "fsdm",
+    "value": "partir"
+  },
+  {
+    "key": "fsdf",
+    "value": "itinéraire"
+  },
+  {
+    "key": "fsdso",
+    "value": "se séparer"
+  },
+  {
+    "key": "fsdl",
+    "value": "s'éloigner"
+  },
+  {
+    "key": "fsds",
+    "value": "s'absenter"
+  },
+  {
+    "key": "fsr",
+    "value": "renseigner [se -], s'informer, s'enquérir"
+  },
+  {
+    "key": "fsrd",
+    "value": "chemin de fer"
+  },
+  {
+    "key": "fsrr",
+    "value": "cul-de-jatte"
+  },
+  {
+    "key": "fsrm",
+    "value": "locomotive"
+  },
+  {
+    "key": "fsrf",
+    "value": "transporter"
+  },
+  {
+    "key": "fsrso",
+    "value": "bagages"
+  },
+  {
+    "key": "fsrl",
+    "value": "devoir"
+  },
+  {
+    "key": "fsrs",
+    "value": "rouler"
+  },
+  {
+    "key": "fsm",
+    "value": "divorcer, répudier, se démarier"
+  },
+  {
+    "key": "fsmd",
+    "value": "s'élancer"
+  },
+  {
+    "key": "fsmr",
+    "value": "vitesse"
+  },
+  {
+    "key": "fsmm",
+    "value": "bossu"
+  },
+  {
+    "key": "fsmf",
+    "value": "vivacité"
+  },
+  {
+    "key": "fsmso",
+    "value": "remuer"
+  },
+  {
+    "key": "fsml",
+    "value": "se hâter"
+  },
+  {
+    "key": "fsms",
+    "value": "avancer"
+  },
+  {
+    "key": "fsf",
+    "value": "vouloir"
+  },
+  {
+    "key": "fsfd",
+    "value": "apercevoir"
+  },
+  {
+    "key": "fsfr",
+    "value": "perspective"
+  },
+  {
+    "key": "fsfm",
+    "value": "se modérer"
+  },
+  {
+    "key": "fsff",
+    "value": "rachitisme"
+  },
+  {
+    "key": "fsfso",
+    "value": "accident"
+  },
+  {
+    "key": "fsfl",
+    "value": "effrayer"
+  },
+  {
+    "key": "fsfs",
+    "value": "être effrayé"
+  },
+  {
+    "key": "fsso",
+    "value": "pleurer, larmoyer, sangloter"
+  },
+  {
+    "key": "fssod",
+    "value": "train"
+  },
+  {
+    "key": "fssor",
+    "value": "parcourir"
+  },
+  {
+    "key": "fssom",
+    "value": "direct"
+  },
+  {
+    "key": "fssof",
+    "value": "route"
+  },
+  {
+    "key": "fssoso",
+    "value": "orthopédie"
+  },
+  {
+    "key": "fssol",
+    "value": "stationner"
+  },
+  {
+    "key": "fssos",
+    "value": "bifurquer"
+  },
+  {
+    "key": "fsl",
+    "value": "décider, se déterminer, prendre un parti"
+  },
+  {
+    "key": "fsld",
+    "value": "sud, midi"
+  },
+  {
+    "key": "fslr",
+    "value": "est, orient"
+  },
+  {
+    "key": "fslm",
+    "value": "les quatre points cardinaux"
+  },
+  {
+    "key": "fslf",
+    "value": "rejoindre"
+  },
+  {
+    "key": "fslso",
+    "value": "arriver"
+  },
+  {
+    "key": "fsll",
+    "value": "anatomiser"
+  },
+  {
+    "key": "fsls",
+    "value": "gare"
+  },
+  {
+    "key": "fss",
+    "value": "trillion"
+  },
+  {
+    "key": "fssd",
+    "value": "s'attiédir"
+  },
+  {
+    "key": "fssr",
+    "value": "pleurésie"
+  },
+  {
+    "key": "fssm",
+    "value": "laryngite"
+  },
+  {
+    "key": "fssf",
+    "value": "amygdalite"
+  },
+  {
+    "key": "fssso",
+    "value": "glande"
+  },
+  {
+    "key": "fssl",
+    "value": "goitre"
+  },
+  {
+    "key": "so",
+    "value": "si"
+  },
+  {
+    "key": "sod",
+    "value": "rien, aucun, nul, zéro"
+  },
+  {
+    "key": "sodd",
+    "value": "dimanche"
+  },
+  {
+    "key": "soddr",
+    "value": "panaris"
+  },
+  {
+    "key": "soddm",
+    "value": "moindre"
+  },
+  {
+    "key": "soddf",
+    "value": "engelure"
+  },
+  {
+    "key": "soddso",
+    "value": "gercer"
+  },
+  {
+    "key": "soddl",
+    "value": "piquer"
+  },
+  {
+    "key": "sodds",
+    "value": "égratigner"
+  },
+  {
+    "key": "sodr",
+    "value": "copier, transcrire"
+  },
+  {
+    "key": "sodrd",
+    "value": "art"
+  },
+  {
+    "key": "sodrr",
+    "value": "fluxion"
+  },
+  {
+    "key": "sodrm",
+    "value": "théâtre"
+  },
+  {
+    "key": "sodrf",
+    "value": "représenter"
+  },
+  {
+    "key": "sodrso",
+    "value": "pièce de théâtre"
+  },
+  {
+    "key": "sodrl",
+    "value": "nègre"
+  },
+  {
+    "key": "sodrs",
+    "value": "décor"
+  },
+  {
+    "key": "sodm",
+    "value": "imiter, contrefaire"
+  },
+  {
+    "key": "sodmd",
+    "value": "opéra"
+  },
+  {
+    "key": "sodmr",
+    "value": "comédie"
+  },
+  {
+    "key": "sodmm",
+    "value": "érysipèle"
+  },
+  {
+    "key": "sodmf",
+    "value": "tragédie"
+  },
+  {
+    "key": "sodmso",
+    "value": "drame"
+  },
+  {
+    "key": "sodml",
+    "value": "auteur"
+  },
+  {
+    "key": "sodms",
+    "value": "acteur"
+  },
+  {
+    "key": "sodf",
+    "value": "donner l'exemple"
+  },
+  {
+    "key": "sodfd",
+    "value": "réciter"
+  },
+  {
+    "key": "sodfr",
+    "value": "déclamer"
+  },
+  {
+    "key": "sodfm",
+    "value": "gesticuler"
+  },
+  {
+    "key": "sodff",
+    "value": "rougeole"
+  },
+  {
+    "key": "sodfso",
+    "value": "raconter"
+  },
+  {
+    "key": "sodfl",
+    "value": "accent"
+  },
+  {
+    "key": "sodfs",
+    "value": "exprimer"
+  },
+  {
+    "key": "sodso",
+    "value": "traduire, interpréter"
+  },
+  {
+    "key": "sodsod",
+    "value": "sortir"
+  },
+  {
+    "key": "sodsor",
+    "value": "répertoire"
+  },
+  {
+    "key": "sodsom",
+    "value": "rôle"
+  },
+  {
+    "key": "sodsof",
+    "value": "chef-d'œuvre"
+  },
+  {
+    "key": "sodsoso",
+    "value": "scarlatine"
+  },
+  {
+    "key": "sodsol",
+    "value": "effet"
+  },
+  {
+    "key": "sodsos",
+    "value": "réussir"
+  },
+  {
+    "key": "sodl",
+    "value": "commenter, gloser"
+  },
+  {
+    "key": "sodld",
+    "value": "dilettantisme"
+  },
+  {
+    "key": "sodlr",
+    "value": "placer"
+  },
+  {
+    "key": "sodlm",
+    "value": "parterre de théâtre"
+  },
+  {
+    "key": "sodlf",
+    "value": "loge de théâtre"
+  },
+  {
+    "key": "sodlso",
+    "value": "galerie de théâtre"
+  },
+  {
+    "key": "sodll",
+    "value": "typhoide"
+  },
+  {
+    "key": "sodls",
+    "value": "amphithéâtre"
+  },
+  {
+    "key": "sods",
+    "value": "tradition"
+  },
+  {
+    "key": "sodsd",
+    "value": "orchestrer"
+  },
+  {
+    "key": "sodsr",
+    "value": "instrument"
+  },
+  {
+    "key": "sodsm",
+    "value": "violon"
+  },
+  {
+    "key": "sodsf",
+    "value": "violoncelle"
+  },
+  {
+    "key": "sodsso",
+    "value": "archet"
+  },
+  {
+    "key": "sodsl",
+    "value": "cordes"
+  },
+  {
+    "key": "sodss",
+    "value": "vérole"
+  },
+  {
+    "key": "sor",
+    "value": "pourquoi, à cause de quoi"
+  },
+  {
+    "key": "sord",
+    "value": "sous-entendre"
+  },
+  {
+    "key": "sordd",
+    "value": "contagion"
+  },
+  {
+    "key": "sordr",
+    "value": "harpe"
+  },
+  {
+    "key": "sordm",
+    "value": "flûte"
+  },
+  {
+    "key": "sordf",
+    "value": "haut-bois"
+  },
+  {
+    "key": "sordso",
+    "value": "saxophone"
+  },
+  {
+    "key": "sordl",
+    "value": "trompette"
+  },
+  {
+    "key": "sords",
+    "value": "sonnerie"
+  },
+  {
+    "key": "sorr",
+    "value": "le passé"
+  },
+  {
+    "key": "sorrd",
+    "value": "boutons"
+  },
+  {
+    "key": "sorrm",
+    "value": "inoculer"
+  },
+  {
+    "key": "sorrf",
+    "value": "petite vérole"
+  },
+  {
+    "key": "sorrso",
+    "value": "teigne"
+  },
+  {
+    "key": "sorrl",
+    "value": "gale"
+  },
+  {
+    "key": "sorrs",
+    "value": "lèpre"
+  },
+  {
+    "key": "sorm",
+    "value": "méconnaître"
+  },
+  {
+    "key": "sormd",
+    "value": "exécuter"
+  },
+  {
+    "key": "sormr",
+    "value": "accompagner"
+  },
+  {
+    "key": "sormm",
+    "value": "épidémie"
+  },
+  {
+    "key": "sormf",
+    "value": "chanter"
+  },
+  {
+    "key": "sormso",
+    "value": "voix"
+  },
+  {
+    "key": "sorml",
+    "value": "ténor"
+  },
+  {
+    "key": "sorms",
+    "value": "soprano"
+  },
+  {
+    "key": "sorf",
+    "value": "abréger, raccourcir"
+  },
+  {
+    "key": "sorfd",
+    "value": "vocaliser"
+  },
+  {
+    "key": "sorfr",
+    "value": "agilité"
+  },
+  {
+    "key": "sorfm",
+    "value": "assouplir"
+  },
+  {
+    "key": "sorff",
+    "value": "peste"
+  },
+  {
+    "key": "sorfso",
+    "value": "se connaître à"
+  },
+  {
+    "key": "sorfl",
+    "value": "talent"
+  },
+  {
+    "key": "sorfs",
+    "value": "perfectionner"
+  },
+  {
+    "key": "sorso",
+    "value": "Solrésol"
+  },
+  {
+    "key": "sorsod",
+    "value": "inoccupation"
+  },
+  {
+    "key": "sorsor",
+    "value": "sentimentalement"
+  },
+  {
+    "key": "sorsom",
+    "value": "intéresser"
+  },
+  {
+    "key": "sorsof",
+    "value": "attendrir"
+  },
+  {
+    "key": "sorsoso",
+    "value": "coliques"
+  },
+  {
+    "key": "sorsol",
+    "value": "illusionner"
+  },
+  {
+    "key": "sorsos",
+    "value": "figurer"
+  },
+  {
+    "key": "sorl",
+    "value": ""
+  },
+  {
+    "key": "sorld",
+    "value": "étonner"
+  },
+  {
+    "key": "sorlr",
+    "value": "s'étonner"
+  },
+  {
+    "key": "sorlm",
+    "value": "fasciner"
+  },
+  {
+    "key": "sorlf",
+    "value": "ressentir"
+  },
+  {
+    "key": "sorlso",
+    "value": "s'enthousiasmer"
+  },
+  {
+    "key": "sorll",
+    "value": "se convulser"
+  },
+  {
+    "key": "sorls",
+    "value": "irrésistible"
+  },
+  {
+    "key": "sors",
+    "value": ""
+  },
+  {
+    "key": "sorsd",
+    "value": "captiver"
+  },
+  {
+    "key": "sorsr",
+    "value": "assister à"
+  },
+  {
+    "key": "sorsm",
+    "value": "applaudir"
+  },
+  {
+    "key": "sorsf",
+    "value": "interrompre"
+  },
+  {
+    "key": "sorsso",
+    "value": "approuver"
+  },
+  {
+    "key": "sorsl",
+    "value": "unanimité"
+  },
+  {
+    "key": "sorss",
+    "value": "empoisonner"
+  },
+  {
+    "key": "som",
+    "value": "mal faire"
+  },
+  {
+    "key": "somd",
+    "value": ""
+  },
+  {
+    "key": "somdd",
+    "value": "enfer"
+  },
+  {
+    "key": "somdr",
+    "value": "rivaliser"
+  },
+  {
+    "key": "somdm",
+    "value": "émulation"
+  },
+  {
+    "key": "somdf",
+    "value": "s'animer"
+  },
+  {
+    "key": "somdso",
+    "value": "exceller"
+  },
+  {
+    "key": "somdl",
+    "value": "briller"
+  },
+  {
+    "key": "somds",
+    "value": "surpasser"
+  },
+  {
+    "key": "somr",
+    "value": "verbe"
+  },
+  {
+    "key": "somrd",
+    "value": "acoustique"
+  },
+  {
+    "key": "somrr",
+    "value": "pâlir"
+  },
+  {
+    "key": "somrm",
+    "value": "diapason"
+  },
+  {
+    "key": "somrf",
+    "value": "tonalité"
+  },
+  {
+    "key": "somrso",
+    "value": "diézer"
+  },
+  {
+    "key": "somrl",
+    "value": "bémoliser"
+  },
+  {
+    "key": "somrs",
+    "value": "bécarriser"
+  },
+  {
+    "key": "somm",
+    "value": "le présent"
+  },
+  {
+    "key": "sommd",
+    "value": "dartre"
+  },
+  {
+    "key": "sommr",
+    "value": "démanger"
+  },
+  {
+    "key": "sommf",
+    "value": "gratter"
+  },
+  {
+    "key": "sommso",
+    "value": "enflammer"
+  },
+  {
+    "key": "somml",
+    "value": "se gangrener"
+  },
+  {
+    "key": "somms",
+    "value": "décomposer"
+  },
+  {
+    "key": "somf",
+    "value": "article (mot)"
+  },
+  {
+    "key": "somfd",
+    "value": "inconduite"
+  },
+  {
+    "key": "somfr",
+    "value": "note sensible"
+  },
+  {
+    "key": "somfm",
+    "value": "intervalle"
+  },
+  {
+    "key": "somff",
+    "value": "défaillir"
+  },
+  {
+    "key": "somfso",
+    "value": "tonalité"
+  },
+  {
+    "key": "somfl",
+    "value": "mode majeur"
+  },
+  {
+    "key": "somfs",
+    "value": "dominante"
+  },
+  {
+    "key": "somso",
+    "value": "pronom"
+  },
+  {
+    "key": "somsod",
+    "value": "composer"
+  },
+  {
+    "key": "somsor",
+    "value": "musique"
+  },
+  {
+    "key": "somsom",
+    "value": "note"
+  },
+  {
+    "key": "somsof",
+    "value": "son"
+  },
+  {
+    "key": "somsoso",
+    "value": "s'affaiblir"
+  },
+  {
+    "key": "somsol",
+    "value": "mélodie"
+  },
+  {
+    "key": "somsos",
+    "value": "harmonie"
+  },
+  {
+    "key": "soml",
+    "value": "mentionner, se souvenir, se rappeler"
+  },
+  {
+    "key": "somld",
+    "value": "organiser"
+  },
+  {
+    "key": "somlr",
+    "value": "concert"
+  },
+  {
+    "key": "somlm",
+    "value": "programme"
+  },
+  {
+    "key": "somlf",
+    "value": "piano"
+  },
+  {
+    "key": "somlso",
+    "value": "orgue"
+  },
+  {
+    "key": "somll",
+    "value": "maigrir"
+  },
+  {
+    "key": "somls",
+    "value": "clavier"
+  },
+  {
+    "key": "soms",
+    "value": "compliquer"
+  },
+  {
+    "key": "somsd",
+    "value": "faire un cours"
+  },
+  {
+    "key": "somsr",
+    "value": "professer"
+  },
+  {
+    "key": "somsm",
+    "value": "méthode"
+  },
+  {
+    "key": "somsf",
+    "value": "immobilité"
+  },
+  {
+    "key": "somsso",
+    "value": "théoriser"
+  },
+  {
+    "key": "somsl",
+    "value": "problème"
+  },
+  {
+    "key": "somss",
+    "value": "traîner"
+  },
+  {
+    "key": "sof",
+    "value": "parce que"
+  },
+  {
+    "key": "sofd",
+    "value": ""
+  },
+  {
+    "key": "sofdd",
+    "value": "asphyxier"
+  },
+  {
+    "key": "sofdr",
+    "value": "philotechnie"
+  },
+  {
+    "key": "sofdm",
+    "value": "philharmonie"
+  },
+  {
+    "key": "sofdf",
+    "value": "maître de chapelle"
+  },
+  {
+    "key": "sofdso",
+    "value": "chœurs"
+  },
+  {
+    "key": "sofdl",
+    "value": "orphéon"
+  },
+  {
+    "key": "sofds",
+    "value": "cantate"
+  },
+  {
+    "key": "sofr",
+    "value": "effacer, raturer, biffer"
+  },
+  {
+    "key": "sofrd",
+    "value": "concerto"
+  },
+  {
+    "key": "sofrr",
+    "value": "appesantir"
+  },
+  {
+    "key": "sofrm",
+    "value": "cavatine"
+  },
+  {
+    "key": "sofrf",
+    "value": "solo"
+  },
+  {
+    "key": "sofrso",
+    "value": "port de voix"
+  },
+  {
+    "key": "sofrl",
+    "value": "trille"
+  },
+  {
+    "key": "sofrs",
+    "value": "point d'orgue"
+  },
+  {
+    "key": "sofm",
+    "value": "abaisser"
+  },
+  {
+    "key": "sofmd",
+    "value": "vieillir"
+  },
+  {
+    "key": "sofmr",
+    "value": "gamme"
+  },
+  {
+    "key": "sofmm",
+    "value": "nulle-part"
+  },
+  {
+    "key": "sofmf",
+    "value": "solfier"
+  },
+  {
+    "key": "sofmso",
+    "value": "croche"
+  },
+  {
+    "key": "sofml",
+    "value": "syncoper"
+  },
+  {
+    "key": "sofms",
+    "value": "rythmer"
+  },
+  {
+    "key": "soff",
+    "value": "le futur, l'avenir"
+  },
+  {
+    "key": "soffd",
+    "value": "tumeur"
+  },
+  {
+    "key": "soffr",
+    "value": "scrofules"
+  },
+  {
+    "key": "soffm",
+    "value": "scorbut"
+  },
+  {
+    "key": "soffso",
+    "value": "cancer"
+  },
+  {
+    "key": "soffl",
+    "value": "ulcère"
+  },
+  {
+    "key": "soffs",
+    "value": "s'invétérer"
+  },
+  {
+    "key": "sofso",
+    "value": "s'intimider, se troubler, se déconcerter"
+  },
+  {
+    "key": "sofsod",
+    "value": "disparaître"
+  },
+  {
+    "key": "sofsor",
+    "value": "partition"
+  },
+  {
+    "key": "sofsom",
+    "value": "préluder"
+  },
+  {
+    "key": "sofsof",
+    "value": "moduler"
+  },
+  {
+    "key": "sofsoso",
+    "value": "léthargie"
+  },
+  {
+    "key": "sofsol",
+    "value": "transposer"
+  },
+  {
+    "key": "sofsos",
+    "value": "fugue"
+  },
+  {
+    "key": "sofl",
+    "value": "laisser"
+  },
+  {
+    "key": "sofld",
+    "value": "arpéger"
+  },
+  {
+    "key": "soflr",
+    "value": "accord"
+  },
+  {
+    "key": "soflm",
+    "value": "fonder"
+  },
+  {
+    "key": "soflf",
+    "value": "concerner"
+  },
+  {
+    "key": "soflso",
+    "value": "symphonie"
+  },
+  {
+    "key": "sofll",
+    "value": "mettre en danger"
+  },
+  {
+    "key": "sofls",
+    "value": "contre-point"
+  },
+  {
+    "key": "sofs",
+    "value": "s'impatienter, s'irriter, se crisper"
+  },
+  {
+    "key": "sofsd",
+    "value": "points d'arrêts"
+  },
+  {
+    "key": "sofsr",
+    "value": "tambouriner"
+  },
+  {
+    "key": "sofsm",
+    "value": "résonner"
+  },
+  {
+    "key": "sofsf",
+    "value": "siffler"
+  },
+  {
+    "key": "sofsso",
+    "value": "castagnettes"
+  },
+  {
+    "key": "sofsl",
+    "value": "orgue de barbarie"
+  },
+  {
+    "key": "sofss",
+    "value": "victime"
+  },
+  {
+    "key": "soso",
+    "value": "impératif"
+  },
+  {
+    "key": "sosol",
+    "value": "lundi"
+  },
+  {
+    "key": "sosodr",
+    "value": "jointures"
+  },
+  {
+    "key": "sosodm",
+    "value": "nerfs"
+  },
+  {
+    "key": "sosodf",
+    "value": "muscler"
+  },
+  {
+    "key": "sosodso",
+    "value": "bile"
+  },
+  {
+    "key": "sosodl",
+    "value": "glaire"
+  },
+  {
+    "key": "sosods",
+    "value": "lymphe"
+  },
+  {
+    "key": "sosor",
+    "value": "mardi"
+  },
+  {
+    "key": "sosord",
+    "value": "migraine"
+  },
+  {
+    "key": "sosorm",
+    "value": "vomir"
+  },
+  {
+    "key": "sosorf",
+    "value": "transpirer"
+  },
+  {
+    "key": "sosorso",
+    "value": "hydropisie"
+  },
+  {
+    "key": "sosorl",
+    "value": "gonfler"
+  },
+  {
+    "key": "sosors",
+    "value": "tendre"
+  },
+  {
+    "key": "sosom",
+    "value": "mercredi"
+  },
+  {
+    "key": "sosomd",
+    "value": "fièvre"
+  },
+  {
+    "key": "sosomr",
+    "value": "trembler"
+  },
+  {
+    "key": "sosomf",
+    "value": "pouls"
+  },
+  {
+    "key": "sosomso",
+    "value": "anévrisme"
+  },
+  {
+    "key": "sosoml",
+    "value": "palpiter"
+  },
+  {
+    "key": "sosoms",
+    "value": "cœur"
+  },
+  {
+    "key": "sosof",
+    "value": "jeudi"
+  },
+  {
+    "key": "sosofd",
+    "value": "goutte (la)"
+  },
+  {
+    "key": "sosofr",
+    "value": "douleurs"
+  },
+  {
+    "key": "sosofm",
+    "value": "rhumatisme"
+  },
+  {
+    "key": "sosofso",
+    "value": "paralysie"
+  },
+  {
+    "key": "sosofl",
+    "value": "catalepsie"
+  },
+  {
+    "key": "sosofs",
+    "value": "épilepsie"
+  },
+  {
+    "key": "sosol",
+    "value": "vendredi"
+  },
+  {
+    "key": "sosold",
+    "value": "pierre (la)"
+  },
+  {
+    "key": "sosolr",
+    "value": "vessie"
+  },
+  {
+    "key": "sosolm",
+    "value": "parties génitals"
+  },
+  {
+    "key": "sosolf",
+    "value": "sonder"
+  },
+  {
+    "key": "sosolso",
+    "value": "matrice"
+  },
+  {
+    "key": "sosols",
+    "value": "manstrues"
+  },
+  {
+    "key": "sosos",
+    "value": "samedi"
+  },
+  {
+    "key": "sososd",
+    "value": "périodicité"
+  },
+  {
+    "key": "sososr",
+    "value": "saigner"
+  },
+  {
+    "key": "sososm",
+    "value": "apoplexie"
+  },
+  {
+    "key": "sososf",
+    "value": "hémorrhoides"
+  },
+  {
+    "key": "sososso",
+    "value": "couler"
+  },
+  {
+    "key": "sososl",
+    "value": "flueurs blanches"
+  },
+  {
+    "key": "sol",
+    "value": "perpétuer"
+  },
+  {
+    "key": "sold",
+    "value": "excuser, disculper"
+  },
+  {
+    "key": "soldd",
+    "value": "étrangler"
+  },
+  {
+    "key": "soldr",
+    "value": "musée"
+  },
+  {
+    "key": "soldm",
+    "value": "tableau"
+  },
+  {
+    "key": "soldf",
+    "value": "esquisser"
+  },
+  {
+    "key": "soldso",
+    "value": "dessiner"
+  },
+  {
+    "key": "soldl",
+    "value": "peindre"
+  },
+  {
+    "key": "solds",
+    "value": "miniature"
+  },
+  {
+    "key": "solr",
+    "value": "tolérer, supporter, subir, endurer"
+  },
+  {
+    "key": "solrd",
+    "value": "aquarelle"
+  },
+  {
+    "key": "solrr",
+    "value": "oppresser"
+  },
+  {
+    "key": "solrm",
+    "value": "pastel"
+  },
+  {
+    "key": "solrf",
+    "value": "gouache"
+  },
+  {
+    "key": "solrso",
+    "value": "fresque"
+  },
+  {
+    "key": "solrl",
+    "value": "palette"
+  },
+  {
+    "key": "solrs",
+    "value": "pinceau"
+  },
+  {
+    "key": "solm",
+    "value": "pardonner, grâcier, amnistier"
+  },
+  {
+    "key": "solmd",
+    "value": "modeler"
+  },
+  {
+    "key": "solmr",
+    "value": "mouler"
+  },
+  {
+    "key": "solmm",
+    "value": "crise"
+  },
+  {
+    "key": "solmf",
+    "value": "sculpter"
+  },
+  {
+    "key": "solmso",
+    "value": "statue"
+  },
+  {
+    "key": "solml",
+    "value": "piédestal"
+  },
+  {
+    "key": "solms",
+    "value": "relief"
+  },
+  {
+    "key": "solf",
+    "value": "favoriser"
+  },
+  {
+    "key": "solfd",
+    "value": "daguerréotype"
+  },
+  {
+    "key": "solfr",
+    "value": "photographier"
+  },
+  {
+    "key": "solfm",
+    "value": "reproduire"
+  },
+  {
+    "key": "solff",
+    "value": "agonir"
+  },
+  {
+    "key": "solfso",
+    "value": "portrait"
+  },
+  {
+    "key": "solfl",
+    "value": "ressembler"
+  },
+  {
+    "key": "solfs",
+    "value": "conformité"
+  },
+  {
+    "key": "solso",
+    "value": "permettre, autoriser, accorder, exaucer"
+  },
+  {
+    "key": "solsod",
+    "value": "sténographier"
+  },
+  {
+    "key": "solsor",
+    "value": "lithographier"
+  },
+  {
+    "key": "solsom",
+    "value": "graver"
+  },
+  {
+    "key": "solsof",
+    "value": "buriner"
+  },
+  {
+    "key": "solsoso",
+    "value": "ensevelir"
+  },
+  {
+    "key": "solsol",
+    "value": "compasser"
+  },
+  {
+    "key": "solsos",
+    "value": "ajuster"
+  },
+  {
+    "key": "soll",
+    "value": "heure"
+  },
+  {
+    "key": "solld",
+    "value": "injecter"
+  },
+  {
+    "key": "sollr",
+    "value": "purger"
+  },
+  {
+    "key": "sollm",
+    "value": "huile de ricin"
+  },
+  {
+    "key": "sollf",
+    "value": "évacuer"
+  },
+  {
+    "key": "sollso",
+    "value": "excrément"
+  },
+  {
+    "key": "solls",
+    "value": "uriner"
+  },
+  {
+    "key": "sols",
+    "value": "monter, gravir, grimper, escalader"
+  },
+  {
+    "key": "solsd",
+    "value": "académie"
+  },
+  {
+    "key": "solsr",
+    "value": "savoir"
+  },
+  {
+    "key": "solsm",
+    "value": "institut"
+  },
+  {
+    "key": "solsf",
+    "value": "baccalauréat"
+  },
+  {
+    "key": "solsso",
+    "value": "encyclopédie"
+  },
+  {
+    "key": "solsl",
+    "value": "mathématiques"
+  },
+  {
+    "key": "solss",
+    "value": "linceul"
+  },
+  {
+    "key": "sos",
+    "value": "remercier"
+  },
+  {
+    "key": "sosd",
+    "value": "courir, galoper"
+  },
+  {
+    "key": "sosdd",
+    "value": "cercueil"
+  },
+  {
+    "key": "sosdr",
+    "value": "littérature"
+  },
+  {
+    "key": "sosdm",
+    "value": "prosaiser"
+  },
+  {
+    "key": "sosdf",
+    "value": "roman"
+  },
+  {
+    "key": "sosdso",
+    "value": "fable"
+  },
+  {
+    "key": "sosdl",
+    "value": "versifier"
+  },
+  {
+    "key": "sosds",
+    "value": "poétiser"
+  },
+  {
+    "key": "sosr",
+    "value": ""
+  },
+  {
+    "key": "sosrd",
+    "value": "orateur"
+  },
+  {
+    "key": "sosrr",
+    "value": "funérailles"
+  },
+  {
+    "key": "sosrm",
+    "value": "s'inspirer"
+  },
+  {
+    "key": "sosrf",
+    "value": "discourir"
+  },
+  {
+    "key": "sosrso",
+    "value": "éloquence"
+  },
+  {
+    "key": "sosrl",
+    "value": "remarquable"
+  },
+  {
+    "key": "sosrs",
+    "value": "l'apogée"
+  },
+  {
+    "key": "sosm",
+    "value": ""
+  },
+  {
+    "key": "sosmd",
+    "value": "amollir"
+  },
+  {
+    "key": "sosmr",
+    "value": "idée"
+  },
+  {
+    "key": "sosmm",
+    "value": "enterrer"
+  },
+  {
+    "key": "sosmf",
+    "value": "métaphysique"
+  },
+  {
+    "key": "sosmso",
+    "value": "penser"
+  },
+  {
+    "key": "sosml",
+    "value": "imaginer"
+  },
+  {
+    "key": "sosms",
+    "value": "abstraction"
+  },
+  {
+    "key": "sosf",
+    "value": "rire"
+  },
+  {
+    "key": "sosfd",
+    "value": "malhonnêteté"
+  },
+  {
+    "key": "sosfr",
+    "value": "génie"
+  },
+  {
+    "key": "sosfm",
+    "value": "persévérer"
+  },
+  {
+    "key": "sosff",
+    "value": "tombe"
+  },
+  {
+    "key": "sosfso",
+    "value": "inventer"
+  },
+  {
+    "key": "sosfl",
+    "value": "découvrir"
+  },
+  {
+    "key": "sosfs",
+    "value": "innover"
+  },
+  {
+    "key": "sosso",
+    "value": "sourire"
+  },
+  {
+    "key": "sossod",
+    "value": "lutter"
+  },
+  {
+    "key": "sossor",
+    "value": "propager"
+  },
+  {
+    "key": "sossom",
+    "value": "populariser"
+  },
+  {
+    "key": "sossof",
+    "value": "réputation"
+  },
+  {
+    "key": "sossoso",
+    "value": "fossoyer"
+  },
+  {
+    "key": "sossol",
+    "value": "s'illustrer"
+  },
+  {
+    "key": "sossos",
+    "value": "gloire"
+  },
+  {
+    "key": "sosl",
+    "value": "sauter, sautiller, bondir, gambader"
+  },
+  {
+    "key": "sosld",
+    "value": "télégraphie"
+  },
+  {
+    "key": "soslr",
+    "value": "électricité"
+  },
+  {
+    "key": "soslm",
+    "value": "téléphonie"
+  },
+  {
+    "key": "soslf",
+    "value": "signaler"
+  },
+  {
+    "key": "soslso",
+    "value": "correspondre"
+  },
+  {
+    "key": "sosll",
+    "value": "cimetière"
+  },
+  {
+    "key": "sosls",
+    "value": "avertir"
+  },
+  {
+    "key": "soss",
+    "value": "minute"
+  },
+  {
+    "key": "sossd",
+    "value": "latrines"
+  },
+  {
+    "key": "sossr",
+    "value": "vidanges"
+  },
+  {
+    "key": "sossm",
+    "value": "infecter"
+  },
+  {
+    "key": "sossf",
+    "value": "pourrir"
+  },
+  {
+    "key": "sossso",
+    "value": "ver"
+  },
+  {
+    "key": "sossl",
+    "value": "dégoûter"
+  },
+  {
+    "key": "l",
+    "value": "la, le, les"
+  },
+  {
+    "key": "ld",
+    "value": "hier"
+  },
+  {
+    "key": "ldd",
+    "value": "temps"
+  },
+  {
+    "key": "lddr",
+    "value": "agathe"
+  },
+  {
+    "key": "lddm",
+    "value": "onyx"
+  },
+  {
+    "key": "lddf",
+    "value": "irréparable"
+  },
+  {
+    "key": "lddso",
+    "value": "turquoise"
+  },
+  {
+    "key": "lddl",
+    "value": "saphir"
+  },
+  {
+    "key": "ldds",
+    "value": "lapis"
+  },
+  {
+    "key": "ldr",
+    "value": ""
+  },
+  {
+    "key": "ldrd",
+    "value": "industrie"
+  },
+  {
+    "key": "ldrr",
+    "value": "courtier"
+  },
+  {
+    "key": "ldrm",
+    "value": "fabriquer"
+  },
+  {
+    "key": "ldrf",
+    "value": "matière"
+  },
+  {
+    "key": "ldrso",
+    "value": "produire"
+  },
+  {
+    "key": "ldrl",
+    "value": "vendre"
+  },
+  {
+    "key": "ldrs",
+    "value": "en gros"
+  },
+  {
+    "key": "ldm",
+    "value": ""
+  },
+  {
+    "key": "ldmd",
+    "value": "établir"
+  },
+  {
+    "key": "ldmr",
+    "value": "boutique"
+  },
+  {
+    "key": "ldmm",
+    "value": "exploiter"
+  },
+  {
+    "key": "ldmf",
+    "value": "atelier"
+  },
+  {
+    "key": "ldmso",
+    "value": "ternir"
+  },
+  {
+    "key": "ldml",
+    "value": "convenir"
+  },
+  {
+    "key": "ldms",
+    "value": "traiter"
+  },
+  {
+    "key": "ldf",
+    "value": "lire"
+  },
+  {
+    "key": "ldfd",
+    "value": "commercer"
+  },
+  {
+    "key": "ldfr",
+    "value": "s'associer"
+  },
+  {
+    "key": "ldfm",
+    "value": "condition"
+  },
+  {
+    "key": "ldff",
+    "value": "profiter de"
+  },
+  {
+    "key": "ldfso",
+    "value": "réaliser"
+  },
+  {
+    "key": "ldfl",
+    "value": "indivisibilité"
+  },
+  {
+    "key": "ldfs",
+    "value": "lin"
+  },
+  {
+    "key": "ldso",
+    "value": ""
+  },
+  {
+    "key": "ldsod",
+    "value": "extérieur"
+  },
+  {
+    "key": "ldsor",
+    "value": "filer"
+  },
+  {
+    "key": "ldsom",
+    "value": "dévider"
+  },
+  {
+    "key": "ldsof",
+    "value": "filature"
+  },
+  {
+    "key": "ldsoso",
+    "value": "opportunité"
+  },
+  {
+    "key": "ldsol",
+    "value": "toile"
+  },
+  {
+    "key": "ldsos",
+    "value": "coton"
+  },
+  {
+    "key": "ldl",
+    "value": ""
+  },
+  {
+    "key": "ldld",
+    "value": "mousseline"
+  },
+  {
+    "key": "ldlr",
+    "value": "damasser"
+  },
+  {
+    "key": "ldlm",
+    "value": "drap, indienne"
+  },
+  {
+    "key": "ldlf",
+    "value": "se rapprocher"
+  },
+  {
+    "key": "ldlso",
+    "value": "satiner, confectionner"
+  },
+  {
+    "key": "ldll",
+    "value": "presser"
+  },
+  {
+    "key": "ldls",
+    "value": "velouter, façonner"
+  },
+  {
+    "key": "lds",
+    "value": ""
+  },
+  {
+    "key": "ldsd",
+    "value": "étoffe"
+  },
+  {
+    "key": "ldsr",
+    "value": ""
+  },
+  {
+    "key": "ldsm",
+    "value": ""
+  },
+  {
+    "key": "ldsf",
+    "value": ""
+  },
+  {
+    "key": "ldsso",
+    "value": ""
+  },
+  {
+    "key": "ldsl",
+    "value": ""
+  },
+  {
+    "key": "ldss",
+    "value": "remplacer"
+  },
+  {
+    "key": "lr",
+    "value": "hui, aujourd'hui, ce jour"
+  },
+  {
+    "key": "lrd",
+    "value": ""
+  },
+  {
+    "key": "lrdd",
+    "value": "tapisserie"
+  },
+  {
+    "key": "lrdr",
+    "value": "colorier"
+  },
+  {
+    "key": "lrdm",
+    "value": "foncé"
+  },
+  {
+    "key": "lrdf",
+    "value": "châtain"
+  },
+  {
+    "key": "lrdso",
+    "value": "blancheur"
+  },
+  {
+    "key": "lrdl",
+    "value": "acheter"
+  },
+  {
+    "key": "lrds",
+    "value": "clarifier"
+  },
+  {
+    "key": "lrr",
+    "value": "brûmer"
+  },
+  {
+    "key": "lrrd",
+    "value": "métallurgie"
+  },
+  {
+    "key": "lrrm",
+    "value": "fer"
+  },
+  {
+    "key": "lrrf",
+    "value": "incurabilité"
+  },
+  {
+    "key": "lrrso",
+    "value": "acier"
+  },
+  {
+    "key": "lrrl",
+    "value": "cuivrer"
+  },
+  {
+    "key": "lrrs",
+    "value": "bronzer"
+  },
+  {
+    "key": "lrm",
+    "value": "épeler"
+  },
+  {
+    "key": "lrmd",
+    "value": "gris"
+  },
+  {
+    "key": "lrmr",
+    "value": "violet"
+  },
+  {
+    "key": "lrmm",
+    "value": "rembourrer"
+  },
+  {
+    "key": "lrmf",
+    "value": "verdir"
+  },
+  {
+    "key": "lrmso",
+    "value": "jaunir"
+  },
+  {
+    "key": "lrml",
+    "value": "bleu"
+  },
+  {
+    "key": "lrms",
+    "value": "rougir"
+  },
+  {
+    "key": "lrf",
+    "value": ""
+  },
+  {
+    "key": "lrfd",
+    "value": "s'appauvrir"
+  },
+  {
+    "key": "lrfr",
+    "value": "proposer"
+  },
+  {
+    "key": "lrfm",
+    "value": "occasion"
+  },
+  {
+    "key": "lrff",
+    "value": "tenture"
+  },
+  {
+    "key": "lrfso",
+    "value": "série"
+  },
+  {
+    "key": "lrfl",
+    "value": "sorte"
+  },
+  {
+    "key": "lrfs",
+    "value": "choisir"
+  },
+  {
+    "key": "lrso",
+    "value": "leçon"
+  },
+  {
+    "key": "lrsod",
+    "value": "plier"
+  },
+  {
+    "key": "lrsor",
+    "value": "envelopper"
+  },
+  {
+    "key": "lrsom",
+    "value": "ficeler"
+  },
+  {
+    "key": "lrsof",
+    "value": "paquet"
+  },
+  {
+    "key": "lrsoso",
+    "value": "housse"
+  },
+  {
+    "key": "lrsol",
+    "value": "prendre"
+  },
+  {
+    "key": "lrsos",
+    "value": "emporter"
+  },
+  {
+    "key": "lrl",
+    "value": "phraser"
+  },
+  {
+    "key": "lrld",
+    "value": "tenir"
+  },
+  {
+    "key": "lrlr",
+    "value": "compter"
+  },
+  {
+    "key": "lrlm",
+    "value": "calculer"
+  },
+  {
+    "key": "lrlf",
+    "value": "chiffrer"
+  },
+  {
+    "key": "lrlso",
+    "value": "combiner"
+  },
+  {
+    "key": "lrll",
+    "value": "frange"
+  },
+  {
+    "key": "lrls",
+    "value": "nomenclature"
+  },
+  {
+    "key": "lrs",
+    "value": ""
+  },
+  {
+    "key": "lrsd",
+    "value": "évaluer"
+  },
+  {
+    "key": "lrsr",
+    "value": "valoir"
+  },
+  {
+    "key": "lrsm",
+    "value": "somme"
+  },
+  {
+    "key": "lrsf",
+    "value": "payer"
+  },
+  {
+    "key": "lrsso",
+    "value": "facture"
+  },
+  {
+    "key": "lrsl",
+    "value": "acquitter"
+  },
+  {
+    "key": "lrss",
+    "value": "gland"
+  },
+  {
+    "key": "lm",
+    "value": "demain"
+  },
+  {
+    "key": "lmd",
+    "value": ""
+  },
+  {
+    "key": "lmdd",
+    "value": "passementerie"
+  },
+  {
+    "key": "lmdr",
+    "value": "augmenter"
+  },
+  {
+    "key": "lmdm",
+    "value": "abonder"
+  },
+  {
+    "key": "lmdf",
+    "value": "fructifier"
+  },
+  {
+    "key": "lmdso",
+    "value": "mélanger"
+  },
+  {
+    "key": "lmdl",
+    "value": "fouler"
+  },
+  {
+    "key": "lmds",
+    "value": "écraser"
+  },
+  {
+    "key": "lmr",
+    "value": "écrire"
+  },
+  {
+    "key": "lmrd",
+    "value": "emprunter"
+  },
+  {
+    "key": "lmrr",
+    "value": "tresser"
+  },
+  {
+    "key": "lmrm",
+    "value": "faire du crédit"
+  },
+  {
+    "key": "lmrf",
+    "value": "mont-de-piété"
+  },
+  {
+    "key": "lmrso",
+    "value": "échanger"
+  },
+  {
+    "key": "lmrl",
+    "value": "cautionner"
+  },
+  {
+    "key": "lmrs",
+    "value": "retarder"
+  },
+  {
+    "key": "lmm",
+    "value": "mouiller"
+  },
+  {
+    "key": "lmmd",
+    "value": "étamer"
+  },
+  {
+    "key": "lmmr",
+    "value": "zinguer"
+  },
+  {
+    "key": "lmmf",
+    "value": "bismuth"
+  },
+  {
+    "key": "lmmso",
+    "value": "plomb"
+  },
+  {
+    "key": "lmml",
+    "value": "mercure"
+  },
+  {
+    "key": "lmms",
+    "value": "platine"
+  },
+  {
+    "key": "lmf",
+    "value": "plume"
+  },
+  {
+    "key": "lmfd",
+    "value": "indécence"
+  },
+  {
+    "key": "lmfr",
+    "value": "chercher"
+  },
+  {
+    "key": "lmfm",
+    "value": "vérifier"
+  },
+  {
+    "key": "lmff",
+    "value": "anneler"
+  },
+  {
+    "key": "lmfso",
+    "value": "inventorier"
+  },
+  {
+    "key": "lmfl",
+    "value": "dividende"
+  },
+  {
+    "key": "lmfs",
+    "value": "classer"
+  },
+  {
+    "key": "lmso",
+    "value": "oublier"
+  },
+  {
+    "key": "lmsod",
+    "value": "échoir"
+  },
+  {
+    "key": "lmsor",
+    "value": "cesser"
+  },
+  {
+    "key": "lmsom",
+    "value": "liquider"
+  },
+  {
+    "key": "lmsof",
+    "value": "le reste"
+  },
+  {
+    "key": "lmsoso",
+    "value": "guirlande"
+  },
+  {
+    "key": "lmsol",
+    "value": "étrécir"
+  },
+  {
+    "key": "lmsos",
+    "value": "totalité"
+  },
+  {
+    "key": "lml",
+    "value": ""
+  },
+  {
+    "key": "lmld",
+    "value": "rassasier"
+  },
+  {
+    "key": "lmlr",
+    "value": "enchérir"
+  },
+  {
+    "key": "lmlm",
+    "value": "doubler"
+  },
+  {
+    "key": "lmlf",
+    "value": "marchandise"
+  },
+  {
+    "key": "lmlso",
+    "value": "nombre"
+  },
+  {
+    "key": "lmll",
+    "value": "nouer"
+  },
+  {
+    "key": "lmls",
+    "value": "employer"
+  },
+  {
+    "key": "lms",
+    "value": ""
+  },
+  {
+    "key": "lmsd",
+    "value": "engager"
+  },
+  {
+    "key": "lmsr",
+    "value": "enregistrer"
+  },
+  {
+    "key": "lmsm",
+    "value": "désobéir"
+  },
+  {
+    "key": "lmsf",
+    "value": "résulter"
+  },
+  {
+    "key": "lmsso",
+    "value": "bilan"
+  },
+  {
+    "key": "lmsl",
+    "value": "budget"
+  },
+  {
+    "key": "lmss",
+    "value": "croiser"
+  },
+  {
+    "key": "lf",
+    "value": "mauvais"
+  },
+  {
+    "key": "lfd",
+    "value": ""
+  },
+  {
+    "key": "lfdd",
+    "value": "teindre"
+  },
+  {
+    "key": "lfdr",
+    "value": "concordat"
+  },
+  {
+    "key": "lfdm",
+    "value": "additionner"
+  },
+  {
+    "key": "lfdf",
+    "value": "soustraire"
+  },
+  {
+    "key": "lfdso",
+    "value": "multiplier"
+  },
+  {
+    "key": "lfdl",
+    "value": "diviser"
+  },
+  {
+    "key": "lfds",
+    "value": "pertager"
+  },
+  {
+    "key": "lfr",
+    "value": "feuilleter"
+  },
+  {
+    "key": "lfrd",
+    "value": "tarifer"
+  },
+  {
+    "key": "lfrr",
+    "value": "moirer"
+  },
+  {
+    "key": "lfrm",
+    "value": "marquer"
+  },
+  {
+    "key": "lfrf",
+    "value": "quart"
+  },
+  {
+    "key": "lfrso",
+    "value": "tiers"
+  },
+  {
+    "key": "lfrl",
+    "value": "moitié"
+  },
+  {
+    "key": "lfrs",
+    "value": "compléter"
+  },
+  {
+    "key": "lfm",
+    "value": ""
+  },
+  {
+    "key": "lfmd",
+    "value": "décroître, rapetisser, s'amoindrir"
+  },
+  {
+    "key": "lfmr",
+    "value": "monétiser"
+  },
+  {
+    "key": "lfmm",
+    "value": "bigarrer"
+  },
+  {
+    "key": "lfmf",
+    "value": "billet"
+  },
+  {
+    "key": "lfmso",
+    "value": "ton mineur"
+  },
+  {
+    "key": "lfml",
+    "value": "escompter"
+  },
+  {
+    "key": "lfms",
+    "value": "endosser"
+  },
+  {
+    "key": "lff",
+    "value": "neiger"
+  },
+  {
+    "key": "lffd",
+    "value": "émailler"
+  },
+  {
+    "key": "lffr",
+    "value": "faiencer"
+  },
+  {
+    "key": "lffm",
+    "value": "porcelaine"
+  },
+  {
+    "key": "lffso",
+    "value": "mosaique"
+  },
+  {
+    "key": "lffl",
+    "value": "vernir"
+  },
+  {
+    "key": "lffs",
+    "value": "coller"
+  },
+  {
+    "key": "lfso",
+    "value": ""
+  },
+  {
+    "key": "lfsod",
+    "value": "monnayer"
+  },
+  {
+    "key": "lfsor",
+    "value": "or"
+  },
+  {
+    "key": "lfsom",
+    "value": "mauvais ton"
+  },
+  {
+    "key": "lfsof",
+    "value": "argent"
+  },
+  {
+    "key": "lfsoso",
+    "value": "feutrer"
+  },
+  {
+    "key": "lfsol",
+    "value": "franc"
+  },
+  {
+    "key": "lfsos",
+    "value": "centime"
+  },
+  {
+    "key": "lfl",
+    "value": ""
+  },
+  {
+    "key": "lfld",
+    "value": "mesurer"
+  },
+  {
+    "key": "lflr",
+    "value": "proportionner"
+  },
+  {
+    "key": "lflm",
+    "value": "géométrie"
+  },
+  {
+    "key": "lflf",
+    "value": "litre"
+  },
+  {
+    "key": "lflso",
+    "value": "are"
+  },
+  {
+    "key": "lfll",
+    "value": "pelucher"
+  },
+  {
+    "key": "lfls",
+    "value": "arpenter"
+  },
+  {
+    "key": "lfs",
+    "value": ""
+  },
+  {
+    "key": "lfsd",
+    "value": "balancer"
+  },
+  {
+    "key": "lfsr",
+    "value": "peser"
+  },
+  {
+    "key": "lfsm",
+    "value": "pesanteur"
+  },
+  {
+    "key": "lfsf",
+    "value": "gamme"
+  },
+  {
+    "key": "lfsso",
+    "value": "stère"
+  },
+  {
+    "key": "lfsl",
+    "value": "cuber"
+  },
+  {
+    "key": "lfss",
+    "value": "poncer"
+  },
+  {
+    "key": "lso",
+    "value": "jamais"
+  },
+  {
+    "key": "lsod",
+    "value": ""
+  },
+  {
+    "key": "lsodd",
+    "value": "épicer"
+  },
+  {
+    "key": "lsodr",
+    "value": "deca"
+  },
+  {
+    "key": "lsodm",
+    "value": "hecto"
+  },
+  {
+    "key": "lsodf",
+    "value": "kilo"
+  },
+  {
+    "key": "lsodso",
+    "value": "milli"
+  },
+  {
+    "key": "lsodl",
+    "value": "centi"
+  },
+  {
+    "key": "lsods",
+    "value": "déci"
+  },
+  {
+    "key": "lsor",
+    "value": "crayonner"
+  },
+  {
+    "key": "lsord",
+    "value": "pièce (d'étoffe)"
+  },
+  {
+    "key": "lsorr",
+    "value": "les quatre épices"
+  },
+  {
+    "key": "lsorm",
+    "value": "grossir"
+  },
+  {
+    "key": "lsorf",
+    "value": "mètre"
+  },
+  {
+    "key": "lsorso",
+    "value": "désillusionner"
+  },
+  {
+    "key": "lsorl",
+    "value": "rendre"
+  },
+  {
+    "key": "lsors",
+    "value": "consolider"
+  },
+  {
+    "key": "lsom",
+    "value": ""
+  },
+  {
+    "key": "lsomd",
+    "value": "abrutir"
+  },
+  {
+    "key": "lsomr",
+    "value": "échantillonner"
+  },
+  {
+    "key": "lsomm",
+    "value": "miel"
+  },
+  {
+    "key": "lsomf",
+    "value": "l'endroit d'une chose"
+  },
+  {
+    "key": "lsomso",
+    "value": "biaiser"
+  },
+  {
+    "key": "lsoml",
+    "value": "élargir"
+  },
+  {
+    "key": "lsoms",
+    "value": "longueur"
+  },
+  {
+    "key": "lsof",
+    "value": "défaire"
+  },
+  {
+    "key": "lsofd",
+    "value": "étaler"
+  },
+  {
+    "key": "lsofr",
+    "value": "exposer"
+  },
+  {
+    "key": "lsofm",
+    "value": "assortir"
+  },
+  {
+    "key": "lsoff",
+    "value": "riz"
+  },
+  {
+    "key": "lsofso",
+    "value": "importance"
+  },
+  {
+    "key": "lsofl",
+    "value": "breveter"
+  },
+  {
+    "key": "lsofs",
+    "value": "patenter"
+  },
+  {
+    "key": "lsoso",
+    "value": "geler"
+  },
+  {
+    "key": "lsosod",
+    "value": "écailler"
+  },
+  {
+    "key": "lsosor",
+    "value": "nacrer"
+  },
+  {
+    "key": "lsosom",
+    "value": "coquille"
+  },
+  {
+    "key": "lsosof",
+    "value": "corne"
+  },
+  {
+    "key": "lsosol",
+    "value": "ivoire"
+  },
+  {
+    "key": "lsosos",
+    "value": "liège"
+  },
+  {
+    "key": "lsol",
+    "value": "aligner"
+  },
+  {
+    "key": "lsold",
+    "value": "affaire"
+  },
+  {
+    "key": "lsolr",
+    "value": "excepter"
+  },
+  {
+    "key": "lsolm",
+    "value": "solvabilité"
+  },
+  {
+    "key": "lsolf",
+    "value": "garantir"
+  },
+  {
+    "key": "lsolso",
+    "value": "emballer"
+  },
+  {
+    "key": "lsoll",
+    "value": "orge"
+  },
+  {
+    "key": "lsols",
+    "value": "exporter"
+  },
+  {
+    "key": "lsos",
+    "value": "tracer"
+  },
+  {
+    "key": "lsosd",
+    "value": "négocier"
+  },
+  {
+    "key": "lsosr",
+    "value": "reprendre"
+  },
+  {
+    "key": "lsosm",
+    "value": "douter"
+  },
+  {
+    "key": "lsosf",
+    "value": "remettre"
+  },
+  {
+    "key": "lsosso",
+    "value": "équivaloir"
+  },
+  {
+    "key": "lsosl",
+    "value": "avantager"
+  },
+  {
+    "key": "lsoss",
+    "value": "farine"
+  },
+  {
+    "key": "ll",
+    "value": "participe présent"
+  },
+  {
+    "key": "lld",
+    "value": "aurore"
+  },
+  {
+    "key": "lldr",
+    "value": "tabac"
+  },
+  {
+    "key": "lldm",
+    "value": "priser"
+  },
+  {
+    "key": "lldf",
+    "value": "fumer"
+  },
+  {
+    "key": "lldso",
+    "value": "cigare"
+  },
+  {
+    "key": "lldl",
+    "value": "pipe"
+  },
+  {
+    "key": "llds",
+    "value": "tabagie"
+  },
+  {
+    "key": "llr",
+    "value": "lumière du jour"
+  },
+  {
+    "key": "llrd",
+    "value": "cabinet littéraire"
+  },
+  {
+    "key": "llrm",
+    "value": "s'abonner"
+  },
+  {
+    "key": "llrf",
+    "value": "souscrire"
+  },
+  {
+    "key": "llrso",
+    "value": "compter sur"
+  },
+  {
+    "key": "llrl",
+    "value": "librairie"
+  },
+  {
+    "key": "llrs",
+    "value": "éditer"
+  },
+  {
+    "key": "llm",
+    "value": "météore"
+  },
+  {
+    "key": "llmd",
+    "value": "imprimer"
+  },
+  {
+    "key": "llmr",
+    "value": "tirer"
+  },
+  {
+    "key": "llmf",
+    "value": "clicher"
+  },
+  {
+    "key": "llmso",
+    "value": "relier"
+  },
+  {
+    "key": "llml",
+    "value": "format"
+  },
+  {
+    "key": "llms",
+    "value": "cartonner"
+  },
+  {
+    "key": "llf",
+    "value": "matin"
+  },
+  {
+    "key": "llfd",
+    "value": "horlogerie"
+  },
+  {
+    "key": "llfr",
+    "value": "dorer"
+  },
+  {
+    "key": "llfm",
+    "value": "argenter"
+  },
+  {
+    "key": "llfso",
+    "value": "absence de danger"
+  },
+  {
+    "key": "llfl",
+    "value": "orfèvrerie"
+  },
+  {
+    "key": "llfs",
+    "value": "quincaillerie"
+  },
+  {
+    "key": "llso",
+    "value": "soir"
+  },
+  {
+    "key": "llsod",
+    "value": "bijouterie"
+  },
+  {
+    "key": "llsor",
+    "value": "réunir"
+  },
+  {
+    "key": "llsom",
+    "value": "chaîne"
+  },
+  {
+    "key": "llsof",
+    "value": "anneau"
+  },
+  {
+    "key": "llsol",
+    "value": "perles"
+  },
+  {
+    "key": "llsos",
+    "value": "jais"
+  },
+  {
+    "key": "lls",
+    "value": "nuit"
+  },
+  {
+    "key": "llsd",
+    "value": "pierres précieuses"
+  },
+  {
+    "key": "llsr",
+    "value": "émeraude"
+  },
+  {
+    "key": "llsm",
+    "value": "topaze"
+  },
+  {
+    "key": "llsf",
+    "value": "grenat"
+  },
+  {
+    "key": "llsso",
+    "value": "améthyste"
+  },
+  {
+    "key": "llsl",
+    "value": "opale"
+  },
+  {
+    "key": "ls",
+    "value": "de, du, des"
+  },
+  {
+    "key": "lsd",
+    "value": ""
+  },
+  {
+    "key": "lsdd",
+    "value": "boulanger"
+  },
+  {
+    "key": "lsdr",
+    "value": "la mode"
+  },
+  {
+    "key": "lsdm",
+    "value": "lingerie"
+  },
+  {
+    "key": "lsdf",
+    "value": "colerette"
+  },
+  {
+    "key": "lsdso",
+    "value": "manchettes"
+  },
+  {
+    "key": "lsdl",
+    "value": "dentelle"
+  },
+  {
+    "key": "lsds",
+    "value": "ruban"
+  },
+  {
+    "key": "lsr",
+    "value": "s'amuser, se réjouir, se divertir"
+  },
+  {
+    "key": "lsrd",
+    "value": "afficher"
+  },
+  {
+    "key": "lsrr",
+    "value": "pâte"
+  },
+  {
+    "key": "lsrm",
+    "value": "bonneterie"
+  },
+  {
+    "key": "lsrf",
+    "value": "accoupler"
+  },
+  {
+    "key": "lsrso",
+    "value": "tricoter"
+  },
+  {
+    "key": "lsrl",
+    "value": "filet"
+  },
+  {
+    "key": "lsrs",
+    "value": "crocheter"
+  },
+  {
+    "key": "lsm",
+    "value": ""
+  },
+  {
+    "key": "lsmd",
+    "value": "poltronnerie"
+  },
+  {
+    "key": "lsmr",
+    "value": "amasser"
+  },
+  {
+    "key": "lsmm",
+    "value": "levain"
+  },
+  {
+    "key": "lsmf",
+    "value": "encombrer"
+  },
+  {
+    "key": "lsmso",
+    "value": "mercerie"
+  },
+  {
+    "key": "lsml",
+    "value": "peloter"
+  },
+  {
+    "key": "lsms",
+    "value": "écheveau"
+  },
+  {
+    "key": "lsf",
+    "value": "hésiter, tâtonner, être dans l'incertitude"
+  },
+  {
+    "key": "lsfd",
+    "value": "indélicatesse"
+  },
+  {
+    "key": "lsfr",
+    "value": "foire"
+  },
+  {
+    "key": "lsfm",
+    "value": "jouets"
+  },
+  {
+    "key": "lsff",
+    "value": "vannerie"
+  },
+  {
+    "key": "lsfso",
+    "value": "poupées"
+  },
+  {
+    "key": "lsfl",
+    "value": "marionnettes"
+  },
+  {
+    "key": "lsfs",
+    "value": "loterie"
+  },
+  {
+    "key": "lsso",
+    "value": "ponctuer"
+  },
+  {
+    "key": "lssod",
+    "value": "vagabonder"
+  },
+  {
+    "key": "lssor",
+    "value": "charlataner"
+  },
+  {
+    "key": "lssom",
+    "value": "soudoyer"
+  },
+  {
+    "key": "lssof",
+    "value": "faire au faux"
+  },
+  {
+    "key": "lssoso",
+    "value": "filtrer"
+  },
+  {
+    "key": "lssol",
+    "value": "porter préjudice"
+  },
+  {
+    "key": "lssos",
+    "value": "faire banqueroute"
+  },
+  {
+    "key": "lsl",
+    "value": ""
+  },
+  {
+    "key": "lsld",
+    "value": "huissier"
+  },
+  {
+    "key": "lslr",
+    "value": "assigner"
+  },
+  {
+    "key": "lslm",
+    "value": "interpeller"
+  },
+  {
+    "key": "lslf",
+    "value": "protêt"
+  },
+  {
+    "key": "lslso",
+    "value": "procès"
+  },
+  {
+    "key": "lsll",
+    "value": "ustensiles"
+  },
+  {
+    "key": "lsls",
+    "value": "gagner"
+  },
+  {
+    "key": "lss",
+    "value": "froidure"
+  },
+  {
+    "key": "lssd",
+    "value": "corroyer"
+  },
+  {
+    "key": "lssr",
+    "value": "tanner"
+  },
+  {
+    "key": "lssm",
+    "value": "chagrin"
+  },
+  {
+    "key": "lssf",
+    "value": "pelleterie"
+  },
+  {
+    "key": "lssso",
+    "value": "vulcaniser"
+  },
+  {
+    "key": "lssl",
+    "value": "baleine"
+  },
+  {
+    "key": "s",
+    "value": "oui, volontiers, soit"
+  },
+  {
+    "key": "sd",
+    "value": "comment"
+  },
+  {
+    "key": "sdd",
+    "value": "atmosphère"
+  },
+  {
+    "key": "sddr",
+    "value": "tribunal de commerce"
+  },
+  {
+    "key": "sddm",
+    "value": "procéder"
+  },
+  {
+    "key": "sddf",
+    "value": "mettre à l'amende"
+  },
+  {
+    "key": "sddso",
+    "value": "justice de paix"
+  },
+  {
+    "key": "sddl",
+    "value": "greffe"
+  },
+  {
+    "key": "sdds",
+    "value": "adjuger"
+  },
+  {
+    "key": "sdr",
+    "value": "déshonorer, flétrir, souiller, avilir, humilier"
+  },
+  {
+    "key": "sdrd",
+    "value": "ville"
+  },
+  {
+    "key": "sdrr",
+    "value": "écoles du gouvernement"
+  },
+  {
+    "key": "sdrm",
+    "value": "barrière"
+  },
+  {
+    "key": "sdrf",
+    "value": "arrondissement"
+  },
+  {
+    "key": "sdrso",
+    "value": "quartier"
+  },
+  {
+    "key": "sdrl",
+    "value": "opacité"
+  },
+  {
+    "key": "sdrs",
+    "value": "rue"
+  },
+  {
+    "key": "sdm",
+    "value": ""
+  },
+  {
+    "key": "sdmd",
+    "value": "place"
+  },
+  {
+    "key": "sdmr",
+    "value": "monument"
+  },
+  {
+    "key": "sdmm",
+    "value": "conservatoire des Arts et Métiers"
+  },
+  {
+    "key": "sdmf",
+    "value": "édifice"
+  },
+  {
+    "key": "sdmso",
+    "value": "préfecture"
+  },
+  {
+    "key": "sdml",
+    "value": "mairie"
+  },
+  {
+    "key": "sdms",
+    "value": "municipalité"
+  },
+  {
+    "key": "sdf",
+    "value": "commencer, débuter"
+  },
+  {
+    "key": "sdfd",
+    "value": "couvent"
+  },
+  {
+    "key": "sdfr",
+    "value": "hôpital"
+  },
+  {
+    "key": "sdfm",
+    "value": "auberge"
+  },
+  {
+    "key": "sdff",
+    "value": "conservatoire de musique"
+  },
+  {
+    "key": "sdfso",
+    "value": "cabaret"
+  },
+  {
+    "key": "sdfl",
+    "value": "café"
+  },
+  {
+    "key": "sdfs",
+    "value": "halle"
+  },
+  {
+    "key": "sdso",
+    "value": "étudier"
+  },
+  {
+    "key": "sdsod",
+    "value": "boulevard"
+  },
+  {
+    "key": "sdsor",
+    "value": "recevoir"
+  },
+  {
+    "key": "sdsom",
+    "value": "monotonie"
+  },
+  {
+    "key": "sdsof",
+    "value": "allée"
+  },
+  {
+    "key": "sdsoso",
+    "value": "école de Saint-Cyr"
+  },
+  {
+    "key": "sdsol",
+    "value": "passage"
+  },
+  {
+    "key": "sdsos",
+    "value": "corridor"
+  },
+  {
+    "key": "sdl",
+    "value": "progresser"
+  },
+  {
+    "key": "sdld",
+    "value": "faubourg"
+  },
+  {
+    "key": "sdlr",
+    "value": "quai"
+  },
+  {
+    "key": "sdlm",
+    "value": "rivière"
+  },
+  {
+    "key": "sdlf",
+    "value": "pont"
+  },
+  {
+    "key": "sdlso",
+    "value": "arche"
+  },
+  {
+    "key": "sdll",
+    "value": "école normal"
+  },
+  {
+    "key": "sdls",
+    "value": "fontaine"
+  },
+  {
+    "key": "sds",
+    "value": "apprendre, s'instruire"
+  },
+  {
+    "key": "sdsd",
+    "value": "centraliser"
+  },
+  {
+    "key": "sdsr",
+    "value": "moyenne"
+  },
+  {
+    "key": "sdsm",
+    "value": "angle"
+  },
+  {
+    "key": "sdsf",
+    "value": "présence"
+  },
+  {
+    "key": "sdsso",
+    "value": "réalisme"
+  },
+  {
+    "key": "sdsl",
+    "value": "triangle"
+  },
+  {
+    "key": "sdss",
+    "value": "école central"
+  },
+  {
+    "key": "sr",
+    "value": "chacun, chaque"
+  },
+  {
+    "key": "srd",
+    "value": ""
+  },
+  {
+    "key": "srdd",
+    "value": "cadastre"
+  },
+  {
+    "key": "srdr",
+    "value": "gouverner"
+  },
+  {
+    "key": "srdm",
+    "value": "forcer, contraindre à, obliger à, assujétir"
+  },
+  {
+    "key": "srdf",
+    "value": "voter"
+  },
+  {
+    "key": "srdso",
+    "value": "élire"
+  },
+  {
+    "key": "srdl",
+    "value": "détailler"
+  },
+  {
+    "key": "srds",
+    "value": ""
+  },
+  {
+    "key": "srr",
+    "value": "astre"
+  },
+  {
+    "key": "srrd",
+    "value": "commissaire-priseur"
+  },
+  {
+    "key": "srrm",
+    "value": "agence judiciaire"
+  },
+  {
+    "key": "srrf",
+    "value": "agence du trésor public"
+  },
+  {
+    "key": "srrso",
+    "value": "agence comptable"
+  },
+  {
+    "key": "srrl",
+    "value": "appartenir à"
+  },
+  {
+    "key": "srrs",
+    "value": "convenir à"
+  },
+  {
+    "key": "srm",
+    "value": "orthographier"
+  },
+  {
+    "key": "srmd",
+    "value": "surdité"
+  },
+  {
+    "key": "srmr",
+    "value": ""
+  },
+  {
+    "key": "srmm",
+    "value": "physique (science)"
+  },
+  {
+    "key": "srmf",
+    "value": ""
+  },
+  {
+    "key": "srmso",
+    "value": "royauté, souveraineté"
+  },
+  {
+    "key": "srml",
+    "value": "régner"
+  },
+  {
+    "key": "srms",
+    "value": "la cour"
+  },
+  {
+    "key": "srf",
+    "value": ""
+  },
+  {
+    "key": "srfd",
+    "value": ""
+  },
+  {
+    "key": "srfr",
+    "value": "anoblir, titrer"
+  },
+  {
+    "key": "srfm",
+    "value": ""
+  },
+  {
+    "key": "srff",
+    "value": "collaboration"
+  },
+  {
+    "key": "srfso",
+    "value": ""
+  },
+  {
+    "key": "srfl",
+    "value": ""
+  },
+  {
+    "key": "srfs",
+    "value": ""
+  },
+  {
+    "key": "srso",
+    "value": ""
+  },
+  {
+    "key": "srsod",
+    "value": "intituler"
+  },
+  {
+    "key": "srsor",
+    "value": "sire (votre majesté)"
+  },
+  {
+    "key": "srsom",
+    "value": "monseigneur"
+  },
+  {
+    "key": "srsor",
+    "value": "excellence (votre)"
+  },
+  {
+    "key": "srsoso",
+    "value": "chimie"
+  },
+  {
+    "key": "srsol",
+    "value": "éminence (votre)"
+  },
+  {
+    "key": "srsos",
+    "value": "grandeur (votre)"
+  },
+  {
+    "key": "srl",
+    "value": "se recueillir, prendre garde, faire attention"
+  },
+  {
+    "key": "srld",
+    "value": "sénat, chambre des pairs"
+  },
+  {
+    "key": "srlr",
+    "value": ""
+  },
+  {
+    "key": "srlm",
+    "value": ""
+  },
+  {
+    "key": "srlf",
+    "value": ""
+  },
+  {
+    "key": "srlso",
+    "value": ""
+  },
+  {
+    "key": "srll",
+    "value": "botanique"
+  },
+  {
+    "key": "srls",
+    "value": "constituer, former"
+  },
+  {
+    "key": "srs",
+    "value": "s'appliquer"
+  },
+  {
+    "key": "srsd",
+    "value": ""
+  },
+  {
+    "key": "srsr",
+    "value": "politique"
+  },
+  {
+    "key": "srsm",
+    "value": ""
+  },
+  {
+    "key": "srsf",
+    "value": ""
+  },
+  {
+    "key": "srsso",
+    "value": ""
+  },
+  {
+    "key": "srsl",
+    "value": ""
+  },
+  {
+    "key": "srss",
+    "value": "astronomie"
+  },
+  {
+    "key": "sm",
+    "value": "bonjour"
+  },
+  {
+    "key": "smd",
+    "value": "distinguer, différencier, nuancer"
+  },
+  {
+    "key": "smdd",
+    "value": "imperfection"
+  },
+  {
+    "key": "smdr",
+    "value": "ministère"
+  },
+  {
+    "key": "smdm",
+    "value": "bureaucratie"
+  },
+  {
+    "key": "smdf",
+    "value": "surnumérariat"
+  },
+  {
+    "key": "smdso",
+    "value": "secrétariat"
+  },
+  {
+    "key": "smdl",
+    "value": "présider"
+  },
+  {
+    "key": "smds",
+    "value": "commission"
+  },
+  {
+    "key": "smr",
+    "value": "expliquer, définir"
+  },
+  {
+    "key": "smrd",
+    "value": "adopter"
+  },
+  {
+    "key": "smrr",
+    "value": "géographie"
+  },
+  {
+    "key": "smrm",
+    "value": "indemniser"
+  },
+  {
+    "key": "smrf",
+    "value": "compenser"
+  },
+  {
+    "key": "smrso",
+    "value": "récompenser"
+  },
+  {
+    "key": "smrl",
+    "value": "pensionner"
+  },
+  {
+    "key": "smrs",
+    "value": "retraiter"
+  },
+  {
+    "key": "smm",
+    "value": "lune"
+  },
+  {
+    "key": "smmd",
+    "value": "notariat"
+  },
+  {
+    "key": "smmr",
+    "value": "procurer"
+  },
+  {
+    "key": "smmf",
+    "value": "hypothèque"
+  },
+  {
+    "key": "smmso",
+    "value": "contracter"
+  },
+  {
+    "key": "smml",
+    "value": "acte de naissance"
+  },
+  {
+    "key": "smms",
+    "value": "acte de décès"
+  },
+  {
+    "key": "smf",
+    "value": ""
+  },
+  {
+    "key": "smfd",
+    "value": "administrer"
+  },
+  {
+    "key": "smfr",
+    "value": "intendance"
+  },
+  {
+    "key": "smfm",
+    "value": "se modérer"
+  },
+  {
+    "key": "smff",
+    "value": "carte géographique"
+  },
+  {
+    "key": "smfso",
+    "value": "gérer"
+  },
+  {
+    "key": "smfl",
+    "value": "percevoir"
+  },
+  {
+    "key": "smfs",
+    "value": "salarier"
+  },
+  {
+    "key": "smso",
+    "value": "simplifier, rendre facile"
+  },
+  {
+    "key": "smsod",
+    "value": "obscurité"
+  },
+  {
+    "key": "smsor",
+    "value": "salir"
+  },
+  {
+    "key": "smsom",
+    "value": "position"
+  },
+  {
+    "key": "smsof",
+    "value": "emploi"
+  },
+  {
+    "key": "smsoso",
+    "value": "colonie"
+  },
+  {
+    "key": "smsol",
+    "value": "court"
+  },
+  {
+    "key": "smsos",
+    "value": "adjoindre à"
+  },
+  {
+    "key": "sml",
+    "value": "faciliter, aplanir les difficultés"
+  },
+  {
+    "key": "smld",
+    "value": "journalisme"
+  },
+  {
+    "key": "smlr",
+    "value": "rédiger"
+  },
+  {
+    "key": "smlm",
+    "value": "insérer"
+  },
+  {
+    "key": "smlf",
+    "value": "article"
+  },
+  {
+    "key": "smlso",
+    "value": "nouvelles"
+  },
+  {
+    "key": "smll",
+    "value": "naturaliser"
+  },
+  {
+    "key": "smls",
+    "value": "publier"
+  },
+  {
+    "key": "sms",
+    "value": "éclaircir, élucider"
+  },
+  {
+    "key": "smsd",
+    "value": "histoire"
+  },
+  {
+    "key": "smsr",
+    "value": "moyen-âge"
+  },
+  {
+    "key": "smsm",
+    "value": "opinion"
+  },
+  {
+    "key": "smsf",
+    "value": "réguler"
+  },
+  {
+    "key": "smsso",
+    "value": "contemporanéité"
+  },
+  {
+    "key": "smsl",
+    "value": "confraternité"
+  },
+  {
+    "key": "smss",
+    "value": "réprimer"
+  },
+  {
+    "key": "sf",
+    "value": "peu, [particule grammatical réductif]"
+  },
+  {
+    "key": "sfd",
+    "value": "dicter"
+  },
+  {
+    "key": "sfdd",
+    "value": "optique"
+  },
+  {
+    "key": "sfdr",
+    "value": "dominer"
+  },
+  {
+    "key": "sfdm",
+    "value": "usurper"
+  },
+  {
+    "key": "sfdf",
+    "value": "opprimer"
+  },
+  {
+    "key": "sfdso",
+    "value": "inexprimable"
+  },
+  {
+    "key": "sfdl",
+    "value": "révoquer"
+  },
+  {
+    "key": "sfds",
+    "value": "exiler"
+  },
+  {
+    "key": "sfr",
+    "value": ""
+  },
+  {
+    "key": "sfrd",
+    "value": "nationaliser"
+  },
+  {
+    "key": "sfrr",
+    "value": "télescope"
+  },
+  {
+    "key": "sfrm",
+    "value": "patrie"
+  },
+  {
+    "key": "sfrf",
+    "value": "civiliser"
+  },
+  {
+    "key": "sfrso",
+    "value": "département"
+  },
+  {
+    "key": "sfrl",
+    "value": "province"
+  },
+  {
+    "key": "sfrs",
+    "value": "l'étranger"
+  },
+  {
+    "key": "sfm",
+    "value": "corriger, réformer"
+  },
+  {
+    "key": "sfmd",
+    "value": "faiblir"
+  },
+  {
+    "key": "sfmr",
+    "value": "internationalité"
+  },
+  {
+    "key": "sfmm",
+    "value": "thermomètre"
+  },
+  {
+    "key": "sfmf",
+    "value": "l'inconnu"
+  },
+  {
+    "key": "sfmso",
+    "value": "bourgeoisie"
+  },
+  {
+    "key": "sfml",
+    "value": "charger"
+  },
+  {
+    "key": "sfms",
+    "value": "être chargé de"
+  },
+  {
+    "key": "sff",
+    "value": "soleil"
+  },
+  {
+    "key": "sffd",
+    "value": "dossier"
+  },
+  {
+    "key": "sffr",
+    "value": "archives"
+  },
+  {
+    "key": "sffm",
+    "value": "attribution"
+  },
+  {
+    "key": "sffso",
+    "value": "contrôler"
+  },
+  {
+    "key": "sffl",
+    "value": "exproprier"
+  },
+  {
+    "key": "sffs",
+    "value": "bien"
+  },
+  {
+    "key": "sfso",
+    "value": "patienter"
+  },
+  {
+    "key": "sfsod",
+    "value": "indiquer"
+  },
+  {
+    "key": "sfsor",
+    "value": "traverser"
+  },
+  {
+    "key": "sfsom",
+    "value": "impolitesse"
+  },
+  {
+    "key": "sfsof",
+    "value": "suivre"
+  },
+  {
+    "key": "sfsoso",
+    "value": "baromètre"
+  },
+  {
+    "key": "sfsol",
+    "value": "escorter"
+  },
+  {
+    "key": "sfsos",
+    "value": "se rassembler"
+  },
+  {
+    "key": "sfl",
+    "value": "répéter, récapituler"
+  },
+  {
+    "key": "sfld",
+    "value": "passer"
+  },
+  {
+    "key": "sflr",
+    "value": "rencontrer"
+  },
+  {
+    "key": "sflm",
+    "value": "reconnaître"
+  },
+  {
+    "key": "sflf",
+    "value": "rendez-vous"
+  },
+  {
+    "key": "sflso",
+    "value": "différence"
+  },
+  {
+    "key": "sfll",
+    "value": "ballon"
+  },
+  {
+    "key": "sfls",
+    "value": "club"
+  },
+  {
+    "key": "sfs",
+    "value": "réitérer, renouveller, récidiver"
+  },
+  {
+    "key": "sfsd",
+    "value": "casino"
+  },
+  {
+    "key": "sfsr",
+    "value": "jouer"
+  },
+  {
+    "key": "sfsm",
+    "value": "billard"
+  },
+  {
+    "key": "sfsf",
+    "value": "cartes"
+  },
+  {
+    "key": "sfsso",
+    "value": "ancienneté"
+  },
+  {
+    "key": "sfsl",
+    "value": "échecs"
+  },
+  {
+    "key": "sfss",
+    "value": "parachute"
+  },
+  {
+    "key": "sso",
+    "value": "monsieur, sieur"
+  },
+  {
+    "key": "ssod",
+    "value": "concourir"
+  },
+  {
+    "key": "ssodd",
+    "value": "arsenal"
+  },
+  {
+    "key": "ssodr",
+    "value": "bourse"
+  },
+  {
+    "key": "ssodm",
+    "value": "banque"
+  },
+  {
+    "key": "ssodf",
+    "value": "placer (des valeurs)"
+  },
+  {
+    "key": "ssodso",
+    "value": "échouer"
+  },
+  {
+    "key": "ssodl",
+    "value": "agent de change"
+  },
+  {
+    "key": "ssods",
+    "value": "change"
+  },
+  {
+    "key": "ssor",
+    "value": "encourager, enhardir, stimuler, aiguillonner"
+  },
+  {
+    "key": "ssord",
+    "value": "baisser"
+  },
+  {
+    "key": "ssorr",
+    "value": "épée"
+  },
+  {
+    "key": "ssorm",
+    "value": "rente"
+  },
+  {
+    "key": "ssorf",
+    "value": "coupons"
+  },
+  {
+    "key": "ssorso",
+    "value": "actions"
+  },
+  {
+    "key": "ssorl",
+    "value": "obligations"
+  },
+  {
+    "key": "ssors",
+    "value": "hausser"
+  },
+  {
+    "key": "ssom",
+    "value": "inspecter"
+  },
+  {
+    "key": "ssomd",
+    "value": "trésor"
+  },
+  {
+    "key": "ssomr",
+    "value": "finance"
+  },
+  {
+    "key": "ssomm",
+    "value": "escrimer"
+  },
+  {
+    "key": "ssomf",
+    "value": "spéculer"
+  },
+  {
+    "key": "ssomso",
+    "value": "capitaliser"
+  },
+  {
+    "key": "ssomf",
+    "value": "intérêt"
+  },
+  {
+    "key": "ssoms",
+    "value": "faire de l'agiotage"
+  },
+  {
+    "key": "ssof",
+    "value": "examiner, scruter, approfondir"
+  },
+  {
+    "key": "ssofd",
+    "value": "mentir"
+  },
+  {
+    "key": "ssofr",
+    "value": "se déguiser"
+  },
+  {
+    "key": "ssofm",
+    "value": "crier"
+  },
+  {
+    "key": "ssoff",
+    "value": "parer à"
+  },
+  {
+    "key": "ssofso",
+    "value": "étourdir"
+  },
+  {
+    "key": "ssofl",
+    "value": "choquer"
+  },
+  {
+    "key": "ssofs",
+    "value": "abuser"
+  },
+  {
+    "key": "ssoso",
+    "value": "rayonner"
+  },
+  {
+    "key": "ssosod",
+    "value": "pétitionner"
+  },
+  {
+    "key": "ssosor",
+    "value": "réclamer"
+  },
+  {
+    "key": "ssosom",
+    "value": "adresse"
+  },
+  {
+    "key": "ssosof",
+    "value": "postuler"
+  },
+  {
+    "key": "ssosol",
+    "value": "importuner"
+  },
+  {
+    "key": "ssosos",
+    "value": "céder"
+  },
+  {
+    "key": "ssol",
+    "value": "analyser"
+  },
+  {
+    "key": "ssold",
+    "value": "peupler"
+  },
+  {
+    "key": "ssolr",
+    "value": "démocratie"
+  },
+  {
+    "key": "ssolm",
+    "value": "conspirer"
+  },
+  {
+    "key": "ssolf",
+    "value": "désunion"
+  },
+  {
+    "key": "ssolso",
+    "value": "désaccorder"
+  },
+  {
+    "key": "ssoll",
+    "value": "gymnase"
+  },
+  {
+    "key": "ssols",
+    "value": "s'insurger"
+  },
+  {
+    "key": "ssos",
+    "value": "questionner, interroger, interpeller"
+  },
+  {
+    "key": "ssosd",
+    "value": "abîmer"
+  },
+  {
+    "key": "ssosr",
+    "value": "ruiner"
+  },
+  {
+    "key": "ssosm",
+    "value": "incertitude"
+  },
+  {
+    "key": "ssosf",
+    "value": "détruire"
+  },
+  {
+    "key": "ssosso",
+    "value": "démolir"
+  },
+  {
+    "key": "ssosl",
+    "value": "tomber"
+  },
+  {
+    "key": "ssoss",
+    "value": "manège"
+  },
+  {
+    "key": "sl",
+    "value": "madame, dame, demoiselle"
+  },
+  {
+    "key": "sld",
+    "value": "comparer"
+  },
+  {
+    "key": "sldd",
+    "value": "équitation"
+  },
+  {
+    "key": "sldr",
+    "value": "éviter"
+  },
+  {
+    "key": "sldm",
+    "value": "mécontenter"
+  },
+  {
+    "key": "sldf",
+    "value": "fuir"
+  },
+  {
+    "key": "sldso",
+    "value": "guetter"
+  },
+  {
+    "key": "sldl",
+    "value": "attraper"
+  },
+  {
+    "key": "slds",
+    "value": "arrêter"
+  },
+  {
+    "key": "slr",
+    "value": "couronner"
+  },
+  {
+    "key": "slrd",
+    "value": "douane"
+  },
+  {
+    "key": "slrr",
+    "value": "course à cheval"
+  },
+  {
+    "key": "slrm",
+    "value": "octroi"
+  },
+  {
+    "key": "slrf",
+    "value": "entrepot"
+  },
+  {
+    "key": "slrso",
+    "value": "monopoliser"
+  },
+  {
+    "key": "slrl",
+    "value": "défendre"
+  },
+  {
+    "key": "slrs",
+    "value": "braconner"
+  },
+  {
+    "key": "slm",
+    "value": "détester, haïr, exécrer, abhorrer"
+  },
+  {
+    "key": "slmd",
+    "value": "police"
+  },
+  {
+    "key": "slmr",
+    "value": "commissariat"
+  },
+  {
+    "key": "slmm",
+    "value": "joute"
+  },
+  {
+    "key": "slmf",
+    "value": "gendarmerie"
+  },
+  {
+    "key": "slmso",
+    "value": "garde nationale"
+  },
+  {
+    "key": "slml",
+    "value": "corps-de-garde"
+  },
+  {
+    "key": "slms",
+    "value": "surveiller"
+  },
+  {
+    "key": "slf",
+    "value": ""
+  },
+  {
+    "key": "slfd",
+    "value": ""
+  },
+  {
+    "key": "slfr",
+    "value": ""
+  },
+  {
+    "key": "slfm",
+    "value": ""
+  },
+  {
+    "key": "slff",
+    "value": "parier"
+  },
+  {
+    "key": "slfso",
+    "value": ""
+  },
+  {
+    "key": "slfl",
+    "value": ""
+  },
+  {
+    "key": "slfs",
+    "value": ""
+  },
+  {
+    "key": "slso",
+    "value": "descendre, descente"
+  },
+  {
+    "key": "slsod",
+    "value": ""
+  },
+  {
+    "key": "slsor",
+    "value": ""
+  },
+  {
+    "key": "slsom",
+    "value": ""
+  },
+  {
+    "key": "slsof",
+    "value": ""
+  },
+  {
+    "key": "slsoso",
+    "value": "pyrotechnie"
+  },
+  {
+    "key": "slsol",
+    "value": "importer"
+  },
+  {
+    "key": "slsos",
+    "value": ""
+  },
+  {
+    "key": "sll",
+    "value": "ciel"
+  },
+  {
+    "key": "slld",
+    "value": "huissier de salle"
+  },
+  {
+    "key": "sllr",
+    "value": "chambellan"
+  },
+  {
+    "key": "sllm",
+    "value": "majordome"
+  },
+  {
+    "key": "sllf",
+    "value": "grand veneur"
+  },
+  {
+    "key": "sllso",
+    "value": "écuyer"
+  },
+  {
+    "key": "slls",
+    "value": "cent-gardes"
+  },
+  {
+    "key": "sls",
+    "value": ""
+  },
+  {
+    "key": "slsd",
+    "value": ""
+  },
+  {
+    "key": "slsr",
+    "value": "décorer"
+  },
+  {
+    "key": "slsm",
+    "value": "grade de commandeur"
+  },
+  {
+    "key": "slsf",
+    "value": "grand officier"
+  },
+  {
+    "key": "slsso",
+    "value": "grand-croix"
+  },
+  {
+    "key": "slsl",
+    "value": "perdre"
+  },
+  {
+    "key": "slss",
+    "value": "feu d'artifice"
+  },
+  {
+    "key": "ss",
+    "value": "participe passé"
+  },
+  {
+    "key": "ssd",
+    "value": "pleuvoir"
+  },
+  {
+    "key": "ssdr",
+    "value": "justice"
+  },
+  {
+    "key": "ssdm",
+    "value": "décréter"
+  },
+  {
+    "key": "ssdf",
+    "value": "jurisprudence"
+  },
+  {
+    "key": "ssdso",
+    "value": "magistrature"
+  },
+  {
+    "key": "ssdl",
+    "value": "chancelier"
+  },
+  {
+    "key": "ssds",
+    "value": "procureur général"
+  },
+  {
+    "key": "ssr",
+    "value": "venter"
+  },
+  {
+    "key": "ssrd",
+    "value": "cours des tribunaux"
+  },
+  {
+    "key": "ssrm",
+    "value": "cours de cassation"
+  },
+  {
+    "key": "ssrf",
+    "value": "cours d'appel"
+  },
+  {
+    "key": "ssrso",
+    "value": "tribunaux (de premier instance)"
+  },
+  {
+    "key": "ssrl",
+    "value": "cours d'assise"
+  },
+  {
+    "key": "ssrs",
+    "value": "tribunal correctionnel"
+  },
+  {
+    "key": "ssm",
+    "value": "nuage"
+  },
+  {
+    "key": "ssmd",
+    "value": "témoigner"
+  },
+  {
+    "key": "ssmr",
+    "value": "déclarer"
+  },
+  {
+    "key": "ssmf",
+    "value": "affirmer"
+  },
+  {
+    "key": "ssmso",
+    "value": "protester"
+  },
+  {
+    "key": "ssml",
+    "value": "accuser"
+  },
+  {
+    "key": "ssms",
+    "value": "le prévenu"
+  },
+  {
+    "key": "ssf",
+    "value": "éclair"
+  },
+  {
+    "key": "ssfd",
+    "value": "avocat"
+  },
+  {
+    "key": "ssfr",
+    "value": "plaider"
+  },
+  {
+    "key": "ssfm",
+    "value": "la cause de"
+  },
+  {
+    "key": "ssfso",
+    "value": "justifier"
+  },
+  {
+    "key": "ssfl",
+    "value": "pièces à l'appui"
+  },
+  {
+    "key": "ssfs",
+    "value": "pièces atténuantes"
+  },
+  {
+    "key": "ssso",
+    "value": "tonner"
+  },
+  {
+    "key": "sssod",
+    "value": "juge d'instruction"
+  },
+  {
+    "key": "sssor",
+    "value": "jurés"
+  },
+  {
+    "key": "sssom",
+    "value": "juger"
+  },
+  {
+    "key": "sssof",
+    "value": "majorité"
+  },
+  {
+    "key": "sssol",
+    "value": "absoudre"
+  },
+  {
+    "key": "sssos",
+    "value": "condamner"
+  },
+  {
+    "key": "ssl",
+    "value": "chaleur"
+  },
+  {
+    "key": "ssld",
+    "value": "assassiner"
+  },
+  {
+    "key": "sslr",
+    "value": "crime"
+  },
+  {
+    "key": "sslm",
+    "value": "infâmie"
+  },
+  {
+    "key": "sslf",
+    "value": "emprisonner"
+  },
+  {
+    "key": "sslso",
+    "value": "galère"
+  },
+  {
+    "key": "ssls",
+    "value": "échafaud"
+  }
+]
