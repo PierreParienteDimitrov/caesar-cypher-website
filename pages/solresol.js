@@ -4,6 +4,7 @@ import SolCypher from '../scripts/solresol';
 export default function SolReSol() {
 	const [userInput, setUserInput] = useState([]);
 	const [userSearch, setUserSearch] = useState('');
+	const [currentIndex, setCurrentIndex] = useState(0);
 
 	const [output, setOutput] = useState();
 	// console.log(userInput);
@@ -17,7 +18,8 @@ export default function SolReSol() {
 
 	useEffect(() => {
 		// console.log(userSearch);
-		const value = SolCypher(userSearch);
+		// console.log(currentIndex);
+		const value = SolCypher(userSearch, currentIndex);
 		// console.log(value);
 		setOutput(value);
 	}, [userSearch]);

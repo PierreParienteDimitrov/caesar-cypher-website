@@ -2,8 +2,12 @@ const dictionnary = require('./solresolDictionnary.json');
 
 // const userInput = ['do', 're', 'mi', 'fa', 'sol', 'la', 'si'];
 
-const SolCypher = (userInput) => {
+const SolCypher = (userInput, currentIndex) => {
 	const translationArr = [];
+
+	const spliceIndex = currentIndex;
+
+	console.log(spliceIndex);
 
 	// Translate user input for dictionnary formatting
 	const encodeInput = (userInput) => {
@@ -28,7 +32,9 @@ const SolCypher = (userInput) => {
 
 	// create arrays of one to four letters
 	const parseInput = (newArr) => {
-		// console.log('parsing');
+		// console.log('------');
+		// console.log(spliceIndex);
+
 		const originalArr = newArr;
 
 		// console.log('------');
@@ -39,7 +45,7 @@ const SolCypher = (userInput) => {
 
 		let words = [];
 		for (let i = 1; i < 6; i++) {
-			const word = duplicateArr.splice(0, i);
+			const word = duplicateArr.splice(spliceIndex, i);
 			words.push(word);
 			// console.log(word);
 			duplicateArr = [...originalArr];
@@ -61,10 +67,10 @@ const SolCypher = (userInput) => {
 
 		let dictionnaryArr = [...dictionnary];
 
-		duplicateArr.map((arr, index) => {
+		duplicateArr.map((arr) => {
 			const word = arr.toString('').split(',').join('');
 			console.log(word);
-			dictionnaryArr.filter((el, index) => {
+			dictionnaryArr.filter((el) => {
 				const { key, value } = el;
 				// console.log(el);
 
