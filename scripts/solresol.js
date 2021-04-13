@@ -1,12 +1,9 @@
 const dictionnary = require('./solresolDictionnary.json');
 
+// const userInput = ['do', 're', 'mi', 'fa', 'sol', 'la', 'si'];
+
 const SolCypher = (userInput) => {
-	// console.log(userInput);
-	const originalArr = userInput;
-
 	const translationArr = [];
-
-	// const userInput = ['do', 're', 'mi', 'fa', 'sol', 'la', 'si'];
 
 	// Translate user input for dictionnary formatting
 	const encodeInput = (userInput) => {
@@ -14,9 +11,7 @@ const SolCypher = (userInput) => {
 		// console.log(originalArr);
 
 		let duplicateArr = [...originalArr];
-
 		let newArr = [];
-
 		duplicateArr.map((el, index) => {
 			if (el === 'sol') {
 				newArr.push('so');
@@ -26,10 +21,8 @@ const SolCypher = (userInput) => {
 				newArr.push(letter);
 			}
 		});
-
 		// console.log('------');
 		// console.log(newArr);
-
 		parseInput(newArr);
 	};
 
@@ -56,12 +49,6 @@ const SolCypher = (userInput) => {
 		// console.log(words);
 
 		translate(words);
-
-		// for (let i = 1; i < 6; i++) {
-		// 	const word = duplicateArr.splice(2, i);
-		// 	console.log(word.toString().split(',').join(''));
-		// 	duplicateArr = [...originalArr];
-		// }
 	};
 
 	// translate each string
@@ -69,31 +56,14 @@ const SolCypher = (userInput) => {
 		const originalArr = words;
 
 		let duplicateArr = [...originalArr];
+		// console.log('------------------');
+		// console.log(duplicateArr)
 
 		let dictionnaryArr = [...dictionnary];
 
-		// console.log(duplicateArr);
-
-		console.log('------------------');
-		console.log(duplicateArr);
-
-		// let newArr = [];
-
-		// duplicateArr.map((el, index) => {
-		// 	console.log('------------------');
-		// 	console.log(el);
-		// 	const note = el.toString('').split(',').join('');
-		// 	newArr.push(note);
-		// });
-
-		// console.log('------------------');
-		// console.log(newArr);
-
-		// console.log(dictionnary);
-
 		duplicateArr.map((arr, index) => {
 			const word = arr.toString('').split(',').join('');
-			// console.log(word);
+			console.log(word);
 			dictionnaryArr.filter((el, index) => {
 				const { key, value } = el;
 				// console.log(el);
@@ -106,20 +76,17 @@ const SolCypher = (userInput) => {
 				} else {
 					return;
 				}
-
-				// console.log(translationArr);
 			});
 		});
 
-		// console.log(translationArr);
+		console.log(translationArr);
 		return translationArr;
 	};
-
-	// parseInput();
-	// console.log(encodeInput(userInput));
 
 	encodeInput(userInput);
 	return translationArr;
 };
+
+// SolCypher(userInput);
 
 export default SolCypher;
