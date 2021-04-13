@@ -473,7 +473,7 @@
   },
   {
     "key": "drmso",
-    "value": ""
+    "value": "bouche, lèvres, langue, palais"
   },
   {
     "key": "drmsod",
@@ -501,7 +501,7 @@
   },
   {
     "key": "drml",
-    "value": ""
+    "value": "dents, dentition"
   },
   {
     "key": "drmld",
@@ -553,7 +553,7 @@
   },
   {
     "key": "drf",
-    "value": ""
+    "value": "semaine"
   },
   {
     "key": "drfd",
@@ -585,7 +585,7 @@
   },
   {
     "key": "drfr",
-    "value": ""
+    "value": "cou, gosier, gorge, larynx"
   },
   {
     "key": "drfrd",
@@ -613,7 +613,7 @@
   },
   {
     "key": "drfm",
-    "value": ""
+    "value": "poitrine, sein, mamelle, téton, poumon"
   },
   {
     "key": "drfmd",
@@ -645,7 +645,7 @@
   },
   {
     "key": "drfso",
-    "value": ""
+    "value": "épaule, omoplate"
   },
   {
     "key": "drfsod",
@@ -673,7 +673,7 @@
   },
   {
     "key": "drfl",
-    "value": ""
+    "value": "bras, coude, poignet"
   },
   {
     "key": "drfld",
@@ -697,7 +697,7 @@
   },
   {
     "key": "drfs",
-    "value": ""
+    "value": "main, paume"
   },
   {
     "key": "drfsd",
@@ -713,7 +713,7 @@
   },
   {
     "key": "drso",
-    "value": ""
+    "value": "mois"
   },
   {
     "key": "drsod",
@@ -745,7 +745,7 @@
   },
   {
     "key": "drsor",
-    "value": ""
+    "value": "domesticité"
   },
   {
     "key": "drsord",
@@ -773,7 +773,7 @@
   },
   {
     "key": "drsom",
-    "value": ""
+    "value": "estomac"
   },
   {
     "key": "drsomd",
@@ -801,7 +801,7 @@
   },
   {
     "key": "drsof",
-    "value": ""
+    "value": "ventre, abdomen"
   },
   {
     "key": "drsofd",
@@ -833,7 +833,7 @@
   },
   {
     "key": "drsol",
-    "value": ""
+    "value": "intestins, entrailles, boyaux"
   },
   {
     "key": "drsold",
@@ -861,7 +861,7 @@
   },
   {
     "key": "drsos",
-    "value": ""
+    "value": "foie, rate, bile"
   },
   {
     "key": "drsosd",
@@ -889,11 +889,11 @@
   },
   {
     "key": "drl",
-    "value": ""
+    "value": "année, âge"
   },
   {
     "key": "drld",
-    "value": ""
+    "value": "dos, épine dorsale, rachis, vertèbre"
   },
   {
     "key": "drldr",
@@ -949,7 +949,7 @@
   },
   {
     "key": "drlm",
-    "value": ""
+    "value": "hanches, côté, flanc, côtes"
   },
   {
     "key": "drlmd",
@@ -977,7 +977,7 @@
   },
   {
     "key": "drlf",
-    "value": ""
+    "value": "inabordable, inaccessible"
   },
   {
     "key": "drlfd",
@@ -1005,7 +1005,7 @@
   },
   {
     "key": "drlso",
-    "value": ""
+    "value": "fesses, anus, cu, le derrière"
   },
   {
     "key": "drlsod",
@@ -1033,7 +1033,7 @@
   },
   {
     "key": "drls",
-    "value": ""
+    "value": "chair, peau, épiderme"
   },
   {
     "key": "drlsd",
@@ -1061,11 +1061,11 @@
   },
   {
     "key": "drs",
-    "value": ""
+    "value": "siècle"
   },
   {
     "key": "drsd",
-    "value": ""
+    "value": "os, ossification"
   },
   {
     "key": "drsdr",
@@ -1093,7 +1093,7 @@
   },
   {
     "key": "drsr",
-    "value": ""
+    "value": "moelle, moelle épinière"
   },
   {
     "key": "drsrd",
@@ -1121,7 +1121,7 @@
   },
   {
     "key": "drsm",
-    "value": ""
+    "value": "veine, artère"
   },
   {
     "key": "drsmd",
@@ -1177,7 +1177,7 @@
   },
   {
     "key": "drsso",
-    "value": ""
+    "value": "sang, sanguin"
   },
   {
     "key": "drssod",
@@ -1241,7 +1241,7 @@
   },
   {
     "key": "dmd",
-    "value": ""
+    "value": "univers, création"
   },
   {
     "key": "dmdd",
@@ -1249,7 +1249,7 @@
   },
   {
     "key": "dmdr",
-    "value": ""
+    "value": "les membres"
   },
   {
     "key": "dmdrd",
@@ -1277,7 +1277,7 @@
   },
   {
     "key": "dmdm",
-    "value": ""
+    "value": "cuisse, genou"
   },
   {
     "key": "dmdmd",
@@ -1305,7 +1305,7 @@
   },
   {
     "key": "dmdf",
-    "value": ""
+    "value": "jambe, mollet"
   },
   {
     "key": "dmdfd",
@@ -1333,7 +1333,7 @@
   },
   {
     "key": "dmdso",
-    "value": ""
+    "value": "pied, cou-de-pied, talon"
   },
   {
     "key": "dmdsod",
@@ -1361,7 +1361,7 @@
   },
   {
     "key": "dmdl",
-    "value": ""
+    "value": "doigt"
   },
   {
     "key": "dmdld",
@@ -1417,7 +1417,7 @@
   },
   {
     "key": "dmr",
-    "value": ""
+    "value": "immensité, incommensurabilité, l'infini"
   },
   {
     "key": "dmrd",
@@ -1621,11 +1621,11 @@
   },
   {
     "key": "dmf",
-    "value": ""
+    "value": "providence"
   },
   {
     "key": "dmfd",
-    "value": ""
+    "value": "humain, humanité, homme"
   },
   {
     "key": "dmfdr",
@@ -1717,15 +1717,15 @@
   },
   {
     "key": "dmfs",
-    "value": ""
+    "value": "force, vigueur, vitalité, sève"
   },
   {
     "key": "dmso",
-    "value": ""
+    "value": "dieu, l'Éternel, divinité, Tout-Puissant, le très-haut"
   },
   {
     "key": "dmsod",
-    "value": ""
+    "value": "supériorité, suprématie, élite, supérieur"
   },
   {
     "key": "dmsodr",
@@ -1753,7 +1753,7 @@
   },
   {
     "key": "dmsor",
-    "value": ""
+    "value": "pouvoir, autorité, prééminence, prépondérance, puissance"
   },
   {
     "key": "dmsord",
@@ -1781,7 +1781,7 @@
   },
   {
     "key": "dmsom",
-    "value": ""
+    "value": "magnanimité, élévation de sentiment, grandeur d'âme"
   },
   {
     "key": "dmsomd",
@@ -2345,7 +2345,7 @@
   },
   {
     "key": "dfr",
-    "value": ""
+    "value": "suprême, souverain"
   },
   {
     "key": "dfrd",
@@ -2433,7 +2433,7 @@
   },
   {
     "key": "dfm",
-    "value": ""
+    "value": "magnificence, splendeur, resplendissement"
   },
   {
     "key": "dfmd",
@@ -2493,7 +2493,7 @@
   },
   {
     "key": "dfso",
-    "value": ""
+    "value": "merveille"
   },
   {
     "key": "dfsod",
@@ -2657,7 +2657,7 @@
   },
   {
     "key": "dsom",
-    "value": ""
+    "value": "Christ, Rédempteur, Messie, Verbe, Sauveur"
   },
   {
     "key": "dsomd",
@@ -2689,7 +2689,7 @@
   },
   {
     "key": "dsof",
-    "value": ""
+    "value": "Sainte-Vierge, vierge"
   },
   {
     "key": "dsofd",
@@ -2749,7 +2749,7 @@
   },
   {
     "key": "dsol",
-    "value": ""
+    "value": "religion, culte, piété"
   },
   {
     "key": "dsold",
@@ -2821,7 +2821,7 @@
   },
   {
     "key": "dld",
-    "value": ""
+    "value": "charité"
   },
   {
     "key": "dldd",
@@ -2853,7 +2853,7 @@
   },
   {
     "key": "dlr",
-    "value": ""
+    "value": "philanthropie, philanthrope"
   },
   {
     "key": "dlrd",
@@ -2949,7 +2949,7 @@
   },
   {
     "key": "dlso",
-    "value": ""
+    "value": "inexcusable, impardonnable, irrémissible"
   },
   {
     "key": "dlsod",
@@ -3009,7 +3009,7 @@
   },
   {
     "key": "dls",
-    "value": ""
+    "value": "incomparable, inimitable, inestimable"
   },
   {
     "key": "dlsd",
@@ -3109,7 +3109,7 @@
   },
   {
     "key": "dsm",
-    "value": ""
+    "value": "infidélité, infidèle"
   },
   {
     "key": "dsmd",
@@ -3301,7 +3301,7 @@
   },
   {
     "key": "rdr",
-    "value": ""
+    "value": "philosophie, philosophe"
   },
   {
     "key": "rdrd",
@@ -3397,7 +3397,7 @@
   },
   {
     "key": "rdso",
-    "value": ""
+    "value": "mœurs, coutume"
   },
   {
     "key": "rdsod",
@@ -3429,7 +3429,7 @@
   },
   {
     "key": "rdl",
-    "value": ""
+    "value": "proverbe, maxime"
   },
   {
     "key": "rdld",
@@ -3781,7 +3781,7 @@
   },
   {
     "key": "rmso",
-    "value": ""
+    "value": "aumône, aumônier"
   },
   {
     "key": "rmsod",
@@ -3845,7 +3845,7 @@
   },
   {
     "key": "rms",
-    "value": ""
+    "value": "incompréhensible, inexplicable"
   },
   {
     "key": "rmsd",
@@ -3881,7 +3881,7 @@
   },
   {
     "key": "rfd",
-    "value": ""
+    "value": "notabilité, personnage"
   },
   {
     "key": "rfdd",
@@ -3913,7 +3913,7 @@
   },
   {
     "key": "rfr",
-    "value": ""
+    "value": "dignités, honneurs, grandeurs, apothéose, dignitaire"
   },
   {
     "key": "rfrd",
@@ -4005,7 +4005,7 @@
   },
   {
     "key": "rfso",
-    "value": ""
+    "value": "ineffaçable, indélébile"
   },
   {
     "key": "rfsod",
@@ -4169,7 +4169,7 @@
   },
   {
     "key": "rsom",
-    "value": ""
+    "value": "hérésie"
   },
   {
     "key": "rsomd",
@@ -4201,7 +4201,7 @@
   },
   {
     "key": "rsof",
-    "value": ""
+    "value": "théisme"
   },
   {
     "key": "rsofd",
@@ -4329,7 +4329,7 @@
   },
   {
     "key": "rld",
-    "value": ""
+    "value": "misanthropie, misanthrope"
   },
   {
     "key": "rldd",
@@ -4425,7 +4425,7 @@
   },
   {
     "key": "rlf",
-    "value": ""
+    "value": "impossibilité, impraticabilité"
   },
   {
     "key": "rlfd",
@@ -4457,7 +4457,7 @@
   },
   {
     "key": "rlso",
-    "value": ""
+    "value": "intolérance, sévérité, rigorisme, inclémence"
   },
   {
     "key": "rlsod",
@@ -4785,19 +4785,19 @@
   },
   {
     "key": "mddr",
-    "value": ""
+    "value": "combien"
   },
   {
     "key": "mddm",
-    "value": ""
+    "value": "autant que possible"
   },
   {
     "key": "mddf",
-    "value": ""
+    "value": "autant, non moins, tout autant, ni plus ni moins"
   },
   {
     "key": "mddso",
-    "value": ""
+    "value": "plus, davantage, encore"
   },
   {
     "key": "mddl",
@@ -4805,7 +4805,7 @@
   },
   {
     "key": "mdds",
-    "value": ""
+    "value": "avec"
   },
   {
     "key": "mdr",
@@ -4853,7 +4853,7 @@
   },
   {
     "key": "mdmm",
-    "value": ""
+    "value": "sur le point de, au moment, à la veille de"
   },
   {
     "key": "mdmf",
@@ -4889,7 +4889,7 @@
   },
   {
     "key": "mdff",
-    "value": ""
+    "value": "tant, si"
   },
   {
     "key": "mdfso",
@@ -4925,7 +4925,7 @@
   },
   {
     "key": "mdsoso",
-    "value": ""
+    "value": "aussi"
   },
   {
     "key": "mdsol",
@@ -4937,7 +4937,7 @@
   },
   {
     "key": "mdl",
-    "value": ""
+    "value": "réciprocité, mutualité"
   },
   {
     "key": "mdld",
@@ -4961,7 +4961,7 @@
   },
   {
     "key": "mdll",
-    "value": ""
+    "value": "même"
   },
   {
     "key": "mdls",
@@ -4997,7 +4997,7 @@
   },
   {
     "key": "mdss",
-    "value": ""
+    "value": "à sa guise, à sa manière, à sa façon"
   },
   {
     "key": "mr",
@@ -5009,7 +5009,7 @@
   },
   {
     "key": "mrdd",
-    "value": ""
+    "value": "de plus, en outre, indépendamment, outre cela"
   },
   {
     "key": "mrdr",
@@ -5041,31 +5041,31 @@
   },
   {
     "key": "mrrd",
-    "value": ""
+    "value": "n'importe, quoi que ce soit, toute chose"
   },
   {
     "key": "mrrm",
-    "value": ""
+    "value": "peu importe, qu'est-ce que cela fait, cela est égal, cela est indifférent, qu'à cela ne tienne"
   },
   {
     "key": "mrrf",
-    "value": ""
+    "value": "seulement, non-seulement"
   },
   {
     "key": "mrrso",
-    "value": ""
+    "value": "peu à peu, insensiblement, imperceptiblement, graduellement, par gradation, par degrés, au fur et à mesure"
   },
   {
     "key": "mrrl",
-    "value": ""
+    "value": "tant pis"
   },
   {
     "key": "mrrs",
-    "value": ""
+    "value": "tant mieux"
   },
   {
     "key": "mrm",
-    "value": ""
+    "value": "bien aimé, chéri"
   },
   {
     "key": "mrmd",
@@ -5077,7 +5077,7 @@
   },
   {
     "key": "mrmm",
-    "value": ""
+    "value": "tellement, à tel point que"
   },
   {
     "key": "mrmf",
@@ -5097,7 +5097,7 @@
   },
   {
     "key": "mrf",
-    "value": ""
+    "value": "tendresse"
   },
   {
     "key": "mrfd",
@@ -5113,7 +5113,7 @@
   },
   {
     "key": "mrff",
-    "value": ""
+    "value": "car"
   },
   {
     "key": "mrfso",
@@ -5149,7 +5149,7 @@
   },
   {
     "key": "mrsoso",
-    "value": ""
+    "value": "afin que"
   },
   {
     "key": "mrsol",
@@ -5185,7 +5185,7 @@
   },
   {
     "key": "mrll",
-    "value": ""
+    "value": "peut-être"
   },
   {
     "key": "mrls",
@@ -5221,7 +5221,7 @@
   },
   {
     "key": "mrss",
-    "value": ""
+    "value": "d'ailleurs, du reste, au reste, au surplus"
   },
   {
     "key": "mm",
@@ -5237,23 +5237,23 @@
   },
   {
     "key": "mmdm",
-    "value": ""
+    "value": "cependant, pourtant, néanmoins"
   },
   {
     "key": "mmdf",
-    "value": ""
+    "value": "attendu que"
   },
   {
     "key": "mmdso",
-    "value": ""
+    "value": "pourvu que"
   },
   {
     "key": "mmdl",
-    "value": ""
+    "value": "tandis que, pendant que"
   },
   {
     "key": "mmds",
-    "value": ""
+    "value": "jusque"
   },
   {
     "key": "mmr",
@@ -5261,7 +5261,7 @@
   },
   {
     "key": "mmrd",
-    "value": ""
+    "value": "sous, dessous, en dessous"
   },
   {
     "key": "mmrm",
@@ -5273,15 +5273,15 @@
   },
   {
     "key": "mmrso",
-    "value": ""
+    "value": "entre, parmi, au milieu de"
   },
   {
     "key": "mmrl",
-    "value": ""
+    "value": "au travers"
   },
   {
     "key": "mmrso",
-    "value": ""
+    "value": "sur, dessus, en dessus de, ci-dessus"
   },
   {
     "key": "mmf",
@@ -5289,27 +5289,27 @@
   },
   {
     "key": "mmfd",
-    "value": ""
+    "value": "devant, façade"
   },
   {
     "key": "mmfr",
-    "value": ""
+    "value": "vis-à-vis, en face, en présence de"
   },
   {
     "key": "mmfm",
-    "value": ""
+    "value": "de front, de face"
   },
   {
     "key": "mmfso",
-    "value": ""
+    "value": "partout, en tout lieu, de tout côté, par où que ce soit, où que ce soit, en quel lieu que ce soit"
   },
   {
     "key": "mmfl",
-    "value": ""
+    "value": "au-delà, plus loin"
   },
   {
     "key": "mmfs",
-    "value": ""
+    "value": "ailleurs, autre part, d'un autre côté, dans un autre endroit"
   },
   {
     "key": "mmso",
@@ -5317,27 +5317,27 @@
   },
   {
     "key": "mmsod",
-    "value": ""
+    "value": "où, dans quel endroit"
   },
   {
     "key": "mmsor",
-    "value": ""
+    "value": "chez"
   },
   {
     "key": "mmsom",
-    "value": ""
+    "value": "ici, d'ici, de cet endroit-ci"
   },
   {
     "key": "mmsof",
-    "value": ""
+    "value": "là, de là, de cet endroit-là"
   },
   {
     "key": "mmsol",
-    "value": ""
+    "value": "par, de l'autre côté, du côté opposé"
   },
   {
     "key": "mmsos",
-    "value": ""
+    "value": "à l'extrémité de, au bout de, à la fin de"
   },
   {
     "key": "mml",
@@ -5345,27 +5345,27 @@
   },
   {
     "key": "mmld",
-    "value": ""
+    "value": "fréquemment, la plupart du temps, presque toujours"
   },
   {
     "key": "mmlr",
-    "value": ""
+    "value": "longtemps, à la longue, longuement"
   },
   {
     "key": "mmlm",
-    "value": ""
+    "value": "quelque temps avant"
   },
   {
     "key": "mmlf",
-    "value": ""
+    "value": "quelque temps après"
   },
   {
     "key": "mmlso",
-    "value": ""
+    "value": "parfois, quelquefois, de temps en temps, de temps à autre."
   },
   {
     "key": "mmls",
-    "value": ""
+    "value": "à chaque instant, d'un moment à l'autre"
   },
   {
     "key": "mms",
@@ -5373,11 +5373,11 @@
   },
   {
     "key": "mmsd",
-    "value": ""
+    "value": "tôt, de bonne heure, plus tôt"
   },
   {
     "key": "mmsr",
-    "value": ""
+    "value": "tout à l'heure, à l'instant"
   },
   {
     "key": "mmsm",
@@ -5385,15 +5385,15 @@
   },
   {
     "key": "mmsf",
-    "value": ""
+    "value": "bientôt, dans peu, sous peu, incessamment, prochainement"
   },
   {
     "key": "mmsso",
-    "value": ""
+    "value": "aussitôt, dès que"
   },
   {
     "key": "mmsl",
-    "value": ""
+    "value": "tôt ou tard"
   },
   {
     "key": "mf",
@@ -5401,11 +5401,11 @@
   },
   {
     "key": "mfd",
-    "value": ""
+    "value": "agrément, plaisir, délices"
   },
   {
     "key": "mfdd",
-    "value": ""
+    "value": "l'un avant l'autre"
   },
   {
     "key": "mfdr",
@@ -5477,7 +5477,7 @@
   },
   {
     "key": "mfmm",
-    "value": ""
+    "value": "ni l'un ni l'autre"
   },
   {
     "key": "mfmf",
@@ -5501,27 +5501,27 @@
   },
   {
     "key": "mffd",
-    "value": ""
+    "value": "à propos"
   },
   {
     "key": "mffr",
-    "value": ""
+    "value": "de sorte que, en sorte que, de façon que, de manière que"
   },
   {
     "key": "mffm",
-    "value": ""
+    "value": "au lieu de"
   },
   {
     "key": "mffso",
-    "value": ""
+    "value": "en somme, à tout prendre, en résumé"
   },
   {
     "key": "mffl",
-    "value": ""
+    "value": "pour ainsi dire"
   },
   {
     "key": "mffs",
-    "value": ""
+    "value": "enfin"
   },
   {
     "key": "mfso",
@@ -5545,7 +5545,7 @@
   },
   {
     "key": "mfsoso",
-    "value": ""
+    "value": "sous aucun rapport, en aucune manière, d'aucune façon, quoique ce soit"
   },
   {
     "key": "mfsol",
@@ -5581,7 +5581,7 @@
   },
   {
     "key": "mfll",
-    "value": ""
+    "value": "quelque soit"
   },
   {
     "key": "mfls",
@@ -5589,7 +5589,7 @@
   },
   {
     "key": "mfs",
-    "value": ""
+    "value": "incorrigibilité"
   },
   {
     "key": "mfsd",
@@ -5617,7 +5617,7 @@
   },
   {
     "key": "mfss",
-    "value": ""
+    "value": "mal à propos, à contre temps"
   },
   {
     "key": "mso",
@@ -5629,7 +5629,7 @@
   },
   {
     "key": "msodd",
-    "value": ""
+    "value": "c'est-à-dire, par exemple"
   },
   {
     "key": "msodr",
@@ -5665,7 +5665,7 @@
   },
   {
     "key": "msorr",
-    "value": ""
+    "value": "à la bonne heure"
   },
   {
     "key": "msorm",
@@ -5689,7 +5689,7 @@
   },
   {
     "key": "msom",
-    "value": ""
+    "value": "douceur, aménité, égalité d'humeur"
   },
   {
     "key": "msomd",
@@ -5701,7 +5701,7 @@
   },
   {
     "key": "msomm",
-    "value": ""
+    "value": "à tous égards, sous tous les rapports"
   },
   {
     "key": "msomf",
@@ -5721,7 +5721,7 @@
   },
   {
     "key": "msof",
-    "value": ""
+    "value": "bienveillance, affabilité, bonne volonté"
   },
   {
     "key": "msofd",
@@ -5737,7 +5737,7 @@
   },
   {
     "key": "msoff",
-    "value": ""
+    "value": "à l'occasion de, au sujet de"
   },
   {
     "key": "msofso",
@@ -5757,15 +5757,15 @@
   },
   {
     "key": "msosod",
-    "value": ""
+    "value": "donc, ainsi donc"
   },
   {
     "key": "msosor",
-    "value": ""
+    "value": "aspérité, rugosité"
   },
   {
     "key": "msosom",
-    "value": ""
+    "value": "ainsi"
   },
   {
     "key": "msosof",
@@ -5773,11 +5773,11 @@
   },
   {
     "key": "msosol",
-    "value": ""
+    "value": "surtout"
   },
   {
     "key": "msosos",
-    "value": ""
+    "value": "alors"
   },
   {
     "key": "msol",
@@ -5805,7 +5805,7 @@
   },
   {
     "key": "msoll",
-    "value": ""
+    "value": "en considération de, par rapport à, à cause de, en raison de, considération que"
   },
   {
     "key": "msols",
@@ -5813,7 +5813,7 @@
   },
   {
     "key": "msos",
-    "value": ""
+    "value": "amabilité"
   },
   {
     "key": "msosd",
@@ -5841,7 +5841,7 @@
   },
   {
     "key": "msoss",
-    "value": ""
+    "value": "pendant ce temps-là, sur ces entrefaites"
   },
   {
     "key": "ml",
@@ -5853,7 +5853,7 @@
   },
   {
     "key": "mldd",
-    "value": ""
+    "value": "à quel degré ?"
   },
   {
     "key": "mldr",
@@ -5889,7 +5889,7 @@
   },
   {
     "key": "mlrr",
-    "value": ""
+    "value": "eh bien ?"
   },
   {
     "key": "mlrm",
@@ -6013,27 +6013,27 @@
   },
   {
     "key": "mlld",
-    "value": ""
+    "value": "puisque"
   },
   {
     "key": "mllr",
-    "value": ""
+    "value": "quant à"
   },
   {
     "key": "mllm",
-    "value": ""
+    "value": "quand, lorsque"
   },
   {
     "key": "mllf",
-    "value": ""
+    "value": "pluralité, pluriel"
   },
   {
     "key": "mllso",
-    "value": ""
+    "value": "malgré, en dépit de"
   },
   {
     "key": "mlls",
-    "value": ""
+    "value": "quoique"
   },
   {
     "key": "mls",
@@ -6073,7 +6073,7 @@
   },
   {
     "key": "msd",
-    "value": ""
+    "value": "fidélité"
   },
   {
     "key": "msdd",
@@ -6149,7 +6149,7 @@
   },
   {
     "key": "msmm",
-    "value": ""
+    "value": "plus (comme cessation d'action)"
   },
   {
     "key": "msmf",
@@ -6185,7 +6185,7 @@
   },
   {
     "key": "msff",
-    "value": ""
+    "value": "hélas !"
   },
   {
     "key": "msfso",
@@ -6201,7 +6201,7 @@
   },
   {
     "key": "msso",
-    "value": ""
+    "value": "bonheur, félicité"
   },
   {
     "key": "mssod",
@@ -6257,7 +6257,7 @@
   },
   {
     "key": "msll",
-    "value": ""
+    "value": "dernier"
   },
   {
     "key": "msls",
@@ -6269,27 +6269,27 @@
   },
   {
     "key": "mssd",
-    "value": ""
+    "value": "déjà"
   },
   {
     "key": "mssr",
-    "value": ""
+    "value": "sans"
   },
   {
     "key": "mssm",
-    "value": ""
+    "value": "en"
   },
   {
     "key": "mssf",
-    "value": ""
+    "value": "selon, d'après, suivant"
   },
   {
     "key": "mssso",
-    "value": ""
+    "value": "envers"
   },
   {
     "key": "mssl",
-    "value": ""
+    "value": "depuis"
   },
   {
     "key": "f",
@@ -6341,7 +6341,7 @@
   },
   {
     "key": "fdrm",
-    "value": ""
+    "value": "campagne"
   },
   {
     "key": "fdrf",
@@ -6361,7 +6361,7 @@
   },
   {
     "key": "fdm",
-    "value": ""
+    "value": "lettre, missive, épître"
   },
   {
     "key": "fdmd",
@@ -6645,7 +6645,7 @@
   },
   {
     "key": "frfs",
-    "value": ""
+    "value": "sauvagerie"
   },
   {
     "key": "frso",
@@ -6713,7 +6713,7 @@
   },
   {
     "key": "frs",
-    "value": ""
+    "value": "inexactitude"
   },
   {
     "key": "frsd",
@@ -6781,7 +6781,7 @@
   },
   {
     "key": "fmr",
-    "value": ""
+    "value": "malfaisance"
   },
   {
     "key": "fmrd",
@@ -6905,7 +6905,7 @@
   },
   {
     "key": "fml",
-    "value": ""
+    "value": "facteur, courrier, estafette"
   },
   {
     "key": "fmld",
@@ -7177,7 +7177,7 @@
   },
   {
     "key": "fsor",
-    "value": ""
+    "value": "déisme, théisme, déiste, théiste"
   },
   {
     "key": "fsord",
@@ -7209,7 +7209,7 @@
   },
   {
     "key": "fsom",
-    "value": ""
+    "value": "malveillance, désobligeance, malignité"
   },
   {
     "key": "fsomd",
@@ -7433,7 +7433,7 @@
   },
   {
     "key": "flm",
-    "value": ""
+    "value": "moyen, expédient, ressources"
   },
   {
     "key": "flmd",
@@ -7497,7 +7497,7 @@
   },
   {
     "key": "flso",
-    "value": ""
+    "value": "défaveur, disgrâce, déconsidération"
   },
   {
     "key": "flsod",
@@ -7557,7 +7557,7 @@
   },
   {
     "key": "fls",
-    "value": ""
+    "value": "tendance, disposition, aptitude, propension"
   },
   {
     "key": "flsd",
@@ -7585,7 +7585,7 @@
   },
   {
     "key": "flss",
-    "value": ""
+    "value": "diformité"
   },
   {
     "key": "fs",
@@ -8169,7 +8169,7 @@
   },
   {
     "key": "sorso",
-    "value": "Solrésol"
+    "value": "langue, dialecte, linguistique, philologie, linguiste"
   },
   {
     "key": "sorsod",
@@ -8201,7 +8201,7 @@
   },
   {
     "key": "sorl",
-    "value": ""
+    "value": "dictionnaire, vocabulaire, glossaire"
   },
   {
     "key": "sorld",
@@ -8233,7 +8233,7 @@
   },
   {
     "key": "sors",
-    "value": ""
+    "value": "irrégularité, anomalie"
   },
   {
     "key": "sorsd",
@@ -8269,7 +8269,7 @@
   },
   {
     "key": "somd",
-    "value": ""
+    "value": "diable, Satan, Lucifer, Belzébut, démon, esprit infernal"
   },
   {
     "key": "somdd",
@@ -8493,7 +8493,7 @@
   },
   {
     "key": "sofd",
-    "value": ""
+    "value": "neutralité"
   },
   {
     "key": "sofdd",
@@ -9145,7 +9145,7 @@
   },
   {
     "key": "sosr",
-    "value": ""
+    "value": "joie, gaité, enjouement, allégresse"
   },
   {
     "key": "sosrd",
@@ -9177,7 +9177,7 @@
   },
   {
     "key": "sosm",
-    "value": ""
+    "value": "malheur, calamité, infortune, revers, malheureux"
   },
   {
     "key": "sosmd",
@@ -9369,7 +9369,7 @@
   },
   {
     "key": "ldr",
-    "value": ""
+    "value": "institution, collège, université, instituteur, proviseur"
   },
   {
     "key": "ldrd",
@@ -9401,7 +9401,7 @@
   },
   {
     "key": "ldm",
-    "value": ""
+    "value": "école, écolier, élève, disciple, étudiant"
   },
   {
     "key": "ldmd",
@@ -9465,7 +9465,7 @@
   },
   {
     "key": "ldso",
-    "value": ""
+    "value": "livre, volume, tome, brochure"
   },
   {
     "key": "ldsod",
@@ -9497,7 +9497,7 @@
   },
   {
     "key": "ldl",
-    "value": ""
+    "value": "préface, avant-propos, préambule, introduction"
   },
   {
     "key": "ldld",
@@ -9529,7 +9529,7 @@
   },
   {
     "key": "lds",
-    "value": ""
+    "value": "mot, terme"
   },
   {
     "key": "ldsd",
@@ -9565,7 +9565,7 @@
   },
   {
     "key": "lrd",
-    "value": ""
+    "value": "alphabet, abécédaire, lettres"
   },
   {
     "key": "lrdd",
@@ -9657,7 +9657,7 @@
   },
   {
     "key": "lrf",
-    "value": ""
+    "value": "syllabe, monosyllabe"
   },
   {
     "key": "lrfd",
@@ -9753,7 +9753,7 @@
   },
   {
     "key": "lrs",
-    "value": ""
+    "value": "distraction, inattention, inadvertance, inapplication"
   },
   {
     "key": "lrsd",
@@ -9789,7 +9789,7 @@
   },
   {
     "key": "lmd",
-    "value": ""
+    "value": "temporalité"
   },
   {
     "key": "lmdd",
@@ -9945,7 +9945,7 @@
   },
   {
     "key": "lml",
-    "value": ""
+    "value": "encre, encrier, écritoire"
   },
   {
     "key": "lmld",
@@ -9977,7 +9977,7 @@
   },
   {
     "key": "lms",
-    "value": ""
+    "value": "difficulté"
   },
   {
     "key": "lmsd",
@@ -10013,7 +10013,7 @@
   },
   {
     "key": "lfd",
-    "value": ""
+    "value": "papier, feuille de papier, parchemin"
   },
   {
     "key": "lfdd",
@@ -10077,7 +10077,7 @@
   },
   {
     "key": "lfm",
-    "value": ""
+    "value": "cahier, portefeuille"
   },
   {
     "key": "lfmd",
@@ -10137,7 +10137,7 @@
   },
   {
     "key": "lfso",
-    "value": ""
+    "value": "manuscrit, écrit"
   },
   {
     "key": "lfsod",
@@ -10169,7 +10169,7 @@
   },
   {
     "key": "lfl",
-    "value": ""
+    "value": "texte"
   },
   {
     "key": "lfld",
@@ -10201,7 +10201,7 @@
   },
   {
     "key": "lfs",
-    "value": ""
+    "value": "sujet, thèse, thème"
   },
   {
     "key": "lfsd",
@@ -10237,7 +10237,7 @@
   },
   {
     "key": "lsod",
-    "value": ""
+    "value": "irréligion, impiété"
   },
   {
     "key": "lsodd",
@@ -10301,7 +10301,7 @@
   },
   {
     "key": "lsom",
-    "value": ""
+    "value": "inégalité"
   },
   {
     "key": "lsomd",
@@ -10633,7 +10633,7 @@
   },
   {
     "key": "lsd",
-    "value": ""
+    "value": "point, le point essentiel, la chose principale"
   },
   {
     "key": "lsdd",
@@ -10697,7 +10697,7 @@
   },
   {
     "key": "lsm",
-    "value": ""
+    "value": "peine, déplaisir, trébulation"
   },
   {
     "key": "lsmd",
@@ -10793,7 +10793,7 @@
   },
   {
     "key": "lsl",
-    "value": ""
+    "value": "point, point d'exclamation, d'interrogation, virgule"
   },
   {
     "key": "lsld",
@@ -10921,7 +10921,7 @@
   },
   {
     "key": "sdm",
-    "value": ""
+    "value": "inimité, hostilité, ennemi"
   },
   {
     "key": "sdmd",
@@ -11085,7 +11085,7 @@
   },
   {
     "key": "srd",
-    "value": ""
+    "value": "grammaire, syntaxe, grammairien"
   },
   {
     "key": "srdd",
@@ -11113,7 +11113,7 @@
   },
   {
     "key": "srds",
-    "value": ""
+    "value": "représentant, député, délégué"
   },
   {
     "key": "srr",
@@ -11177,11 +11177,11 @@
   },
   {
     "key": "srf",
-    "value": ""
+    "value": "exactitude, ponctualité, assiduité"
   },
   {
     "key": "srfd",
-    "value": ""
+    "value": "principauté, prince, altesse"
   },
   {
     "key": "srfr",
@@ -11197,19 +11197,19 @@
   },
   {
     "key": "srfso",
-    "value": ""
+    "value": "duc, marquis, comte, vicomte, baron"
   },
   {
     "key": "srfl",
-    "value": ""
+    "value": "chevalerie"
   },
   {
     "key": "srfs",
-    "value": ""
+    "value": "armoiries, blason, écusson"
   },
   {
     "key": "srso",
-    "value": ""
+    "value": "régularité, symétrie"
   },
   {
     "key": "srsod",
@@ -11249,19 +11249,19 @@
   },
   {
     "key": "srlr",
-    "value": ""
+    "value": "corps législatif, chambre des députés, constituante"
   },
   {
     "key": "srlm",
-    "value": ""
+    "value": "conseil d'état"
   },
   {
     "key": "srlf",
-    "value": ""
+    "value": "séance, session"
   },
   {
     "key": "srlso",
-    "value": ""
+    "value": "consulat, ambassade"
   },
   {
     "key": "srll",
@@ -11285,19 +11285,19 @@
   },
   {
     "key": "srsm",
-    "value": ""
+    "value": "esprit de parti, secte"
   },
   {
     "key": "srsf",
-    "value": ""
+    "value": "impérialisme, royalisme, monarchisme, légitimité"
   },
   {
     "key": "srsso",
-    "value": ""
+    "value": "libéralisme"
   },
   {
     "key": "srsl",
-    "value": ""
+    "value": "république, républicanisme"
   },
   {
     "key": "srss",
@@ -11401,7 +11401,7 @@
   },
   {
     "key": "smf",
-    "value": ""
+    "value": "signification, sens"
   },
   {
     "key": "smfd",
@@ -11565,7 +11565,7 @@
   },
   {
     "key": "sfr",
-    "value": ""
+    "value": "faute, défectuosité, manquement"
   },
   {
     "key": "sfrd",
@@ -12077,19 +12077,19 @@
   },
   {
     "key": "slf",
-    "value": ""
+    "value": "incapable de, inapte à"
   },
   {
     "key": "slfd",
-    "value": ""
+    "value": "inhumanité, cruauté, barbarie, férocité"
   },
   {
     "key": "slfr",
-    "value": ""
+    "value": "ministère d'état"
   },
   {
     "key": "slfm",
-    "value": ""
+    "value": "ministère de la justice"
   },
   {
     "key": "slff",
@@ -12097,15 +12097,15 @@
   },
   {
     "key": "slfso",
-    "value": ""
+    "value": "ministère des affaires étrangères"
   },
   {
     "key": "slfl",
-    "value": ""
+    "value": "ministère de l'intérieur"
   },
   {
     "key": "slfs",
-    "value": ""
+    "value": "ministère des finances"
   },
   {
     "key": "slso",
@@ -12113,19 +12113,19 @@
   },
   {
     "key": "slsod",
-    "value": ""
+    "value": "ministère de la guerre"
   },
   {
     "key": "slsor",
-    "value": ""
+    "value": "ministère de la marine et des colonies"
   },
   {
     "key": "slsom",
-    "value": ""
+    "value": "ministère de l'instruction"
   },
   {
     "key": "slsof",
-    "value": ""
+    "value": "ministère de l'agriculture"
   },
   {
     "key": "slsoso",
@@ -12137,7 +12137,7 @@
   },
   {
     "key": "slsos",
-    "value": ""
+    "value": "ministère des beaux-arts"
   },
   {
     "key": "sll",
@@ -12169,11 +12169,11 @@
   },
   {
     "key": "sls",
-    "value": ""
+    "value": "médaille"
   },
   {
     "key": "slsd",
-    "value": ""
+    "value": "ordre (de la légion d'honneur)"
   },
   {
     "key": "slsr",
