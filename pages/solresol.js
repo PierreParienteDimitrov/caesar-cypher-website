@@ -1,12 +1,16 @@
 import { useState, useEffect } from 'react';
 import SolCypher from '../scripts/solresol';
+import { translation } from '../scripts/translation';
 
 export default function SolReSol() {
 	const [userInput, setUserInput] = useState([]);
 	const [userSearch, setUserSearch] = useState('');
 	const [currentIndex, setCurrentIndex] = useState(0);
-
+	const [counter, setCounter] = useState(0);
 	const [output, setOutput] = useState();
+	const [result, setResult] = useState([]);
+	// console.log(counter);
+
 	// console.log(userInput);
 
 	const submit = (e) => {
@@ -16,13 +20,33 @@ export default function SolReSol() {
 		setUserSearch(userInputArr);
 	};
 
+	const clear = () => {
+		setUserInput([]);
+		setUserSearch('');
+		setCurrentIndex(0);
+		setCounter(0);
+		setOutput();
+		setResult([]);
+	};
+
+	const saveResult = (initialIndex, key, value) => {
+		const obj = { key, value };
+		console.log(initialIndex);
+
+		setCounter(initialIndex + 1);
+
+		setResult([...result, obj]);
+		setOutput(null);
+		setCurrentIndex(initialIndex + 1);
+	};
+
 	useEffect(() => {
 		// console.log(userSearch);
 		// console.log(currentIndex);
 		const value = SolCypher(userSearch, currentIndex);
 		// console.log(value);
 		setOutput(value);
-	}, [userSearch]);
+	}, [userSearch, currentIndex]);
 
 	return (
 		<div className='p-4 md:w-10/12 md:m-auto'>
@@ -51,17 +75,52 @@ export default function SolReSol() {
 
 					<input type='submit' placeholder='submit' className='cursor-pointer' />
 				</form>
+				<br />
+
+				<button onClick={clear} className='text-center bg-gray-100 cursor-pointer'>
+					Clear
+				</button>
 			</div>
 
+			{/* Result */}
+			<div className='mb-10'>
+				<h3>Mots retenus</h3>
+				{result &&
+					result.map((el, index) => {
+						const { key, value } = el;
+
+						return (
+							<div key={index} className='mb-6'>
+								<p>
+									<span className='text-gray-500'> Key {index + 1}: </span>
+									<strong>{key}</strong>
+								</p>
+								<p>
+									<span className='text-gray-500'> Mot {index + 1}: </span>
+									<strong>{value}</strong>
+								</p>
+							</div>
+						);
+					})}
+			</div>
+
+			{/* Translation */}
 			<div>
 				<h3>Traduction</h3>
 				{output &&
 					output.map((el, index) => {
-						console.log(el);
+						const { key, value } = el;
+
+						const initialIndex = index + counter;
+						console.log(initialIndex);
+
 						return (
 							<div className='p-6 border-b' key={index}>
-								<p>{el.key}</p>
-								<p>{el.value}</p>
+								<p>{key}</p>
+								<p>{value}</p>
+								<button onClick={() => saveResult(initialIndex, key, value)}>
+									Save
+								</button>
 							</div>
 						);
 					})}

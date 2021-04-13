@@ -7,7 +7,7 @@ const SolCypher = (userInput, currentIndex) => {
 
 	const spliceIndex = currentIndex;
 
-	console.log(spliceIndex);
+	// console.log(spliceIndex);
 
 	// Translate user input for dictionnary formatting
 	const encodeInput = (userInput) => {
@@ -67,15 +67,16 @@ const SolCypher = (userInput, currentIndex) => {
 
 		let dictionnaryArr = [...dictionnary];
 
-		duplicateArr.map((arr) => {
+		duplicateArr.map((arr, index) => {
 			const word = arr.toString('').split(',').join('');
-			console.log(word);
+			// console.log(word);
+
 			dictionnaryArr.filter((el) => {
 				const { key, value } = el;
 				// console.log(el);
 
 				if (key === word) {
-					const translation = { key: key, value: value };
+					const translation = { index, key, value };
 					// console.log(translation);
 
 					translationArr.push(translation);
@@ -85,11 +86,12 @@ const SolCypher = (userInput, currentIndex) => {
 			});
 		});
 
-		console.log(translationArr);
+		// console.log(translationArr);
 		return translationArr;
 	};
 
 	encodeInput(userInput);
+	// console.log(translationArr);
 	return translationArr;
 };
 
