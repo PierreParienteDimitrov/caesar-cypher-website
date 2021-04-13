@@ -116,10 +116,14 @@ export default function SolReSol() {
 
 						return (
 							<div className='p-6 border-b' key={index}>
-								<p>{key}</p>
-								<p>{value}</p>
-								<button onClick={() => saveResult(initialIndex, key, value)}>
-									Save
+								<p>Note: {key}</p>
+								<h3>{value}</h3>
+								<br />
+								<button
+									onClick={() => saveResult(initialIndex, key, value)}
+									className='border p-2'
+								>
+									Choisir ce mot
 								</button>
 							</div>
 						);
